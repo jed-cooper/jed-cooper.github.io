@@ -3,21 +3,35 @@ html {
     background-color: rgb(33, 62, 59);
     /*background-color: rgb(7, 15, 43);*/
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 h1 {
     color:rgb(166, 175, 243);
+    text-shadow:
+        3px 3px 0 #000,
+        -3px 3px 0 #000,
+        -3px -3px 0 #000,
+        3px -3px 0 #000;
 }
 
 h2 {
-    color: rgb(85, 39, 184);
-    font-stretch: semi-expanded;
+    color: #fff;
+    text-shadow:
+        3px 3px 0 #000,
+        -3px 3px 0 #000,
+        -3px -3px 0 #000,
+        3px -3px 0 #000;
 }
 
 h3 {
     /*color: rgb(205, 102, 136);*/
     color: rgb(87, 197, 182);
     /*color: rgb(27, 26, 85);*/
+}
+
+h4 {
+    color: rgb(166, 246, 241);
 }
 
 h5 {
