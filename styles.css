@@ -1,77 +1,89 @@
+body {
+    background-color: #faf9f6;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 50px 50px 0 50px;
+    min-height: 95vh;
+}
 
-html {
-    background-color: rgb(33, 62, 59);
-    /*background-color: rgb(7, 15, 43);*/
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+footer {
+    text-align: right;
+    color: midnightblue;
 }
 
 h1 {
-    color:rgb(166, 175, 243);
-    text-shadow:
-        3px 3px 0 #000,
-        -3px 3px 0 #000,
-        -3px -3px 0 #000,
-        3px -3px 0 #000;
+    font-size: 4rem;
+    margin: 0 0 0 0;
 }
 
 h2 {
-    color: #fff;
-    text-shadow:
-        3px 3px 0 #000,
-        -3px 3px 0 #000,
-        -3px -3px 0 #000,
-        3px -3px 0 #000;
-}
+    margin: 0 0 0 0;
+}   
 
 h3 {
-    /*color: rgb(205, 102, 136);*/
-    color: rgb(87, 197, 182);
-    /*color: rgb(27, 26, 85);*/
-}
+    margin: 0 0 0 0;
+}   
 
 h4 {
-    color: rgb(166, 246, 241);
+    margin: 0 0 0 0;
+}   
+
+ /* ----------------------------- */
+
+.card {
+    width: 45%;
 }
 
-h5 {
-    color: rgb(166, 246, 241);
+.header2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
 }
 
-.data-heading1 {
-    color:rgb(30, 148, 134);
+.header3 {
+    margin-bottom: 10px;
 }
 
-.data-heading2 {
-    color:rgb(77, 197, 191);
+.left {
+    float: left;
 }
 
-.h1-title {
-    color: rgb(247, 92, 236);
+.main {
+    flex: 1;
 }
 
-.other-heading1 {
-    color: rgba(127, 255, 229, 0.87);
+.profile-img {
+    clip-path: circle();
+    height: 300px;
+    width: 300px;
+    margin: 20px 20px 20px 0;
 }
 
-.other-heading2 {
-    color: rgba(14, 138, 113, 0.87);
-}
-
-.profile-heading {
-    color: rgb(6, 9, 9);
+.profile-gif {
+    height: 20px;
+    width: 30px;
 }
 
 .profile-text {
     color: rgb(30, 207, 181);
+    margin: 0 0 0 25px;
 }
 
-.profile-pic {
-    clip-path: circle();
+.project-header {
+    margin-top: 5px;
 }
 
-.profile-gif2 {
-    height: 20;
-    width: 30;
+.project-text {
+    color: rgb(17, 145, 126);
+    margin: 0 0 0 25px;
 }
 
+.tile-image {
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.right {
+    float: right;
+}

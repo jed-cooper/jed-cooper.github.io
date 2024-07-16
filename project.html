@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Porkfolio</title>
+        <link rel="stylesheet" href="styles.css"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="main">
+            <a href="index.html"><p>BACK</p></a>#
+
+            <h1>DATA ANALYSIS - PROJECT 1</h1>
+
+            <h3>SUMMARY</h3>
+            <p class="project-text">For this analysis project I chose to explore the effect of audio streaming services on the music industry, <br>
+                specifically their effect on the sales figures of physical albums.<br><br>
+                The hypothesis I chose to test is: ‘streaming services have led to a decline in physical album sales.’<br><br></p>
+            <img src="img/sales_1994-2019.png" height=350 width=500/><br>
+            <img src="img/value_1994-2019.png" height=350 width=500/>
+
+            <h3>CONCLUSIONS</h3>
+            <p class="project-text">An examination of the data infers that the widespread implementation of streaming <br>
+                services, from the period 2004-2005, led to a sharp decline in the sales of physical albums.<br><br>
+    
+                Interpretation of the data that preceeds this decline (the period 2003-2004) indicates there was a recovery <br> 
+                in the sales of physical albums, caused by an increase in the number of CD purchases made (over 20 million extra units sold that year).<br><br> 
+                
+                Remarkably, from 2007 onwards the data shows a steady increase in the sales of LPs/EPs pressed to vinyl, with sales continuing to grow <br>
+                up to 2019. Furthermore, analysis of the period 2008-2019 shows the rate of decline in generated revenue from physical sales has slowed down dramatically.<br>
+                <br><br></p>
+
+            <h3>CHALLENGES</h3>
+            <p class="project-text">Here I've highlighted some of the challenges encountered during the processing/cleaning/visualisation of the data.<br><br>
+
+                <u>Filtering:</u><br>
+                In order to simplify the data and make sense of overall trends, it was necessary to drop columns of data from the original dataframe. I endevour as a software developer <br>
+                to write succinct code, and I had intended to use the df.drop() function to remove all unnecessary columns using one line of code. For whatever reason <br>
+                (I believe because of operator syntax) I could not get this function to operate on the dataset.<br><br>
+                
+                I did find a work-around using the df.pop() function, which is a simple procedure but meant putting the dataframe through the same <br>
+                function multiple times (once for each column removed), which increased the time of development and perhaps the processing power needed to clean the data.<br><br>
+                
+                <u>Indexing:</u><br>
+                Prior to exporting the dataset before the visualisation stage, I needed to filter data by year to fit the parameters of the hypothesis (1994-2019). Up until this point, <br>
+                the column denoting ‘Year’ and its data had not been operable as for some reason the program didn’t recognise the column ‘Year’, even though when I listed the columns <br>
+                it was clearly displayed in the console. <br><br>
+                
+                I began troubleshooting by delimiting residual whitespace that may have been present, I tried reassigning the name of the column, and when that didn’t work I tried <br>
+                exporting the file to excel, cleaning the data in the spreadsheet and re-exporting the file. This only worked the first time; when I tried it with the other dataframes, <br>
+                it never worked again. Anyway after a couple of days of stressing about it, the program (for some esoteric reason..) began to recognise the column. Hooray!<br><br>
+                
+                <u>X/Y-axis labelling</u><br>
+                
+                Using matplotlib to test out different visualisations was definitely my favourite part of the project, as it allowed me to finally see the hard-earned fruits of my data-scrubbing. <br>
+                I had originally intended (and tried) to use the ‘Year’ column as the index for each dataframe, but there were prior issues and upon creating the line graph the labels on the <br>
+                x-axis became skewed and overlapped, so I had to become familiar with the the plt.xtick() function of matplotlib. <br><br>
+                
+                To get the data displayed properly and fit the final graphic, I chose to pass an array of string values for each year to the xtick function, which placed the strings at <br>
+                consistent intervals along the x-axis, and worked quite nicely: plt.xticks(range(len(years)), years, size='small').<br><br></p>
+
+            <h3>TECHNIQUES</h3>
+            <p class="project-text">For this personal project I used a few basic techniques to prepare the data for visualisations and extract value from the dataset.<br>
+                This included removing unwanted values, filtering through values in each column/row, and summarising sales data. <br>
+                The tools I used to process the dataset was Python, Pandas, Matplotlib and Numpy libraries.<br><br>
+    
+                - removing missing values: df.dropna(subset=['value'], inplace=True)<br>
+                - filtering column, based on value: df2 = df[(df['Metric']=='value') & (df['year'] >= 1994)]<br>
+                - filtering rows, based on string content: df_drop = df[(df['Format'].str.contains('CD|LP/EP|Cassette') == True)]<br>
+                - summarise values / round to 1 decimal place: df2 = df[['year', 'value']].set_index('year').groupby('year').sum()<br><br></p>
+    
+            <h3>EXTENSIONS</h3>
+            <p class="project-text">Given a project extension for undertaking deeper analysis, I would investigate data-based / statistical observations for the root causes of: <br>
+                - the recovery of CD sales over the period 2003-2004 <br>
+                - the resurgence in vinyl purchasing since 2007<br>
+                - the effects that streaming services had on musicians, independent record labels and large-scale corporations.<br><br></p>
+
+            <h3>SOURCES</h3>
+            <p class="project-text">The dataset used for this project was acquired through Kaggle datasets, downloaded as a .csv file:<br>
+                <u>https://www.kaggle.com/datasets/andrewmvd/music-sales</u><br><br>
+    |
+                These sources were used for further exploration into streaming services and global revenue of the music industry.<br>
+                <u>https://mixdownmag.com.au/features/the-history-of-music-streaming/</u><br>
+                <u>https://evidencehub.net/chart/global-recorded-music-industry-revenues-2001-2019-169.0</u><br><br>
+            </p>
+        </div>
+    </body>
+
+    <footer>
+        <p>© 2024 Jed Cooper</p>
+    </footer>
+</html>
+ 
