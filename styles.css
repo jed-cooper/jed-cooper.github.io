@@ -31,10 +31,6 @@ h4 {
 
  /* ----------------------------- */
 
-.card {
-    width: 45%;
-}
-
 .header2 {
     font-size: 3rem;
     margin-bottom: 20px;
@@ -86,4 +82,55 @@ h4 {
 
 .right {
     float: right;
+}
+
+/* Default styling for images, stacking them on small screens */
+.image-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    margin: 10px 10px 10px 10px;
+}
+
+/* Media query for larger screens, displaying images side by side */
+@media (min-width: 768px) {
+    .image-container {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .image-container img {
+        width: 50%; /* Adjust the width percentage based on the number of images */
+        margin-bottom: 0;
+    }
+}
+
+/* Default styling for cards, stacking them on small screens */
+.card-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Space between stacked cards */
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Media query for larger screens, displaying cards side by side */
+@media (min-width: 768px) {
+    .card-container {
+        flex-direction: row;
+        gap: 20px; /* Space between side by side cards */
+    }
+
+    .card {
+        width: 50%; /* Adjust the width percentage based on the number of cards */
+    }
 }
