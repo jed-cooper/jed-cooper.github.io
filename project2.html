@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Porkfolio</title>
+        <link rel="stylesheet" href="styles.css"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="main">
+            <a href="index.html"><p>BACK</p></a>
+            <h2 class="header2">DATA ANALYSIS<br>PROJECT 2</h2>
+
+            <h3>SUMMARY</h3>
+            <p class="project-text">
+                Glaciers and ice sheets play an important role in the ecosystems of our planet, directly effecting changes in sea level whilst reflecting solar radiation away from the earth.
+                The retreat and permanent loss of large glaciers over the coming century, and the subsequent rise in sea level that follows, could potentially impact human populations living in coastal regions.<br><br>
+                
+                This data project was designed to illucidate the relationship between annual changes in glacial mass balance and land surface temperature (both global and regional), offering anyone interested the chance to examine the data for themselves.<br><br>
+
+	            Glacier mass balance data was selected based on the availability and completeness of records, from which the observational data of nine regions were extracted for analysis: 
+	            Antarctica, Austria, Canada, Chile, Greenland, Iceland, Nepal, Norway and the United States. The data was then supplemented with records of regional temperature fluctuations 
+                in order to find any trends or correlations.<br><br>
+
+                All data visualitions have been included at the end of the report.<br><br>
+            </p>
+            <p></p>
+
+            <h3>CONCLUSIONS</h3>
+            <p class="project-text">Strong negative correlation found between a global increase in land surface temperature and a global decrease in glacial mass balance, with results that are statistically insignificant (p-value=1.00).<br><br>
+
+                Negative correlation found between regional increases in land surface temperature & regional decreases in glacial mass balance, with results that are <b>statistically significant</b> (p-value=0.03 (Iceland), p-value=0.005 (United States)).<br><br>
+            </p>
+            
+            <div class="image-container">
+                <img src="img/coeff_pval.png" height=75 width=600/><br>
+                <p></p>
+            </div>
+            <p></p>
+
+            <h3>CHALLENGES</h3>
+            <p class="project-text">
+                During the project a number of obstacles emerged, which were time-consuming and caused the project to run on longer than scheduled.<br><br>
+
+                <u>Sourcing the most recent and extensive data sets</u>:<br>
+                - the first glacial datasets used were obtained from the Randolf Glacier Inventory (RGI), the World Glacier Inventory (WGI) and the Global Land Ice Monitoring System (GLIMS).<br>
+                - the data within these sets was outdated and inconsistent in their annual measurements of glacial area and mass balance.<br>
+                - this forced me to seek out data observations from the World Glacier Monitoring Service (WGMS) which was more up-to-date and comprehensive. <br><br>
+                
+                Having to backtrack helped me acknowledge the time and effort data engineers put into seeking suitable datasets, as well as the time they put into understanding which data is usable. <br><br>
+
+                <u>Selecting (and omitting) relevant data</u>:<br>
+                - annual glacier measurements for each region began in differing years (some as far back as 1946), which made comparisons between each region over specific time periods difficult.<br>
+                - missing (NaN) records also made accurately calculating the linear regression across larger time scales problematic, given that missing values would have to be estimated or randomised.<br>
+                - since temperature records from the IMF dataset began in 1960, glacial observations prior to 1960 were omitted from further analysis.<br><br>
+
+                The high number of omissions in the data strengthened my conviction for rigorous data collection across all areas of environmental science, both globally and regionally.<br><br>
+
+                <u>Calculating p-values</u>:<br>
+                - during calculations, functions were returning abnormal p-values (between 1.00 and 6.00), which were rounded down to 1.00 (meaning 'statistically insignificant'). <br>
+                - it wasn't until the p-values started falling below 1.00 that my statistical analysis of the data felt somewhat accurate.<br>
+                - fueled by the lack of belief in the statistical methods used, I learned that the p-value is affected by a number of variables including sample size, data collection methods, modelling and one-sided/two-sided tests.<br><br>
+                
+                This taught me to remain objective when regarding data and to follow analytical practices by the book, even if the results don't make any sense at first.<br><br>
+            </p>
+            <p></p>
+            
+
+            <h3>TECHNIQUES</h3>
+            <p class="project-text">
+                Below is an overview of the methods used to acquire, prepare, analyse and visualise the data.<br>
+                (the outline is very brief due to the urge to undertake the next project)<br><br>
+
+                <u>Data Acquisition</u>:<br>
+                - .csv files<br>
+                - scientific publications & journals<br><br>
+
+                <u>Data Preparation</u>:<br>
+                - remove columns (df.pop)<br> 
+                - query columns (df[df.year > 1960])<br>
+                - melt and pivot table (df.melt)(df.pivot_table)<br>
+                - join dataframes (pd.concat)<br>
+                - mean (df.mean)<br>
+                - export .csv file (df.to_csv).<br><br>
+
+                <u>Data Analytics</u>:<br>
+                - linear regression (stats.linregress)<br>
+                - coefficient of correlation (stats.pearsonr)<br> 
+                - p-value (stats.pearsonr)<br>
+                - interpolation (df.interpolate)<br><br>
+
+                <u>Data Visualisation</u>:<br>
+                - twin x-axis (ax.twinx)<br>
+                - query dataframe (df[df.year > 1960])<br>
+                - gridlines (ax.grid)
+                - x-ticks (plt.xticks)<br><br>
+
+            </p>
+            <p></p>
+
+            <h3>EXTENSIONS</h3>
+            <p class="project-text">
+                If I were to revise the project, I would extend it to include:<br>
+                - the direct impact of glacial mass balance on global/regional sea levels.<br>
+                - an increased sample size to form a more comprehensive data set, including glaciers from all available regions and sources.<br>
+                - interactive visualisations, so that users can interact with data from all regions that interests them.<br>
+            </p>
+            <p></p>
+
+            <h3>SOURCES</h3>
+            <p class="project-text">
+                WGMS: <u>https://wgms.ch/</u><br>
+                IMF: <u>https://climatedata.imf.org/datasets/4063314923d74187be9596f10d034914/explore?showTable=true</u><br><br>
+
+    
+                Sources used for analysis prior to finding more compatible data:<br>
+                RGI: <u>https://nsidc.org/data/nsidc-0770/versions/7#anchor-data-access-tools</u><br>
+                WGI: <u>https://nsidc.org/data/glacier_inventory/browse.html</u><br>
+                GLIMS: <u>http://glims.colorado.edu/glacierdata/</u><br>
+                Oerlermans: <u>https://www.researchgate.net/publication/7988494_Extracting_a_Climate_Signal_from_169_Glacier_Records</u><br><br>
+
+            </p>
+            <p></p>
+
+            <!-- visuals -->
+            <h2>VISUALISATIONS</h2>
+            
+            <!-- global -->
+            <p><b>Global</b></p>
+            <div class="image-container">
+                <img src="img/temp_vs_mb.png" height=350 width=450/><br>
+                <img src="img/MB_ALL_1976.png" height=350 width=450/><br>
+            </div>
+            <div class="image-container">
+                <img src="img/MBC_ALL.png" height=350 width=450/><br>
+                <img src="img/STC_ALL.png" height=350 width=450/><br>
+            </div>
+
+            <!-- regional -->
+            <p><b>Antarctica</b></p>
+            <div class="image-container">
+                <img src="img/temp_vs_mb_AQ.png" height=350 width=450/><br>
+            </div>
+            <div class="image-container">
+                <img src="img/MBC_AQ.png" height=350 width=450/><br>
+                <img src="img/STC_AQ.png" height=350 width=450/><br>
+            </div>
+          
+            <p><b>Austria</b></p>
+            <div class="image-container">
+                <img src="img/temp_vs_mb_AT.png" height=350 width=450/><br>
+            </div>
+            <div class="image-container">
+                <img src="img/MBC_AT.png" height=350 width=450/><br>
+                <img src="img/STC_AT.png" height=350 width=450/><br>
+            </div>
+          
+            <p><b>Canada</b></p>
+            <div class="image-container">
+                <img src="img/temp_vs_mb_CA.png" height=350 width=450/><br>
+            </div>
+            <div class="image-container">
+                <img src="img/MBC_CA.png" height=350 width=450/><br>
+                <img src="img/STC_CA.png" height=350 width=450/><br>
+            </div>
+          
+            <p><b>Chile</b></p>
+            <div class="image-container">
+                <img src="img/temp_vs_mb_CL.png" height=350 width=450/><br>
+            </div>
+            <div class="image-container">
+                <img src="img/MBC_CL.png" height=350 width=450/><br>
+                <img src="img/STC_CL.png" height=350 width=450/><br>
+            </div>
+
+            <p><b>Greenland</b></p>
+            <div class="image-container">
+                <img src="img/temp_vs_mb_GL.png" height=350 width=450/><br>
+            </div>
+            <div class="image-container">
+                <img src="img/MBC_GL.png" height=350 width=450/><br>
+                <img src="img/STC_GL.png" height=350 width=450/><br>
+            </div>
+
+            <p><b>Iceland</b></p>
+            <div class="image-container">
+                <img src="img/temp_vs_mb_IS.png" height=350 width=450/><br>
+            </div>
+            <div class="image-container">
+                <img src="img/MBC_IS.png" height=350 width=450/><br>
+                <img src="img/STC_IS.png" height=350 width=450/><br>
+            </div>
+
+            <p><b>Nepal</b></p>
+            <div class="image-container">
+                <img src="img/temp_vs_mb_NP.png" height=350 width=450/><br>
+            </div>
+            <div class="image-container">
+                <img src="img/MBC_NP.png" height=350 width=450/><br>
+                <img src="img/STC_NP.png" height=350 width=450/><br>
+            </div>
+
+            <p><b>Norway</b></p>
+            <div class="image-container">
+                <img src="img/temp_vs_mb_NO.png" height=350 width=450/><br>
+            </div>
+            <div class="image-container">
+                <img src="img/MBC_NO.png" height=350 width=450/><br>
+                <img src="img/STC_NO.png" height=350 width=450/><br>
+            </div>
+
+            <p><b>United States</b></p>
+            <div class="image-container">
+                <img src="img/temp_vs_mb_US.png" height=350 width=450/><br>
+            </div>
+            <div class="image-container">
+                <img src="img/MBC_US.png" height=350 width=450/><br>
+                <img src="img/STC_US.png" height=350 width=450/><br>
+            </div>
+            <a href="index.html"><p>BACK</p></a>
+        </div>
+    </body>
+
+    <footer>
+        <p>© 2024 Jed Cooper</p>
+    </footer>
+</html>
+ 
