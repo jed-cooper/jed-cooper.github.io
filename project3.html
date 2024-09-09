@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>prawnfolio</title>
+        <link rel="stylesheet" href="styles.css"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="main">
+            <a href="index.html"><p>BACK</p></a>
+            <h2 class="header2">DATA ANALYSIS<br>PROJECT 3</h2>
+
+            <h3>SUMMARY</h3>
+            <p class="project-text">                
+                This project was an attempt to create an interactive map of all recorded landslides occurring in India between 2007 and 2016.<br><br>
+
+                The prototype was designed using geopandas and folium, with visualisations built using data from NASA's Global Landslide Catalog and shapefiles from Indian Remote Sensing.<br><br>
+                
+                Each event can be accessed to display its corresponding data (date, location, fatality/injury count, trigger and source), with the radius of each marker proportional to the severity of the incident.<br><br>
+
+                Please follow <a href="ls.html">this link</a> to view the visualisation.<br><br>
+            </p>
+            <p></p>
+
+            <h3>CHALLENGES</h3>
+            <p class="project-text">
+                <u>Visualising rainfall time-series data from satellite readings</u>:<br>
+                - plotting rainfall time-series data against landslide events was useful in assessing rainfall activity before/during each event.<br>
+                - the plot generated from the data was convoluted and unprofessional, due to the dataframe containing rainfall measurements taken for multiple latitude/longitude locations on the same date.<br>
+                - to fix this, a new dataset could be produced that approximates rainfall measurements from satellite readings with those of local weather stations situated closest to event locations.<br><br>
+
+                <u>Overlaying a time-series of weather conditions using folium</u>:<br>
+                - mapping rainfall data to landslide events gives the visualisation more utility, allowing people to see the dispersion and intensity of rainfall over areas with a high risk of landslides.<br>
+                - the rainfall observations acquired from satellite data were measured at 0.25 x 0.25 degree intervals, and when plotted the visualised data became a uniforn distribution inferring only approximate rainfall levels.<br>
+                - this could be fixed by verifying rainfall levels with local weather stations, or by averaging rainfall data from the four grid coordinates surrounding each landslide event.<br><br>
+            </p>
+            <p></p>
+            
+
+            <h3>TECHNIQUES</h3>
+            <p class="project-text">
+                Below are some of the techniques used to prepare and visualise the data.<br><br>
+
+                <u>geopandas</u>:<br>
+                - create geometry using geodetic coordinate system (gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(lat, lon), crs="EPSG:4326"))<br>
+                - plot shapefile (gdf.plot(ax=map.plot()))<br><br>
+
+                <u>matplotlib</u>:<br>
+                - plot vertical lines for events (for date in df['date']: plt.axvline(date))<br>
+                - reformat y-axis labels (yticks(np.arange(0, 600, step=50)))<br><br>
+
+                <u>folium</u>:<br>
+                - apply severity measure to radius (severity = (fatality+injury) / (fatality.sum()+injury.sum()) * 100)<br>
+                - format popups using html (popup=folium.Popup(html))<br><br>
+            </p>
+            <p></p>
+
+            <h3>EXTENSIONS</h3>
+            <p class="project-text">
+                The project could be extended to include:<br>
+                - time-series visualisations of local weather patterns.<br>
+                - a larger dataset that incorporates up-to-date landslide events.<br>
+                - marker shapes/colours allocated to each type of landslide trigger.<br>
+            </p>
+            <p></p>
+
+            <h3>SOURCES</h3>
+            <p class="project-text">
+                NASA/GLC: <u>https://data.nasa.gov/Earth-Science/Global-Landslide-Catalog-Not-updated-/h9d8-neg4</u><br>
+                IRS: <u>http://www.indiaremotesensing.com/2017/01/download-india-shapefile-with-official.html</u><br>
+                IMD: <u>https://www.imdpune.gov.in/cmpg/Griddata/Rainfall_25_NetCDF.html</u><br><br>
+            </p>
+            <p></p>
+
+             <!-- visuals -->
+             <h2>VISUALISATIONS</h2>
+            
+             <!-- global -->
+             <p><b>Landslides Occurrences in India (2006-2016)</b></p>
+             <div class="image-container">
+                 <img src="img/ls_in.png" height=350 width=450/><br>
+             </div>
+             <p><b>Rainfall vs Landslides Occurrences in India (2016)</b></p>
+             <div class="image-container">
+                 <img src="img/rf_ls_ts_2016.png" height=350 width=450/><br>
+             </div>
+            <a href="index.html"><p>BACK</p></a>
+        </div>
+    </body>
+
+    <footer>
+        <p>© 2024 Jed Cooper</p>
+    </footer>
+</html>
+ 
