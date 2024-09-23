@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>prawnfolio</title>
+        <link rel="stylesheet" href="styles.css"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="main">
+            <a href="index.html"><p>BACK</p></a>
+            <h2 class="header2">DATA ANALYSIS<br>PROJECT 1</h2>
+
+            <h3>SUMMARY</h3>
+            <p class="project-text">                
+                This data project explores the effectiveness and safety of a new drug used to treat type-2 diabetes. The data is derived from a Phase 3 clinical trial conducted over a 24-month period, which includes data from 200 participants.<br><br>
+
+                <u>Key Insights</u>:<br>
+                1. T-test indicates a significant difference in HbA1c blood concentration between the two groups.<br>
+                2. Both the placebo and treatment groups experience significant reductions in HbA1c over time.<br>
+                3. The treatment group shows significantly greater decreases in HbA1c at each time point compared to the placebo group (the treatment group experiences an additional 1.686-unit reduction in HbA1c at 24 months).<br>
+                4. Chi-square test indicates no significant difference in the rate of adverse events experienced by either group.<br><br>
+            </p>
+            <p></p>
+            
+            <h3>TECHNIQUES</h3>
+            <p class="project-text">
+
+                <u>matplotlib</u>:<br>
+                - generate a boxplot comparing final HbA1c levels between groups (ax.boxplot)<br>
+                - assign colour and fill boxes (set_facecolor(color))<br><br>
+
+                <u>statsmodels</u>:<br>
+                - build module to run repeated measures ANOVA.<br>
+                - define the mixed-effects model (mixedlm("hba1c ~ time * group", data=df, groups=df['subject']))<br>
+                - extract model parameters (params_df=pd.DataFrame({"Coef.": result.params}))<br><br>
+
+                <u>scipy</u>:<br>
+                - create a chi-square module for testing adverse event rates between groups.<br>
+                - save results to text file (file.write(result.summary().as_text()))<br><br>
+            </p>
+            <p></p>
+
+            <h3>EXTENSIONS</h3>
+            <p class="project-text">
+                The project could be extended to include:<br>
+                - an analysis of the effectiveness of the drug based on age group and gender.<br>
+                - an examination of the correlation between HbA1c reduction and duration of diabetes.<br><br>
+            </p>
+            <p></p>
+
+            <h3>SOURCES</h3>
+            <p class="project-text">
+                <u>https://www.degruyter.com/document/doi/10.1515/cclm-2012-0548/html</u><br>
+                <u>https://emed.ie/Metabolic/HBA1C.php</u><br><br>
+            </p>
+            <p></p>
+
+            <h3>VISUALISATIONS</h3>
+            <p><u>Number of Adverse Events</u>:<br>
+                <div class="image-container">
+                    <img src="img/project 1/event_bar.png" height=350 width=450/><br>
+                </div>
+            </p>
+
+            <p><u>HbA1c Levels vs. Time</u>:<br>
+                <div class="image-container">
+                    <img src="img/project 1/hba1c_time.png" height=350 width=450/><br>
+                </div>
+            </p>
+
+            <p><u>Final HbA1c Levels</u>:<br>
+                <div class="image-container">
+                    <img src="img/project 1/hba1c_final.png" height=350 width=450/><br>
+                </div>
+            </p>
+            <p></p>
+            <a href="index.html"><p>BACK</p></a>
+        </div>
+    </body>
+
+    <footer>
+        <p>© 2024 Jed Cooper</p>
+    </footer>
+</html>
+ 

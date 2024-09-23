@@ -16,64 +16,51 @@
 
             <h3>SUMMARY</h3>
             <p class="project-text">
+                This data project was designed to illucidate the relationship between annual changes in glacial mass balance and land surface temperature (both global and regional), offering anyone interested the chance to examine the data for themselves.<br><br>
+
                 Glaciers and ice sheets play an important role in the ecosystems of our planet, directly effecting changes in sea level whilst reflecting solar radiation away from the earth.
                 The retreat and permanent loss of large glaciers over the coming century, and the subsequent rise in sea level that follows, could potentially impact human populations living in coastal regions.<br><br>
-                
-                This data project was designed to illucidate the relationship between annual changes in glacial mass balance and land surface temperature (both global and regional), offering anyone interested the chance to examine the data for themselves.<br><br>
 
 	            Glacier mass balance data was selected based on the availability and completeness of records, from which the observational data of nine regions were extracted for analysis: 
 	            Antarctica, Austria, Canada, Chile, Greenland, Iceland, Nepal, Norway and the United States. The data was then supplemented with records of regional temperature fluctuations 
                 in order to find any trends or correlations.<br><br>
 
-                All data visualitions have been included at the end of the report.<br><br>
-            </p>
-            <p></p>
-
-            <h3>CONCLUSIONS</h3>
-            <p class="project-text">Strong negative correlation found between a global increase in land surface temperature and a global decrease in glacial mass balance, with results that are statistically insignificant (p-value=1.00).<br><br>
-
-                Negative correlation found between regional increases in land surface temperature & regional decreases in glacial mass balance, with results that are <b>statistically significant</b> (p-value=0.03 (Iceland), p-value=0.005 (United States)).<br><br>
+                <u>Key Insights</u>:<br>
+                1. Strong negative correlation found between a global increase in land surface temperature and a global decrease in glacial mass balance, but with statistically insignificant results (p-value=1.00).<br>
+                2. Negative correlation found between regional increases in land surface temperature & regional decreases in glacial mass balance, with <b>statistically significant</b> results (p-value=0.03, Iceland) (p-value=0.005, United States).<br><br>
             </p>
             
             <div class="image-container">
-                <img src="img/coeff_pval.png" height=75 width=600/><br>
+                <img src="img/project 2/coeff_pval.png" height=75 width=600/><br>
                 <p></p>
             </div>
             <p></p>
 
             <h3>CHALLENGES</h3>
             <p class="project-text">
-                During the project a number of obstacles emerged, which were time-consuming and caused the project to run on longer than scheduled.<br><br>
+                <u>Sourcing the most recent and extensive datasets</u>:<br>
+                - the first glacial datasets obtained came from the Randolf Glacier Inventory (RGI), the World Glacier Inventory (WGI) and the Global Land Ice Monitoring System (GLIMS).<br>
+                - the data within these sets tended to be inconsistent and outdated in their annual measurements of glacial area / mass balance, due to glacial frontiers being redefined over the years.<br>
+                - this forced me to seek out data observations from the World Glacier Monitoring Service (WGMS), which was more up-to-date and comprehensive.<br>
+                - having to default to new data helped me acknowledge the time and effort data analysts put into seeking applicable datasets in the acquisition stage.<br><br>
 
-                <u>Sourcing the most recent and extensive data sets</u>:<br>
-                - the first glacial datasets used were obtained from the Randolf Glacier Inventory (RGI), the World Glacier Inventory (WGI) and the Global Land Ice Monitoring System (GLIMS).<br>
-                - the data within these sets was outdated and inconsistent in their annual measurements of glacial area and mass balance.<br>
-                - this forced me to seek out data observations from the World Glacier Monitoring Service (WGMS) which was more up-to-date and comprehensive. <br><br>
-                
-                Having to backtrack helped me acknowledge the time and effort data engineers put into seeking suitable datasets, as well as the time they put into understanding which data is usable. <br><br>
-
-                <u>Selecting (and omitting) relevant data</u>:<br>
-                - annual glacier measurements for each region began in differing years (some as far back as 1946), which made comparisons between each region over specific time periods difficult.<br>
-                - missing (NaN) records also made accurately calculating the linear regression across larger time scales problematic, given that missing values would have to be estimated or randomised.<br>
-                - since temperature records from the IMF dataset began in 1960, glacial observations prior to 1960 were omitted from further analysis.<br><br>
-
-                The high number of omissions in the data strengthened my conviction for rigorous data collection across all areas of environmental science, both globally and regionally.<br><br>
+                <u>Selecting and omitting relevant data</u>:<br>
+                - regional glacier measurements began in different years (some as far back as 1946), which made comparisons between each region over specific time periods difficult.<br>
+                - missing records also made calculating the linear regression across larger time scales problematic, given that missing values would have to be estimated or randomised.<br>
+                - glacial observations prior to 1960 were omitted from further analysis, since IMF temperature measurements began in 1960.<br>
+                - encountering a high number of omissions strengthened my conviction for rigorous data collection in all areas of environmental science<br><br>
 
                 <u>Calculating p-values</u>:<br>
-                - during calculations, functions were returning abnormal p-values (between 1.00 and 6.00), which were rounded down to 1.00 (meaning 'statistically insignificant'). <br>
+                - during calculations, abnormal p-values between 1.00 and 6.00 were returned, which caused me to doubt my analysis. <br>
                 - it wasn't until the p-values started falling below 1.00 that my statistical analysis of the data felt somewhat accurate.<br>
-                - fueled by the lack of belief in the statistical methods used, I learned that the p-value is affected by a number of variables including sample size, data collection methods, modelling and one-sided/two-sided tests.<br><br>
-                
-                This taught me to remain objective when regarding data and to follow analytical practices by the book, even if the results don't make any sense at first.<br><br>
+                - from further research I learned that the p-value is affected by a number of variables, including sample size / data collection methods / modelling / one-sided vs two-sided tests.<br>
+                - this taught me to remain objective when regarding data and to follow through on well-established analytical practices, even if the results don't make any sense at first.<br><br>
             </p>
             <p></p>
             
 
             <h3>TECHNIQUES</h3>
             <p class="project-text">
-                Below is an overview of the methods used to acquire, prepare, analyse and visualise the data.<br>
-                (the outline is very brief due to the urge to undertake the next project)<br><br>
-
                 <u>Data Acquisition</u>:<br>
                 - .csv files<br>
                 - scientific publications & journals<br><br>
@@ -124,101 +111,98 @@
 
             </p>
             <p></p>
-
-            <!-- visuals -->
             <h2>VISUALISATIONS</h2>
-            
-            <!-- global -->
+
             <p><b>Global</b></p>
             <div class="image-container">
-                <img src="img/temp_vs_mb.png" height=350 width=450/><br>
-                <img src="img/MB_ALL_1976.png" height=350 width=450/><br>
+                <img src="img/project 2/temp_vs_mb.png" height=350 width=450/><br>
+                <img src="img/project 2/MB_ALL_1976.png" height=350 width=450/><br>
             </div>
             <div class="image-container">
-                <img src="img/MBC_ALL.png" height=350 width=450/><br>
-                <img src="img/STC_ALL.png" height=350 width=450/><br>
+                <img src="img/project 2/MBC_ALL.png" height=350 width=450/><br>
+                <img src="img/project 2/STC_ALL.png" height=350 width=450/><br>
             </div>
 
             <!-- regional -->
             <p><b>Antarctica</b></p>
             <div class="image-container">
-                <img src="img/temp_vs_mb_AQ.png" height=350 width=450/><br>
+                <img src="img/project 2/temp_vs_mb_AQ.png" height=350 width=450/><br>
             </div>
             <div class="image-container">
-                <img src="img/MBC_AQ.png" height=350 width=450/><br>
-                <img src="img/STC_AQ.png" height=350 width=450/><br>
+                <img src="img/project 2/MBC_AQ.png" height=350 width=450/><br>
+                <img src="img/project 2/STC_AQ.png" height=350 width=450/><br>
             </div>
           
             <p><b>Austria</b></p>
             <div class="image-container">
-                <img src="img/temp_vs_mb_AT.png" height=350 width=450/><br>
+                <img src="img/project 2/temp_vs_mb_AT.png" height=350 width=450/><br>
             </div>
             <div class="image-container">
-                <img src="img/MBC_AT.png" height=350 width=450/><br>
-                <img src="img/STC_AT.png" height=350 width=450/><br>
+                <img src="img/project 2/MBC_AT.png" height=350 width=450/><br>
+                <img src="img/project 2/STC_AT.png" height=350 width=450/><br>
             </div>
           
             <p><b>Canada</b></p>
             <div class="image-container">
-                <img src="img/temp_vs_mb_CA.png" height=350 width=450/><br>
+                <img src="img/project 2/temp_vs_mb_CA.png" height=350 width=450/><br>
             </div>
             <div class="image-container">
-                <img src="img/MBC_CA.png" height=350 width=450/><br>
-                <img src="img/STC_CA.png" height=350 width=450/><br>
+                <img src="img/project 2/MBC_CA.png" height=350 width=450/><br>
+                <img src="img/project 2/STC_CA.png" height=350 width=450/><br>
             </div>
           
             <p><b>Chile</b></p>
             <div class="image-container">
-                <img src="img/temp_vs_mb_CL.png" height=350 width=450/><br>
+                <img src="img/project 2/temp_vs_mb_CL.png" height=350 width=450/><br>
             </div>
             <div class="image-container">
-                <img src="img/MBC_CL.png" height=350 width=450/><br>
-                <img src="img/STC_CL.png" height=350 width=450/><br>
+                <img src="img/project 2/MBC_CL.png" height=350 width=450/><br>
+                <img src="img/project 2/STC_CL.png" height=350 width=450/><br>
             </div>
 
             <p><b>Greenland</b></p>
             <div class="image-container">
-                <img src="img/temp_vs_mb_GL.png" height=350 width=450/><br>
+                <img src="img/project 2/temp_vs_mb_GL.png" height=350 width=450/><br>
             </div>
             <div class="image-container">
-                <img src="img/MBC_GL.png" height=350 width=450/><br>
-                <img src="img/STC_GL.png" height=350 width=450/><br>
+                <img src="img/project 2/MBC_GL.png" height=350 width=450/><br>
+                <img src="img/project 2/STC_GL.png" height=350 width=450/><br>
             </div>
 
             <p><b>Iceland</b></p>
             <div class="image-container">
-                <img src="img/temp_vs_mb_IS.png" height=350 width=450/><br>
+                <img src="img/project 2/temp_vs_mb_IS.png" height=350 width=450/><br>
             </div>
             <div class="image-container">
-                <img src="img/MBC_IS.png" height=350 width=450/><br>
-                <img src="img/STC_IS.png" height=350 width=450/><br>
+                <img src="img/project 2/MBC_IS.png" height=350 width=450/><br>
+                <img src="img/project 2/STC_IS.png" height=350 width=450/><br>
             </div>
 
             <p><b>Nepal</b></p>
             <div class="image-container">
-                <img src="img/temp_vs_mb_NP.png" height=350 width=450/><br>
+                <img src="img/project 2/temp_vs_mb_NP.png" height=350 width=450/><br>
             </div>
             <div class="image-container">
-                <img src="img/MBC_NP.png" height=350 width=450/><br>
-                <img src="img/STC_NP.png" height=350 width=450/><br>
+                <img src="img/project 2/MBC_NP.png" height=350 width=450/><br>
+                <img src="img/project 2/STC_NP.png" height=350 width=450/><br>
             </div>
 
             <p><b>Norway</b></p>
             <div class="image-container">
-                <img src="img/temp_vs_mb_NO.png" height=350 width=450/><br>
+                <img src="img/project 2/temp_vs_mb_NO.png" height=350 width=450/><br>
             </div>
             <div class="image-container">
-                <img src="img/MBC_NO.png" height=350 width=450/><br>
-                <img src="img/STC_NO.png" height=350 width=450/><br>
+                <img src="img/project 2/MBC_NO.png" height=350 width=450/><br>
+                <img src="img/project 2/STC_NO.png" height=350 width=450/><br>
             </div>
 
             <p><b>United States</b></p>
             <div class="image-container">
-                <img src="img/temp_vs_mb_US.png" height=350 width=450/><br>
+                <img src="img/project 2/temp_vs_mb_US.png" height=350 width=450/><br>
             </div>
             <div class="image-container">
-                <img src="img/MBC_US.png" height=350 width=450/><br>
-                <img src="img/STC_US.png" height=350 width=450/><br>
+                <img src="img/project 2/MBC_US.png" height=350 width=450/><br>
+                <img src="img/project 2/STC_US.png" height=350 width=450/><br>
             </div>
             <a href="index.html"><p>BACK</p></a>
         </div>

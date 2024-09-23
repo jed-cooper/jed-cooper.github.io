@@ -48,6 +48,12 @@ h4 {
     flex: 1;
 }
 
+.profile-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Space between stacked cards */
+}
+
 .profile-gif {
     height: 20px;
     width: 30px;
@@ -148,3 +154,4 @@ h4 {
         width: 50%; /* Adjust the width percentage based on the number of cards */
     }
 }
+

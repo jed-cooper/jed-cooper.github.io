@@ -16,13 +16,12 @@
 
             <h3>SUMMARY</h3>
             <p class="project-text">                
-                This project was an attempt to create an interactive map of all recorded landslides occurring in India between 2007 and 2016.<br><br>
+                This data project outlines the locations of landslide occurences in India from 2007 to 2016; it's primary aim was the creation of an interactive map visualising all recorded landslides for users so they can explore the data for themselves.<br><br>
 
-                The prototype was designed using geopandas and folium, with visualisations built using data from NASA's Global Landslide Catalog and shapefiles from Indian Remote Sensing.<br><br>
+                Accessing an event will display it's date, location, fatality/injury count, trigger and information source, with the size of each marker being proportional to the severity of the incident.<br><br>
+
+                The prototype was designed using geopandas and folium, with visualisations dependent data from NASA's Global Landslide Catalog and shapefiles from Indian Remote Sensing. Please follow <a href="ls.html">this link</a> to view the visualisation.<br><br>
                 
-                Each event can be accessed to display its corresponding data (date, location, fatality/injury count, trigger and source), with the radius of each marker proportional to the severity of the incident.<br><br>
-
-                Please follow <a href="ls.html">this link</a> to view the visualisation.<br><br>
             </p>
             <p></p>
 
@@ -43,8 +42,6 @@
 
             <h3>TECHNIQUES</h3>
             <p class="project-text">
-                Below are some of the techniques used to prepare and visualise the data.<br><br>
-
                 <u>geopandas</u>:<br>
                 - create geometry using geodetic coordinate system (gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(lat, lon), crs="EPSG:4326"))<br>
                 - plot shapefile (gdf.plot(ax=map.plot()))<br><br>
@@ -82,11 +79,11 @@
              <!-- global -->
              <p><b>Landslides Occurrences in India (2006-2016)</b></p>
              <div class="image-container">
-                 <img src="img/ls_in.png" height=350 width=450/><br>
+                 <img src="img/project 3/ls_in.png" height=350 width=450/><br>
              </div>
              <p><b>Rainfall vs Landslides Occurrences in India (2016)</b></p>
              <div class="image-container">
-                 <img src="img/rf_ls_ts_2016.png" height=350 width=450/><br>
+                 <img src="img/project 3/rf_ls_ts_2016.png" height=350 width=450/><br>
              </div>
             <a href="index.html"><p>BACK</p></a>
         </div>
