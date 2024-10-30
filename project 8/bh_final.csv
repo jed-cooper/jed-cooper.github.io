@@ -1,0 +1,1151 @@
+,Borehole ID,Depth (m),Moisture Content (%),Bulk Density (kg/m3),Dry Density (kg/m3),Shear Strength (kPa) (Direct),SPT Value (blows/ft),Shear Strength (kPa) (Triaxial),Triaxial Test,Soil Condition During Triaxial Test,Particle Density (%),Liquid Limit (%),Plastic Limit (%),Porosity (%),Bearing Capacity (kPa),Unconfined Compressive Strength (MPa),Rock Quality Designation (%),Angle of Internal Friction (°),Grain Size,Soil Types,Soil Description,Latitude,Longitude,Borehole Start Date
+0,B12,0.0,28.5,,,,,,,,2.69,28.0,6.0,,,,,,0.002,sand,Very soft dark grey sandy h depth.   (SURFACE SANDS - SEDIMENT LAYER) [UNIT I],-3.4723900168,53.9459097863,02/07/2010
+1,B12,1.0,34.48,,,,,,,,,,,,,,,,0.002,sand,,-3.4723900168,53.9459097863,02/07/2010
+2,B12,2.0,27.74,,,,,,,,,24.0,6.0,,,,,,0.002,sand,below 4.00 m - sandy locally very sandy.,-3.4723900168,53.9459097863,02/07/2010
+3,B12,3.0,35.92,,,,,,,,,,,,,,,,,sand,,-3.4723900168,53.9459097863,02/07/2010
+4,B12,4.0,22.95,,,,,,,,,,,,,,,,0.002,"clay, sand",Dark grey locally grey silty locally slightly clayey SAND /silty with depth. (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.4723900168,53.9459097863,02/07/2010
+5,B12,5.0,41.46,,,,,,,,,,,,,,,,,"clay, sand",between 5.00 m and 6.00 m - occasional shell fragments (<6mm).,-3.4723900168,53.9459097863,02/07/2010
+6,B12,6.0,23.13,1936.8,1580.02,,,,,,,,,0.18,,,,,,"clay, sand",between 6.00 m and 8.30 m - rare shell fragments (<4mm).,-3.4723900168,53.9459097863,02/07/2010
+7,B12,7.0,23.97,2018.35,1630.99,,,,,,,,,0.1899999999999999,,,,,,"clay, sand",from 7.27 m to 7.33 m - frequent shell fragments (<25mm).,-3.4723900168,53.9459097863,02/07/2010
+8,B12,8.0,24.05,2028.54,1630.99,,,,,,,,,0.1999999999999999,,,,,,"clay, sand",,-3.4723900168,53.9459097863,02/07/2010
+9,B12,9.0,22.62,2018.35,1651.38,,,,,,,,,0.18,,,,,,sand,from 9.00 m to 9.40  m - occasional thin laminae of dark grey/black silt/fine sand.,-3.4723900168,53.9459097863,02/07/2010
+10,B12,10.0,22.24,1946.99,1590.21,,,,CD,Reconstituted,,,,0.18,,,,38.0,0.002,clay,from 10.00  m to 10.35  m - occasional very closely spaced thin laminae of grey clay.,-3.4723900168,53.9459097863,02/07/2010
+11,B12,11.0,23.32,,,,,,,,,,,,,,,,,clay,,-3.4723900168,53.9459097863,02/07/2010
+12,B12,12.0,23.47,,,,,,,,,,,,,,,,,clay,,-3.4723900168,53.9459097863,02/07/2010
+13,B12,13.0,23.13,,,,,,,,,,,,,,,,0.002,clay,,-3.4723900168,53.9459097863,02/07/2010
+14,B12,14.0,23.4,,,,,,,,,,,,,,,,,sand,from 14.00 m to 14.35 m - Closely spaced laminae of black carbonaceous debris.,-3.4723900168,53.9459097863,02/07/2010
+15,B12,15.0,22.43,,,,,,,,,,,,,,,,,sand,,-3.4723900168,53.9459097863,02/07/2010
+16,B12,16.0,25.81,,,,,,,,,,,,,,,,,sand,below 16.00 m - Organic debris absent.,-3.4723900168,53.9459097863,02/07/2010
+17,B12,17.0,21.74,1987.77,1610.6,,,,,,,,,0.1899999999999999,,,,,0.002,"clay, gravel, sand",below 17.80 m - Becoming slightly clayey to clayey.,-3.4723900168,53.9459097863,02/07/2010
+18,B12,18.0,20.02,,,,54.0,,,,2.73,39.0,22.0,,,,,,0.002,"clay, gravel, sand",Firm to stiff indistinctly fissured greyish brown slightly sandy CLAY,-3.4723900168,53.9459097863,02/07/2010
+19,B12,19.0,21.41,2018.35,1630.99,,56.0,62.0,UU,Remoulded,,,,0.1899999999999999,,,,,,"gravel, mud",Firm medium strength becoming stiff and very stiff and medium.  Gravel is angular fine of mudstone.   (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4723900168,53.9459097863,02/07/2010
+20,B12,20.0,13.0,2038.74,1804.28,,100.0,242.0,UU,Undisturbed,,,,0.12,,,,,0.002,"clay, gravel, mud, sand",below 20.00 m - sandy.  Sand is fine to coarse.  Gravel is very angular to rounded fine to coarse of mudstone and claystone.,-3.4723900168,53.9459097863,02/07/2010
+21,B12,21.0,13.67,2120.29,1855.25,,112.0,152.0,UU,Remoulded,2.73,27.0,13.5,0.13,,,,,0.002,"clay, gravel, mud, sand",,-3.4723900168,53.9459097863,02/07/2010
+22,B12,22.0,13.02,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",at 22.00 m - 1 No. subrounded cobble (50mm x 80mm) of dark grey microgabbro.,-3.4723900168,53.9459097863,02/07/2010
+23,B12,22.65,12.45,,,,,,,,,27.0,13.0,,,,,,0.002,"clay, gravel, mud, sand",,-3.4723900168,53.9459097863,02/07/2010
+24,B12,23.0,15.96,,,,,,,,,,,,,,,,,"gravel, mud, sand",from 23.15 m to 23.50 m - boulder of very strong dark grey microgabbro (full diameter x 350mm).,-3.4723900168,53.9459097863,02/07/2010
+25,B12,23.55,19.48,,,,,,,,,29.0,5.0,,,,,,0.002,"gravel, mud, sand",,-3.4723900168,53.9459097863,02/07/2010
+26,B12,24.0,22.11,,,,,,,,,,,,,,,,,"clay, mud, sand",from 24.80 m to 25.00 m - Recovered as angular fragments (<110mm) of very weak grey mudstone with a little (<10mm) firm brown silt.,-3.4723900168,53.9459097863,02/07/2010
+27,B12,24.55,24.74,,,,,,,,,33.0,8.0,,,,,,0.002,"clay, mud, sand",,-3.4723900168,53.9459097863,02/07/2010
+28,B12,25.0,22.24,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",Stiff brown and grey CLAY with frequent sand and gravel sized lithorelicts of mudstone.  Recovered non intact. (MERCIA MUDSTONE - WEATHERED MERCIA MUDSTONE) [UNIT VIa],-3.4723900168,53.9459097863,02/07/2010
+29,B12,25.55,19.75,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",,-3.4723900168,53.9459097863,02/07/2010
+30,B12,26.0,18.32,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",between 26.55 m and 27.60 m - fractures are very closely spaced subhorizontal and subvertical undulating rough and tight locally infilled with soft brown clay.,-3.4723900168,53.9459097863,02/07/2010
+31,B12,26.55,16.88,,,,,,,,,,,,,,95.0,,,"clay, gravel, mud, sand",,-3.4723900168,53.9459097863,02/07/2010
+32,B12,27.0,15.45,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",below 27.55 m - fractures are closely spaced.,-3.4723900168,53.9459097863,02/07/2010
+33,B12,27.55,14.02,,,,,,,,,,,,,18.2,96.7,,,"clay, gravel, mud, sand",,-3.4723900168,53.9459097863,02/07/2010
+34,B12,28.0,14.23,,,,,,,,,,,,,,,,,mud,at 28.80 m - vugh (50mm x 60mm x 20mm) infilled with (possible) calcite.,-3.4723900168,53.9459097863,02/07/2010
+35,B12,29.0,14.45,,,,,,,,,,,,,,,,,mud,at 29.95 m - Subhorizontal fracture open undulating rough.,-3.4723900168,53.9459097863,02/07/2010
+36,B12,29.05,14.66,,,,,,,,,,,,,,100.0,,,mud,,-3.4723900168,53.9459097863,02/07/2010
+37,B12,30.0,12.94,,,,,,,,,,,,,,,,,mud,Medium strong locally strong slightly weathered indistinctly bedded reddish grey calcareous MUDSTONE/SILTSTONE.  Fractures are medium spaced subhorizontal undulating and slightly rough open with a slight grey green discolouration on surfaces.  (MERCIA MUDSTONE) [UNIT VIb],-3.4723900168,53.9459097863,02/07/2010
+38,B12,30.05,11.23,,,,,,,,,,,,,38.7,100.0,,,mud,,-3.4723900168,53.9459097863,02/07/2010
+39,B12,31.55,12.84,,,,,,,,,,,,,54.0,86.7,,,mud,,-3.4723900168,53.9459097863,02/07/2010
+40,B12,32.0,11.06,,,,,,,,,,,,,,,,,mud,from 32.35 m to 32.40 m - thick laminae to very thin beds of light grey green siltstone.,-3.4723900168,53.9459097863,02/07/2010
+41,B12,33.0,9.27,,,,,,,,,,,,,,,,,mud,Medium strong fresh dark greyish red calcareous MUDSTONE wih occasional randomly orientated gypsum veins.  Fractures are closely to medium spaced artly open.   (MERCIA MUDSTONE) [UNIT VIb],-3.4723900168,53.9459097863,02/07/2010
+42,B12,33.05,7.48,,,,,,,,,,,,,31.1,83.3,,,mud,,-3.4723900168,53.9459097863,02/07/2010
+43,B12,34.55,16.63,,,,,,,,,,,,,,100.0,,,mud,,-3.4723900168,53.9459097863,02/07/2010
+44,B12,36.05,8.44,,,,,,,,,,,,,43.6,100.0,,,mud,,-3.4723900168,53.9459097863,02/07/2010
+45,B12,37.0,8.8,,,,,,,,,,,,,,,,,"clay, mud",Weak locally medium strong partially weathered dark greyish purple with occasional light grey green mottling calcareous MUDSTONE.  Fractures are inclined <5 degrees generally partially coated with clay.    (MERCIA MUDSTONE) [UNIT VIb],-3.4723900168,53.9459097863,02/07/2010
+46,B12,37.55,9.15,,,,,,,,,,,,,12.8,100.0,,,"clay, mud",,-3.4723900168,53.9459097863,02/07/2010
+47,B12,39.0,8.28,,,,,,,,,,,,,,,,,"clay, mud",from 39.65 m to 39.85 m - Occasional vughs (<25mm) with a slight infill with possible calcite.,-3.4723900168,53.9459097863,02/07/2010
+48,B12,39.05,7.4,,,,,,,,,,,,,12.4,100.0,,,"clay, mud",,-3.4723900168,53.9459097863,02/07/2010
+49,C08,0.0,19.0,,,,,,CD,Reconstituted,2.68,28.0,9.0,,,,,31.0,0.002,"clay, sand",from 0.00 m to 3.00 m - moderate to slight organic odour.,-3.4872829964,53.9710725589,28/06/2010
+50,C08,1.0,23.1,,,,,,,,,,,,,,,,,"clay, sand",,-3.4872829964,53.9710725589,28/06/2010
+51,C08,2.0,27.19,1941.9,1498.47,,,,,,,27.0,9.0,0.2299999999999999,,,,,0.002,"clay, sand",,-3.4872829964,53.9710725589,28/06/2010
+52,C08,3.0,27.78,1957.19,1529.05,,,,CD,Reconstituted,2.68,,,0.2199999999999999,,,,29.5,0.002,"clay, sand",from 3.00 m to 4.20 m - abundant shells and shell fragments.,-3.4872829964,53.9710725589,28/06/2010
+53,C08,4.0,23.07,,,,,,,,,,,,,,,,,sand,Dark greyish brown locally dark grey and greyish brown silty SANDS - UPPER MEMBER) [UNIT IIa],-3.4872829964,53.9710725589,28/06/2010
+54,C08,5.0,23.15,,,,,,,,,,,,,,,,,sand,,-3.4872829964,53.9710725589,28/06/2010
+55,C08,6.0,17.92,,,,,,,,,,,,,,,,,sand,,-3.4872829964,53.9710725589,28/06/2010
+56,C08,7.0,21.58,,,,,,CD,Reconstituted,,,,,,,,41.0,0.002,sand,,-3.4872829964,53.9710725589,28/06/2010
+57,C08,8.0,22.95,,,,,,,,,,,,,,,,,sand,,-3.4872829964,53.9710725589,28/06/2010
+58,C08,9.0,24.86,,,,,,,,,,,,,,,,,sand,,-3.4872829964,53.9710725589,28/06/2010
+59,C08,10.0,29.53,,,,,,,,,,,,,,,,,sand,from 10.00 m to 12.40 m - occasional medium and coarse sand sized carbonaceous debris.,-3.4872829964,53.9710725589,28/06/2010
+60,C08,11.0,22.63,,,,,,,,,,,,,,,,,clay,at 11.25 m - 1 No. thin lamina of very soft very dark grey silty clay.,-3.4872829964,53.9710725589,28/06/2010
+61,C08,12.0,26.31,,,,,,CD,Reconstituted,2.67,,,,,,,34.5,0.002,clay,from 12.50 m to 12.80 m - extremely closely spaced thin laminae of very dark grey organic silt with fragments (<5mm) of black organic debris.  Strong organic/bituminous odour.,-3.4872829964,53.9710725589,28/06/2010
+62,C08,13.0,23.72,,,,,,,,,,,,,,14.7,,,"gravel, sand",Medium strong and strong slightly weathered very dark grey becoming dark grey with depth crystalline (<2mm) MICROGABBRO aced,-3.4872829964,53.9710725589,28/06/2010
+63,C08,14.0,14.26,,,,,,,,,,,,,,44.7,,,"gravel, sand",,-3.4872829964,53.9710725589,28/06/2010
+64,C08,15.5,4.8,,,,,,,,,,,,,47.1,53.3,,,"gravel, sand",,-3.4872829964,53.9710725589,28/06/2010
+65,C08,17.0,1.0,,,,,,,,,,,,,54.8,56.7,,,"gravel, sand",,-3.4872829964,53.9710725589,28/06/2010
+66,C08,18.0,1.0,,,,,,,,,,,,,,,,,"gravel, sand",from 18.50 m to 18.65 m - feldspar vein inclined at 70 degrees (<4mm thick),-3.4872829964,53.9710725589,28/06/2010
+67,C08,18.5,1.0,,,,,,,,,,,,,,100.0,,,"gravel, sand",,-3.4872829964,53.9710725589,28/06/2010
+68,C13,0.0,21.0,,,,,,CD,Reconstituted,2.68,32.0,11.0,,,,,28.5,0.002,"clay, sand",Very soft greyish brown sandy CLAY E SANDS - SEDIMENT LAYER),-3.4567834177,53.9455878784,07/05/2010
+69,C13,1.0,35.04,,,,,,,,,,,,,,,,,"clay, sand",,-3.4567834177,53.9455878784,07/05/2010
+70,C13,2.0,32.84,,,,,,,,,,,,,,,,,sand,from 2.00 m to 3.00 m - rare pockets (<50mm) of light brown slightly sandy silt.,-3.4567834177,53.9455878784,07/05/2010
+71,C13,3.0,29.86,2003.06,1539.25,,,,,,,,,0.2299999999999999,,,,,,sand,from 3.00 m to 4.00 m - very soft to soft.,-3.4567834177,53.9455878784,07/05/2010
+72,C13,4.0,26.54,,,,,,,,,,,,,,,,,"clay, sand",Soft grey brown sandy CLAY,-3.4567834177,53.9455878784,07/05/2010
+73,C13,5.0,21.79,,,,,,CD,Reconstituted,,,,,,,,36.5,0.002,sand,Dark greyish brown silty SAND with occasional shell fragments (<5mm). Sand is fine and medium. (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.4567834177,53.9455878784,07/05/2010
+74,C13,5.5,21.54,1885.83,1549.44,,,,,,,,,0.18,,,,,,sand,,-3.4567834177,53.9455878784,07/05/2010
+75,C13,6.5,31.02,2069.32,1580.02,,,,,,,,,0.24,,,,,,sand,,-3.4567834177,53.9455878784,07/05/2010
+76,C13,7.0,26.86,,,,,,,,,,,,,,,,,sand,from 7.50 m to 10.50 m - no shell fragments.,-3.4567834177,53.9455878784,07/05/2010
+77,C13,7.5,22.7,1967.38,1600.41,,,,,,,,,0.1899999999999999,,,,,,sand,,-3.4567834177,53.9455878784,07/05/2010
+78,C13,8.5,25.17,1946.99,1559.63,,,,,,,,,0.1999999999999999,,,,,,sand,,-3.4567834177,53.9455878784,07/05/2010
+79,C13,9.0,24.16,,,,,,,,,,,,,,,,,sand,from 9.50 m to 9.53 m - frequent shell fragments (<5mm x 40mm).,-3.4567834177,53.9455878784,07/05/2010
+80,C13,9.5,23.14,1987.77,1610.6,,,,,,,,,0.1899999999999999,,,,,,sand,,-3.4567834177,53.9455878784,07/05/2010
+81,C13,10.0,23.95,,,,,,,,,,,,,,,,,sand,Dark greyish brown slightly silty SAND. Sand is fine and medium.,-3.4567834177,53.9455878784,07/05/2010
+82,C13,10.5,24.76,1946.99,1559.63,,,,,,,,,0.1999999999999999,,,,,,sand,,-3.4567834177,53.9455878784,07/05/2010
+83,C13,11.0,24.1,,,,,,,,,,,,,,,,,"clay, sand",from 11.50 m to 11.90 m - With occasional black speckling.,-3.4567834177,53.9455878784,07/05/2010
+84,C13,11.5,23.44,1916.41,1549.44,,,,,,,,,0.1899999999999999,,,,,0.002,"clay, sand",,-3.4567834177,53.9455878784,07/05/2010
+85,C13,11.9,0.2,,,,,,,,,,,,,102.0,80.0,,,"clay, sand",,-3.4567834177,53.9455878784,07/05/2010
+86,C13,12.9,0.2,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4567834177,53.9455878784,07/05/2010
+87,C13,14.4,0.2,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4567834177,53.9455878784,07/05/2010
+88,C13,14.9,0.2,,,,,,,,,,,,,133.8,100.0,,,"clay, sand",,-3.4567834177,53.9455878784,07/05/2010
+89,C13,15.9,0.2,,,,,,,,,,,,,156.7,100.0,,,"clay, sand",,-3.4567834177,53.9455878784,07/05/2010
+90,D04,0.0,29.19,,,,,,,,2.68,28.0,8.0,,,,,,0.002,"clay, sand",Very soft dark grey sandy CLAY with depth. (SURFACE SANDS - SEDIMENT LAYER) [UNIT ],-3.4974314023,53.9930065767,20/06/2010
+91,D04,1.0,32.65,,,,,,CD,Reconstituted,,,,,,,,28.5,0.002,"clay, sand",,-3.4974314023,53.9930065767,20/06/2010
+92,D04,2.0,29.08,1962.28,1518.86,,,,,,,,,0.2299999999999999,,,,,,"clay, sand",,-3.4974314023,53.9930065767,20/06/2010
+93,D04,3.0,25.13,2099.9,1671.76,,,,,,,23.0,7.0,0.1999999999999999,,,,,0.002,"clay, sand",,-3.4974314023,53.9930065767,20/06/2010
+94,D04,4.0,23.11,2079.51,1681.96,,,,,,,,,0.1899999999999999,,,,,,sand,Dark grey slightly silty to silty SAND,-3.4974314023,53.9930065767,20/06/2010
+95,D04,5.0,19.7,,,,,,CD,Reconstituted,2.66,,,,,,,40.5,0.002,sand,at 5.27 m - 1 No. thick lamina (20mm) of black sand with shell fragments (<5mm).,-3.4974314023,53.9930065767,20/06/2010
+96,D04,6.0,19.85,,,,,,,,,,,,,,,,,clay,from 6.00 m to 6.05 m - abundant shell fragments.,-3.4974314023,53.9930065767,20/06/2010
+97,D04,7.0,19.29,,,,,,,,,,,,,,,,,clay,at 7.00 m - occasional laminae of clay,-3.4974314023,53.9930065767,20/06/2010
+98,D04,8.0,26.4,,,,,,,,,,,,,,,,,clay,,-3.4974314023,53.9930065767,20/06/2010
+99,D04,9.0,27.56,,,,,,,,,,,,,,,,,clay,,-3.4974314023,53.9930065767,20/06/2010
+100,D04,10.0,24.42,,,,,,,,,,,,,,,,,clay,,-3.4974314023,53.9930065767,20/06/2010
+101,D04,11.0,27.38,,,,,,,,,,,,,,,,,clay,,-3.4974314023,53.9930065767,20/06/2010
+102,D04,12.0,23.82,,,,,,,,,,,,,,,,,clay,from 12.00 m to 12.14m - abundant shell fragments.,-3.4974314023,53.9930065767,20/06/2010
+103,D04,13.0,21.78,,,,,,,,,,,,,,,,,clay,from 13.00 m to 13.05 m - abundant shell fragments.,-3.4974314023,53.9930065767,20/06/2010
+104,D04,14.0,29.14,,,,,,,,,,,,,,,,,clay,from 14.00 m to 14.30 m - abundant shell fragments.,-3.4974314023,53.9930065767,20/06/2010
+105,D04,15.0,23.94,1916.41,1539.25,,,,CD,Reconstituted,2.66,,,0.1999999999999999,,,,41.5,0.002,clay,from 15.00 m to 17.00 m - rare shells (<20mm x 20mm) and shell fragments (<5mm x 5mm).,-3.4974314023,53.9930065767,20/06/2010
+106,D04,16.0,25.18,1906.22,1549.44,,,,,,,,,0.1899999999999999,,,,,,"clay, gravel",from 16.00 m to 16.60 m - slightly gravelly.  Gravel is angular to rounded fine to coarse of mixed igneous lithology and rare siltstone.,-3.4974314023,53.9930065767,20/06/2010
+107,D04,17.0,30.96,1957.19,1559.63,,,,,,,,,0.1999999999999999,,,,,,"gravel, sand",Greyish brown gravelly silty SAND,-3.4974314023,53.9930065767,20/06/2010
+108,D04,18.0,24.96,1896.02,1518.86,,,,CD,Reconstituted,2.67,,,0.1999999999999999,,,,38.0,0.002,"gravel, sand",,-3.4974314023,53.9930065767,20/06/2010
+109,D04,19.0,23.72,1936.8,1569.83,,,,,,,,,0.1899999999999999,,,,,,"gravel, sand",,-3.4974314023,53.9930065767,20/06/2010
+110,D04,20.0,18.77,2033.64,1692.15,,,,CD,Reconstituted,,,,0.17,,,,33.0,0.002,gravel,Below 20.60 m - gravel absent.,-3.4974314023,53.9930065767,20/06/2010
+111,D04,21.0,19.66,2059.12,1671.76,,129.0,,,,,,,0.1899999999999999,,,,,,gravel,Firm to stiff fine to coarse of mixed lithology. (CARDIGAN BAY UPPER TILL) [UNIT III],-3.4974314023,53.9930065767,20/06/2010
+112,D04,22.0,14.87,2242.61,1967.38,141.0,165.0,182.0,CU,Undisturbed,2.73,29.0,16.0,0.12,16687.39,,,,0.002,gravel,from 22.60 m to 22.70 m - full diameter subrounded cobbles (100mm x 100mm x 50mm) of very strong medium grain igneous rock.,-3.4974314023,53.9930065767,20/06/2010
+113,D04,23.5,14.32,2256.88,1959.73,145.0,112.0,125.0,CU,Undisturbed,2.71,28.0,14.5,0.13,17927.33,,,,0.002,gravel,,-3.4974314023,53.9930065767,20/06/2010
+114,D04,24.6,12.92,2405.71,,,150.0,169.0,UU,Remoulded,,27.0,14.0,,,,,,0.002,gravel,,-3.4974314023,53.9930065767,20/06/2010
+115,D04,26.1,13.12,,,,,,,,,,,,,,,,,gravel,,-3.4974314023,53.9930065767,20/06/2010
+116,D04,27.0,12.06,,,,,,,,,,,,,,,,,mud,Possibly extremely weak moderately weathered calcareous MUDSTONE e of extremely weak mudstone. (MERCIA MUDSTONE - WEATHERED MERCIA MUDSTONE) [UNIT VIa],-3.4974314023,53.9930065767,20/06/2010
+117,D04,27.6,10.99,,,,,,,,,,,,,,0.0,,,mud,,-3.4974314023,53.9930065767,20/06/2010
+118,D04,28.0,9.92,,,,,,,,,,,,,,,,,mud,Very weak locally extremely weak and weak partially weathered dusky red calcareous MUDSTONE.  Fractures are extremely closely to closely spaced randomly orientated planar or stepped to rough,-3.4974314023,53.9930065767,20/06/2010
+119,D04,29.0,8.86,,,,,,,,,,,,,,,,,mud,from 29.40 m to 29.80 m - Extremely closely spaced randomly orientated gypsum veins (<1mm thick),-3.4974314023,53.9930065767,20/06/2010
+120,D04,29.1,7.8,,,,,,,,,,,,,,0.0,,,mud,,-3.4974314023,53.9930065767,20/06/2010
+121,D04,30.6,6.73,,,,,,,,,,,,,,10.0,,,mud,,-3.4974314023,53.9930065767,20/06/2010
+122,D04,31.0,5.66,,,,,,,,,,,,,,,,,mud,from 31.0 m to 31.2 m - Extremely closely to very closely spaced subvertical gypsum veins (<1mm thick),-3.4974314023,53.9930065767,20/06/2010
+123,D04,32.1,4.6,,,,,,,,,,,,,12.3,0.0,,,mud,,-3.4974314023,53.9930065767,20/06/2010
+124,D04,33.6,9.9,,,,,,,,,,,,,0.6,0.0,,,mud,,-3.4974314023,53.9930065767,20/06/2010
+125,D04,35.1,9.5,,,,,,,,,,,,,0.6,0.0,,,mud,,-3.4974314023,53.9930065767,20/06/2010
+126,D04,36.0,8.93,,,,,,,,,,,,,,,,,mud,Very weak locally weak or medium strong partially weathered locally slightly weathered dusky red calcareous MUDSTONE.  Fractures are very closely to closely spaced locally spaced,-3.4974314023,53.9930065767,20/06/2010
+127,D04,36.6,8.35,,,,,,,,,,,,,,0.0,,,mud,,-3.4974314023,53.9930065767,20/06/2010
+128,D04,38.0,7.78,,,,,,,,,,,,,,,,,mud,Weak weathered. (MERCIA MUDSTONE) [UNIT VIb],-3.4974314023,53.9930065767,20/06/2010
+129,D04,38.1,7.2,,,,,,,,,,,,,11.4,98.0,,,mud,,-3.4974314023,53.9930065767,20/06/2010
+130,D04,39.6,7.2,,,,,,,,,,,,,,100.0,,,mud,,-3.4974314023,53.9930065767,20/06/2010
+131,D05,0.0,19.0,,,,,,,,2.69,30.0,11.0,,,,,,0.002,"clay, sand",Very soft dark grey sandy CLAY T I],-3.4917349794,53.9882214185,23/06/2010
+132,D05,1.0,22.38,,,,,,,,,,,,,,,,,"clay, sand",,-3.4917349794,53.9882214185,23/06/2010
+133,D05,2.0,25.75,1936.8,1498.47,,,,,,,27.0,9.0,0.2299999999999999,,,,,0.002,"clay, sand",,-3.4917349794,53.9882214185,23/06/2010
+134,D05,3.0,24.27,,,,,,,,,,,,,,,,,"clay, sand",,-3.4917349794,53.9882214185,23/06/2010
+135,D05,4.0,22.79,,,,,,CD,Reconstituted,2.69,,,,,,,39.5,0.002,"gravel, sand",from 4.00 m to 4.45 m - very silty sand with occasional fine gravel.  Sand is mainly fine and medium.,-3.4917349794,53.9882214185,23/06/2010
+136,D05,5.0,23.74,,,,,,,,,,,,,,,,,sand,Dark grey RN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.4917349794,53.9882214185,23/06/2010
+137,D05,6.0,22.16,,,,,,,,,,,,,,,,,sand,from 6.10 m to 10.15 m - Widely spaced thin and thick laminae (<10mm) of dark grey silt and sandy silt.,-3.4917349794,53.9882214185,23/06/2010
+138,D05,7.0,20.94,,,,,,,,,,,,,,,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+139,D05,8.0,22.97,,,,,,,,,,,,,,,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+140,D05,9.0,26.69,,,,,,,,,,,,,,,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+141,D05,10.0,22.27,,,,,,,,,,,,,,,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+142,D05,11.0,20.65,,,,,,CD,Reconstituted,2.68,,,,,,,43.5,0.002,sand,,-3.4917349794,53.9882214185,23/06/2010
+143,D05,12.0,23.98,,,,,,,,,,,,,,,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+144,D05,13.0,27.85,,,,,,,,,,,,,,,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+145,D05,14.0,26.07,,,,,,,,,,,,,,,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+146,D05,15.0,17.58,,,,,,,,,,,,,,,,0.002,sand,Strong locally very strong slightly weathered very dark grey crystalline (<2-3mm) MICROGABBRO.  Fractures are medium to widely spaced inclined <5 to 40 degrees rough,-3.4917349794,53.9882214185,23/06/2010
+147,D05,15.45,9.09,,,,,,,,,,,,,,73.7,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+148,D05,16.4,0.6,,,,,,,,,,,,,70.7,100.0,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+149,D05,17.9,0.75,,,,,,,,,,,,,,100.0,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+150,D05,19.4,0.9,,,,,,,,,,,,,51.3,82.0,,,sand,,-3.4917349794,53.9882214185,23/06/2010
+151,D08,0.0,,,,,,,,,,,,,,,,,,"clay, sand",Very soft dark grey sandy CLAY SANDS - SEDIMENT LAYER) [UNIT I],-3.4746864253,53.9738588523,27/06/2010
+152,D08,1.0,15.0,1478.08,1345.57,,,11.0,CU,Undisturbed,2.68,28.0,8.0,0.0899999999999999,,,,,0.002,"clay, sand",,-3.4746864253,53.9738588523,27/06/2010
+153,D08,2.0,28.46,1913.01,1491.68,,,,,,,,,0.2199999999999999,,,,,,sand,from 2.00 m to 3.30 m - silty to very silty sand.,-3.4746864253,53.9738588523,27/06/2010
+154,D08,3.0,20.54,,,,,,,,,,,,,,,,,sand,Dark greyish brown becoming greyish brown with depth slightly silty SAND DED SANDS - UPPER MEMBER) [UNIT IIa],-3.4746864253,53.9738588523,27/06/2010
+155,D08,4.0,23.24,,,,,,,,,,,,,,,,,sand,,-3.4746864253,53.9738588523,27/06/2010
+156,D08,5.0,22.79,1967.38,1600.41,,,,,,2.67,,,0.1899999999999999,,,,,0.002,sand,,-3.4746864253,53.9738588523,27/06/2010
+157,D08,6.0,22.84,,,,,,,,,,,,,,,,,sand,,-3.4746864253,53.9738588523,27/06/2010
+158,D08,7.0,23.95,,,,,,,,,,,,,,,,,sand,,-3.4746864253,53.9738588523,27/06/2010
+159,D08,8.0,26.71,,,,,,,,,,,,,,,,,sand,,-3.4746864253,53.9738588523,27/06/2010
+160,D08,9.0,25.13,,,,,,,,2.66,,,,,,,,0.002,sand,,-3.4746864253,53.9738588523,27/06/2010
+161,D08,10.0,24.09,,,,,,,,,,,,,,,,,gravel,Brown GRAVEL AND COBBLES.  Gravel is subangular to rounded ASAL DEPOSITS/CHAOTIC FACIES) [UNIT IId],-3.4746864253,53.9738588523,27/06/2010
+162,D08,10.8,16.19,,,,,,,,,,,,,,37.5,,,gravel,,-3.4746864253,53.9738588523,27/06/2010
+163,D08,11.0,8.3,,,,,,,,,,,,,,,,,"clay, gravel, sand",Stiff brown slightly gravelly to gravelly sandy CLAY.  Sand is fine to coarse.  Gravel is subangular and subrounded fine and medium of mixed lithologies mainly igneous. (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4746864253,53.9738588523,27/06/2010
+164,D08,11.6,0.4,,,,,,,,,,,,,94.2,86.7,,,"clay, gravel, sand",,-3.4746864253,53.9738588523,27/06/2010
+165,D08,12.0,0.4,,,,,,,,,,,,,,,,,sand,at 12.75 m - 20mm band of light grey to grey.,-3.4746864253,53.9738588523,27/06/2010
+166,D08,13.0,0.4,,,,,,,,,,,,,,,,,sand,from 13.10 m to 14.15 m - fractures are extremely closely to closely spaced,-3.4746864253,53.9738588523,27/06/2010
+167,D08,13.1,0.4,,,,,,,,,,,,,,79.2,,,sand,,-3.4746864253,53.9738588523,27/06/2010
+168,D08,14.3,0.4,,,,,,,,,,,,,146.0,93.3,,,sand,,-3.4746864253,53.9738588523,27/06/2010
+169,D08,15.0,0.3,,,,,,,,,,,,,,,,,sand,from 15.80 m to 17.00 m - fractures are very closely spaced inclined at <10 degrees,-3.4746864253,53.9738588523,27/06/2010
+170,D08,15.8,0.2,,,,,,,,,,,,,89.8,83.3,,,sand,,-3.4746864253,53.9738588523,27/06/2010
+171,D11,0.0,14.5,1529.05,1386.34,,,12.0,CU,Undisturbed,2.68,29.0,10.0,0.0899999999999999,,,,,0.002,"clay, sand",Very soft dark grey sandy CLAY with occasional locally frequent bivalve and gastropod shells (<30mm x 30mm) and shell fragments (<10mm x 10mm).  Sand is mainly fine. (SURFACE SANDS - SEDIMEN T LAYER),-3.4576425536,53.9595036339,29/06/2010
+172,D11,1.0,22.74,,,,,,,,,,,,,,,,,"clay, sand",,-3.4576425536,53.9595036339,29/06/2010
+173,D11,2.0,30.98,1901.12,1452.6,,,,,,,,,0.24,,,,,,sand,from 2.00 m to 4.10 m - locally grades into very sandy sand.  Sand is mainly fine becoming fine and medium with depth.,-3.4576425536,53.9595036339,29/06/2010
+174,D11,3.0,27.24,1896.02,1478.08,,,,CD,Reconstituted,2.68,,,0.2199999999999999,,,,31.5,0.002,sand,,-3.4576425536,53.9595036339,29/06/2010
+175,D11,4.0,19.95,,,,,,,,,,,,,,,,,sand,Dark greyish brown silty SAND.  Sand is fine and medium. (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.4576425536,53.9595036339,29/06/2010
+176,D11,5.0,21.84,,,,,,,,,,,,,,,,,sand,from 5.00 m to 5.45 m - occasional medium and coarse black sand sized carbonaceous fragments.,-3.4576425536,53.9595036339,29/06/2010
+177,D11,6.0,23.06,,,,,,,,,,,,,,,,,sand,,-3.4576425536,53.9595036339,29/06/2010
+178,D11,7.0,23.03,,,,,,,,,,,,,,,,,sand,from 7.00 m to 7.25 m -  very closely spaced lenses (<3mm) and thin laminae of very dark grey fine and medium sand.,-3.4576425536,53.9595036339,29/06/2010
+179,D11,8.0,22.71,,,,,,CD,Reconstituted,2.67,,,,,,,39.5,0.002,sand,,-3.4576425536,53.9595036339,29/06/2010
+180,D11,9.0,22.42,,,,,,,,,,,,,,,,,clay,Very strong slightly to partially weathered dark grey becoming grey crystalline (<2mm) MICROGABBRO.  Fractures are medium spaced egrees,-3.4576425536,53.9595036339,29/06/2010
+181,D11,9.48,0.4,,,,,,,,,,,,,129.8,100.0,,,clay,,-3.4576425536,53.9595036339,29/06/2010
+182,D11,10.98,0.67,,,,,,,,,,,,,,98.2,,,clay,,-3.4576425536,53.9595036339,29/06/2010
+183,D11,11.0,0.93,,,,,,,,,,,,,,,,,clay,Below 11.35 m - slightly weathered.,-3.4576425536,53.9595036339,29/06/2010
+184,D11,12.1,1.2,,,,,,,,,,,,,147.6,98.0,,,clay,,-3.4576425536,53.9595036339,29/06/2010
+185,D11,13.6,0.5,,,,,,,,,,,,,160.8,100.0,,,clay,,-3.4576425536,53.9595036339,29/06/2010
+186,E04,0.0,19.0,,,,,,,,2.69,32.0,13.0,,,,,,0.002,"clay, sand",Very soft dark grey sandy CLAY ],-3.4854160003,53.9956986306,22/06/2010
+187,E04,1.0,24.22,,,,,,,,,,,,,,,,,"clay, sand",,-3.4854160003,53.9956986306,22/06/2010
+188,E04,2.0,29.44,1906.22,1474.69,,,,CD,Reconstituted,2.69,,,0.2299999999999999,,,,31.0,,sand,Below 2.00 m - locally grades to very silty sand.,-3.4854160003,53.9956986306,22/06/2010
+189,E04,3.0,28.17,,,,,,CD,Reconstituted,2.69,,,,,,,30.5,0.002,sand,,-3.4854160003,53.9956986306,22/06/2010
+190,E04,4.0,26.91,,,,,,,,,,,,,,,,,sand,from 4.00 m to 4.45 m - frequent shells.,-3.4854160003,53.9956986306,22/06/2010
+191,E04,5.0,22.51,1997.96,1630.99,,,,,,,,,0.18,,,,,,sand,Dark greyish brown at top becoming brown with depth slightly silty SAND.  Sand is mainly fine. (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER),-3.4854160003,53.9956986306,22/06/2010
+192,E04,6.0,21.52,,,,,,,,,,,,,,,,,sand,,-3.4854160003,53.9956986306,22/06/2010
+193,E04,7.0,22.64,1977.57,1610.6,,,,,,,,,0.1899999999999999,,,,,,sand,,-3.4854160003,53.9956986306,22/06/2010
+194,E04,8.0,23.5,,,,,,,,,,,,,,,,,sand,,-3.4854160003,53.9956986306,22/06/2010
+195,E04,9.0,23.12,1936.8,1569.83,,,,,,,,,0.1899999999999999,,,,,,sand,from 9.00 m to 14.00 m - rare to occasional shells (<10mm) and shell fragments (<10mm).,-3.4854160003,53.9956986306,22/06/2010
+196,E04,10.0,24.95,,,,,,,,,,,,,,,,,sand,,-3.4854160003,53.9956986306,22/06/2010
+197,E04,11.0,24.21,,,,,,,,,,,,,,,,,sand,,-3.4854160003,53.9956986306,22/06/2010
+198,E04,12.0,22.62,2028.54,1651.38,,,,,,,,,0.1899999999999999,,,,,,sand,,-3.4854160003,53.9956986306,22/06/2010
+199,E04,13.0,25.86,,,,,,,,,,,,,,,,,sand,,-3.4854160003,53.9956986306,22/06/2010
+200,E04,14.0,24.61,,,,,,CD,Reconstituted,2.67,,,,,,,38.5,0.002,sand,,-3.4854160003,53.9956986306,22/06/2010
+201,E04,15.0,29.09,,,,,,,,,,,,,,,,,sand,from 15.00 m to 17.00 m - rare,-3.4854160003,53.9956986306,22/06/2010
+202,E04,16.0,28.51,,,,,,,,,,,,,,,,,clay,from 16.00 m to 17.00 m - some laminae of clay.,-3.4854160003,53.9956986306,22/06/2010
+203,E04,17.0,28.25,,,,,,CD,Reconstituted,2.65,,,,,,,35.5,0.002,clay,Below 17.0 m - becomes silty.,-3.4854160003,53.9956986306,22/06/2010
+204,E04,18.0,15.9,2242.61,1936.8,,,202.0,CU,Undisturbed,,,,0.14,,,,,,"clay, gravel, sand",from 18.65 m to 18.68 m - non intact,-3.4854160003,53.9956986306,22/06/2010
+205,E04,18.65,12.24,,,,138.0,,,,2.71,33.0,18.0,,,,68.7,,0.002,"clay, gravel, sand",,-3.4854160003,53.9956986306,22/06/2010
+206,E04,19.0,9.91,,,,,,,,,,,,,,,,,"clay, gravel, sand",from 19.38 m to 19.78 m - weak,-3.4854160003,53.9956986306,22/06/2010
+207,E04,20.0,7.59,,,,,,,,,,,,,,,,,"clay, gravel, sand",from 20.66 m to 21.06 m - non intact,-3.4854160003,53.9956986306,22/06/2010
+208,E04,20.15,5.26,,,,,,,,,,,,,46.0,100.0,,,"clay, gravel, sand",,-3.4854160003,53.9956986306,22/06/2010
+209,E04,21.0,2.93,,,,,,,,,,,,,,,,,"clay, gravel, sand",from 21.10 m to 21.26 m - assessed zone of core loss.,-3.4854160003,53.9956986306,22/06/2010
+210,E04,21.1,0.6,,,,,,,,,,,,,62.1,23.3,,,"clay, gravel, sand",,-3.4854160003,53.9956986306,22/06/2010
+211,E04,22.0,0.5,,,,,,,,,,,,,,,,,"clay, gravel, sand",Strong to very strong fresh very dark greenish grey crystalline (<2mm to 3mm) MICROGABBRO.  Fractures are medium spaced inclined 45 to >85 degrees n,-3.4854160003,53.9956986306,22/06/2010
+212,E04,22.65,0.4,,,,,,,,,,,,,99.2,98.0,,,"clay, gravel, sand",,-3.4854160003,53.9956986306,22/06/2010
+213,E04,23.0,0.4,,,,,,,,,,,,,,,,,"clay, gravel, sand",from 23.06 m to 23.17 m -  non intact,-3.4854160003,53.9956986306,22/06/2010
+214,E06,0.0,29.2,,,,,,,,,30.0,11.0,,,,,,0.002,"clay, sand",Very soft dark brown sandy CLAY,-3.474107935,53.986088738,24/06/2010
+215,E06,1.0,41.13,,,,,,CD,Reconstituted,2.68,,,,,,,34.0,0.002,sand,Dark brown silty SAND locally grading to sandy SILT.  Sand is fine and medium.  With occasional bivalve shell fragments. (SURFACE SANDS - SEDIMENT LAYER) [UNIT I],-3.474107935,53.986088738,24/06/2010
+216,E06,2.0,27.32,,,,,,,,,26.0,5.0,,,,,,0.002,"clay, sand",Very soft dark brown sandy CLAY.  Sand is mainly fine. (SURFACE SANDS - SEDIMENT LAYER)  [UNIT I],-3.474107935,53.986088738,24/06/2010
+217,E06,3.0,32.95,,,,,,CD,Reconstituted,,,,,,,,30.0,0.002,sand,Dark greyish brown GRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.474107935,53.986088738,24/06/2010
+218,E06,4.0,21.36,,,,,,,,,,,,,,,,,sand,,-3.474107935,53.986088738,24/06/2010
+219,E06,5.0,22.98,,,,,,,,,,,,,,,,,sand,,-3.474107935,53.986088738,24/06/2010
+220,E06,6.0,18.82,,,,,,,,,,,,,,,,,sand,,-3.474107935,53.986088738,24/06/2010
+221,E06,7.0,23.43,,,,,,,,,,,,,,,,,sand,,-3.474107935,53.986088738,24/06/2010
+222,E06,8.0,23.99,,,,,,,,,,,,,,,,,sand,,-3.474107935,53.986088738,24/06/2010
+223,E06,9.0,23.64,,,,,,,,,,,,,,,,,clay,from 9.00 m to 12.25 m - rare clay laminae.,-3.474107935,53.986088738,24/06/2010
+224,E06,10.0,25.44,,,,,,,,,,,,,,,,,clay,,-3.474107935,53.986088738,24/06/2010
+225,E06,11.0,25.05,,,,,,CD,Reconstituted,2.67,,,,,,,38.5,0.002,clay,,-3.474107935,53.986088738,24/06/2010
+226,E06,12.0,22.18,,,,,,,,,,,,,,,,,clay,,-3.474107935,53.986088738,24/06/2010
+227,E06,13.0,23.91,,,,,,,,,,,,,,,,,clay,,-3.474107935,53.986088738,24/06/2010
+228,E06,14.0,21.13,,,,,,,,,,,,,,,,,sand,from 14.10 m to 15.00 m - very dark grey fine sand.,-3.474107935,53.986088738,24/06/2010
+229,E06,15.0,20.33,,,,,,,,,,,,,,,,,sand,,-3.474107935,53.986088738,24/06/2010
+230,E06,16.0,18.32,,,,,,,,,,,,,,,,,"gravel, sand",Dark grey slightly sandy GRAVEL,-3.474107935,53.986088738,24/06/2010
+231,E06,16.4,24.84,,,,,,,,,,,,,,,,,"gravel, sand",,-3.474107935,53.986088738,24/06/2010
+232,E06,17.0,23.69,,,,,,,,,,,,,,,,,sand,Brown silty SAND.  Sand is fine and medium. (WESTERN IRISH SEA BASAL DEPOSITS/CHAOTIC FACIES) [UNIT IId],-3.474107935,53.986088738,24/06/2010
+233,E06,17.4,22.53,,,,,,CD,Reconstituted,2.69,,,,,,,41.0,0.002,sand,,-3.474107935,53.986088738,24/06/2010
+234,E06,18.0,24.89,,,,,,,,,,,,,,,,,clay,Soft thinly laminated dark brown CLAY. (CARDIGAN BAY - UPPER TILL - LAMINATED) [UNIT III],-3.474107935,53.986088738,24/06/2010
+235,E06,18.9,27.24,2008.15,1580.02,,12.0,,,,,,,0.2099999999999999,,,,,,clay,,-3.474107935,53.986088738,24/06/2010
+236,E06,19.0,22.62,,,,,,,,,,,,,,,,,"clay, sand",Firm low and medium strength ravelly CLAY.  Sand is fine to coarse,-3.474107935,53.986088738,24/06/2010
+237,E06,19.9,17.99,,,,32.0,,,,,,,,,,,,,"clay, sand",,-3.474107935,53.986088738,24/06/2010
+238,E06,20.0,18.18,,,,,,,,,,,,,,,,,sand,from 20.90 m to 21.20 m - slightly sandy.  Sand is fine to coarse.,-3.474107935,53.986088738,24/06/2010
+239,E06,20.9,18.36,2099.9,1845.06,,171.0,123.0,CU,Undisturbed,2.69,40.0,23.0,0.12,,,,,0.002,sand,,-3.474107935,53.986088738,24/06/2010
+240,E06,21.9,23.26,,,,,,,,,,,,,,25.0,,,sand,,-3.474107935,53.986088738,24/06/2010
+241,E06,22.0,13.38,,,,,,,,,,,,,,,,,sand,Weak to medium strong gh,-3.474107935,53.986088738,24/06/2010
+242,E06,22.9,3.5,,,,,,,,,,,,,2.5,30.0,,,sand,,-3.474107935,53.986088738,24/06/2010
+243,E06,24.0,2.55,,,,,,,,,,,,,,,,,sand,from 24.60 m to 25.90 m - Crystalline (<5mm).,-3.474107935,53.986088738,24/06/2010
+244,E06,24.4,1.6,,,,,,,,,,,,,56.2,83.3,,,sand,,-3.474107935,53.986088738,24/06/2010
+245,E06,25.9,1.3,,,,,,,,,,,,,46.4,100.0,,,sand,,-3.474107935,53.986088738,24/06/2010
+246,E06,27.4,1.15,,,,,,,,,,,,,,93.3,,,sand,,-3.474107935,53.986088738,24/06/2010
+247,E06,28.9,1.0,,,,,,,,,,,,,15.1,90.0,,,sand,,-3.474107935,53.986088738,24/06/2010
+248,E06,30.4,0.3,,,,,,,,,,,,,143.6,93.3,,,sand,,-3.474107935,53.986088738,24/06/2010
+249,E06,31.9,0.4,,,,,,,,,,,,,,92.0,,,sand,,-3.474107935,53.986088738,24/06/2010
+250,E06,33.4,0.5,,,,,,,,,,,,,116.1,81.3,,,sand,,-3.474107935,53.986088738,24/06/2010
+251,E09,0.0,30.15,,,,,,,,2.67,29.0,8.0,,,,,,0.002,"clay, sand",Very soft dark brown sandy silty CLAY,-3.457159732,53.971693367,26/06/2010
+252,E09,1.0,37.86,,,,,,,,,,,,,,,,0.002,"clay, sand",,-3.457159732,53.971693367,26/06/2010
+253,E09,2.0,21.8,,,,,,,,,,,,,,,,,"clay, sand",Dark brown clayey SAND,-3.457159732,53.971693367,26/06/2010
+254,E09,3.0,25.04,,,,,,,,2.69,27.0,9.0,,,,,,0.002,"clay, sand",Very soft dark brown sandy CLAY,-3.457159732,53.971693367,26/06/2010
+255,E09,4.0,30.28,,,,,,,,,,,,,,,,0.002,"clay, sand",Greyish brown (<5 x 5mm).  Sand is fine and medium. (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNI IIa],-3.457159732,53.971693367,26/06/2010
+256,E09,5.0,29.7,,,,,,,,,,,,,,,,,"clay, sand",,-3.457159732,53.971693367,26/06/2010
+257,E09,6.0,29.13,,,,,,,,,,,,,,,,0.002,"clay, sand",,-3.457159732,53.971693367,26/06/2010
+258,E09,7.0,28.55,,,,,,,,,,,,,,,,0.002,"clay, sand",at 7.10 m - 1 No. thin lamina of fine to coarse sand sized carbonaceous fragments.,-3.457159732,53.971693367,26/06/2010
+259,E09,8.0,27.97,,,,,,,,,,,,,,,,,"clay, sand",,-3.457159732,53.971693367,26/06/2010
+260,E09,9.0,27.4,,,,,,,,,,,,,,,,,sand,at 9.15 m - 1 No. thin lamina of dark grey sandy silt.  Sand is fine and medium.,-3.457159732,53.971693367,26/06/2010
+261,E09,10.0,26.82,,,,,,CD,Reconstituted,2.67,,,,,,,34.5,,"clay, sand",at 10.05 m - 1 No. thin lamina of very soft grey clay.,-3.457159732,53.971693367,26/06/2010
+262,E09,11.0,26.24,,,,,,,,,,,,,,,,,"clay, sand",,-3.457159732,53.971693367,26/06/2010
+263,E09,12.0,25.67,,,,,,,,,,,,,,,,,"clay, sand",,-3.457159732,53.971693367,26/06/2010
+264,E09,13.0,25.09,,,,,,,,,,,,,,,,,sand,from 13.00 m to 13.45 m - rare to occasional lenses (<5mm) of fine to coarse sand sized carbonaceous debris.,-3.457159732,53.971693367,26/06/2010
+265,E09,14.0,24.51,,,,,,,,,,,,,,,,,sand,from 14.00 m to 15.00 m - occasional pockets (<40 x 50mm) of grey and dark grey thinly laminated silt.,-3.457159732,53.971693367,26/06/2010
+266,E09,15.0,23.94,,,,,,CD,Reconstituted,2.65,,,,,,,33.5,0.002,"gravel, sand",Dark greyish brown gravelly SAND.  Sand is fine to coarse rk grey fine and medium sandy silt. (WESTERN IRISH SEA BASAL DEPOSITS/CHAOTIC FACIES) [UNIT IId],-3.457159732,53.971693367,26/06/2010
+267,E09,16.0,23.36,2059.12,,,112.0,,,,,,,,,,,,,"gravel, sand",at 16.45 m - 1 No. subangular cobble (100 x 70mm) of very strong gabbro.,-3.457159732,53.971693367,26/06/2010
+268,E09,17.0,22.78,2003.06,1608.05,100.0,88.0,65.0,UU,Remoulded,2.7,41.0,23.0,0.1999999999999999,11522.01,,,,0.002,"gravel, sand",,-3.457159732,53.971693367,26/06/2010
+269,E09,18.0,17.89,,,,71.0,,,,,,,,,,,,,"gravel, sand",Firm to stiff medium strength becoming very stiff high strength with depth dusky red slightly gravelly slightly sandy ded fine to coarse of mixed lithologies. (CARDIGAN BAY UPPER TILL) [UNIT III],-3.457159732,53.971693367,26/06/2010
+270,E09,19.0,13.0,,,,46.0,,,,,30.0,17.0,,,,,,0.002,"gravel, sand",,-3.457159732,53.971693367,26/06/2010
+271,E09,20.0,12.5,,,,196.0,,,,,,,,,,,,,"clay, gravel, sand",from 24.00 m to 25.80 m - slightly sandy gravelly clay,-3.457159732,53.971693367,26/06/2010
+272,E09,21.0,12.0,2364.93,2110.09,,154.0,366.0,CU,Undisturbed,,,,0.1099999999999999,,,,,,"clay, gravel, sand",,-3.457159732,53.971693367,26/06/2010
+273,E09,22.0,13.0,2232.42,1977.57,142.0,167.0,,,,,,,0.1099999999999999,16614.37,,,,,"clay, gravel, sand",,-3.457159732,53.971693367,26/06/2010
+274,E09,23.0,11.5,2334.35,2120.29,,140.0,348.0,CU,Undisturbed,,28.0,15.0,0.0899999999999999,,,,,0.002,"clay, sand",from 23.00 m to 24.00 m - occasional pockets (<20 x 20mm) of clayey fine to coarse sand.,-3.457159732,53.971693367,26/06/2010
+275,E09,24.0,13.0,,,,267.0,,,,2.71,27.0,14.0,,,,,,0.002,"clay, sand",,-3.457159732,53.971693367,26/06/2010
+276,E09,25.0,18.62,,,,67.0,,,,,,,,,,,,0.002,"gravel, sand",Grey  slightly silty very gravelly SAND.  Sand is fine to coarse,-3.457159732,53.971693367,26/06/2010
+277,E09,26.0,23.7,,,,,,,,2.73,,,,,,,,0.002,"gravel, sand",Strong slightly weathered very dark grey crystalline (<1-8mm) GABBRO/MICROGABBRO. Fractures are medium spaced to widely spaced lly smooth,-3.457159732,53.971693367,26/06/2010
+278,E09,27.0,0.7,,,,,,,,,,,,,51.3,100.0,,,"gravel, sand",,-3.457159732,53.971693367,26/06/2010
+279,E09,28.5,0.9,,,,,,,,,,,,,56.5,100.0,,,"gravel, sand",,-3.457159732,53.971693367,26/06/2010
+280,E09,30.0,1.1,,,,,,,,,,,,,88.8,95.3,,,"gravel, sand",from 30.60 m to 60.65 m - fracture inclined at <5 degrees undulating,-3.457159732,53.971693367,26/06/2010
+281,E09,31.0,1.1,,,,,,,,,,,,,,,,,"gravel, sand",from 31.81 m to 32.00 m - subvertical vein of possibly feldspar (<3mm).,-3.457159732,53.971693367,26/06/2010
+282,E09,31.5,1.1,,,,,,,,,,,,,,100.0,,,"gravel, sand",,-3.457159732,53.971693367,26/06/2010
+283,F08,0.0,41.97,,,,,,,,2.68,,,,,,,,0.002,"clay, sand",Dark brown slightly clayey SAND locally grading to sandy CLAY,-3.4505774259,53.9791891766,11/06/2010
+284,F08,1.0,32.8,,,,,,,,,,,,,,,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+285,F08,2.0,23.38,,,,,,,,,,,,,,,,,"clay, sand",Dark brown grey,-3.4505774259,53.9791891766,11/06/2010
+286,F08,3.0,24.7,,,,,,,,2.68,,,,,,,,0.002,"clay, sand",at 3.00 m - shell fragments less frequent.,-3.4505774259,53.9791891766,11/06/2010
+287,F08,4.5,25.37,,,,,,,,,,,,,,,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+288,F08,6.0,12.16,,,,,,CD,Reconstituted,2.65,,,,,136.9,40.0,38.0,0.002,"clay, sand",Very strong fresh massive dark grey crystalline MICROGABBRO.  Fractures are closely to widely spaced ide,-3.4505774259,53.9791891766,11/06/2010
+289,F08,7.0,9.17,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+290,F08,7.85,6.18,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+291,F08,9.0,3.19,,,,,,,,,,,,,,,,,"clay, sand",Very strong fresh dark grey mottled light green MICROGABBRO ccasionally >85 degrees,-3.4505774259,53.9791891766,11/06/2010
+292,F08,9.35,0.2,,,,,,,,,,,,,108.5,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+293,F08,10.85,0.27,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+294,F08,12.35,0.33,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+295,F08,13.85,0.4,,,,,,,,,,,,,141.3,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+296,F08,15.0,0.37,,,,,,,,,,,,,,,,,"clay, sand",from 15.75 m to 15.85 m - 4 No. fractures inclined at <5 degrees,-3.4505774259,53.9791891766,11/06/2010
+297,F08,15.35,0.33,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+298,F08,16.85,0.3,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+299,F08,17.0,0.27,,,,,,,,,,,,,,,,,"clay, sand",at 17.68 m -  feldspar vein inclined <5 degrees (<3mm thick).,-3.4505774259,53.9791891766,11/06/2010
+300,F08,18.0,0.23,,,,,,,,,,,,,,,,,"clay, sand",at 18.52 m - fracture inclined at 10 degrees,-3.4505774259,53.9791891766,11/06/2010
+301,F08,18.35,0.2,,,,,,,,,,,,,140.8,95.3,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+302,F08,19.85,0.2,,,,,,,,,,,,,,95.3,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+303,F08,21.35,0.2,,,,,,,,,,,,,165.2,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+304,F08,22.85,0.2,,,,,,,,,,,,,116.7,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+305,F08,23.0,0.2,,,,,,,,,,,,,,,,,"clay, sand",at 23.23 m - feldspar vein inclined <5 degrees (up to 2mm thick).,-3.4505774259,53.9791891766,11/06/2010
+306,F08,24.0,0.2,,,,,,,,,,,,,,,,,"clay, sand",Very strong fresh massive dark grey crystalline MICROGABRO >75 degrees,-3.4505774259,53.9791891766,11/06/2010
+307,F08,24.35,0.2,,,,,,,,,,,,,,91.3,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+308,F08,25.85,0.2,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+309,F08,27.0,0.2,,,,,,,,,,,,,,,,,"clay, sand",at 27.16 m - feldspar vein inclined 5 degrees (up to 2mm thick).,-3.4505774259,53.9791891766,11/06/2010
+310,F08,27.35,0.2,,,,,,,,,,,,,,95.3,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+311,F08,28.0,0.2,,,,,,,,,,,,,,,,,"clay, sand",at 28.97 m - feldspar vein inclined at <5 degrees (<2mm).,-3.4505774259,53.9791891766,11/06/2010
+312,F08,28.85,0.2,,,,,,,,,,,,,70.0,96.7,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+313,F08,30.35,0.25,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+314,F08,30.5,0.3,,,,,,,,,,,,,122.0,96.3,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+315,F08,31.0,0.3,,,,,,,,,,,,,,,,,"clay, sand",from 31.95 m to 32.40 m - feldspar vein,-3.4505774259,53.9791891766,11/06/2010
+316,F08,31.85,0.3,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+317,F08,33.0,0.3,,,,,,,,,,,,,,,,,"clay, sand",from 33.4 m to 37.2 m - fracture inclined at 75 - >85 degrees,-3.4505774259,53.9791891766,11/06/2010
+318,F08,33.35,0.3,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+319,F08,34.85,0.3,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+320,F08,35.0,0.3,,,,,,,,,,,,,,,,,"clay, sand",from 35.65 m to 36.10 m - feldspar vein inclined >85 degrees.,-3.4505774259,53.9791891766,11/06/2010
+321,F08,36.35,0.3,,,,,,,,,,,,,,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+322,F08,37.85,0.3,,,,,,,,,,,,,148.1,100.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+323,F08,39.35,0.3,,,,,,,,,,,,,,92.0,,,"clay, sand",,-3.4505774259,53.9791891766,11/06/2010
+324,G06,0.0,,,,,,,,,2.68,,,,,,,,0.002,"clay, sand",Very soft dark grey sandy CLAY YER) [UNIT I],-3.4495018942,53.9915608157,30/06/2010
+325,G06,1.0,20.0,,,,,,,,,28.0,8.0,,,,,,,sand,Below 1.00 m - locally grades into very silty sand.,-3.4495018942,53.9915608157,30/06/2010
+326,G06,2.0,25.1,1997.96,1600.41,,,,,,,,,0.1999999999999999,,,,,0.002,sand,Dark grey silty to very silty SAND,-3.4495018942,53.9915608157,30/06/2010
+327,G06,3.0,23.92,,,,,,,,,,,,,,,,,sand,,-3.4495018942,53.9915608157,30/06/2010
+328,G06,4.0,22.75,,,,,,,,,,,,,,,,,sand,Dark greyish brown,-3.4495018942,53.9915608157,30/06/2010
+329,G06,5.0,21.28,,,,,,,,,,,,,,,,,"clay, sand",at 5.05 m - 1 No. thin lamina of very soft very dark grey sandy clay.  Sand is fine and medium.,-3.4495018942,53.9915608157,30/06/2010
+330,G06,6.0,23.25,,,,,,,,,,,,,,,,0.002,sand,from 6.00 m to 6.45 m - occasional black medium and coarse sand sized fragments (possibly carbonaceous).,-3.4495018942,53.9915608157,30/06/2010
+331,G06,7.0,23.68,,,,,,,,,,,,,,,,,"gravel, sand",from 7.00 m to 7.45 m - very closely spaced thin laminae of very dark grey silty fine and medium sand.,-3.4495018942,53.9915608157,30/06/2010
+332,G06,8.0,23.48,,,,,,,,,,,,,,,,,"gravel, sand",,-3.4495018942,53.9915608157,30/06/2010
+333,G06,9.0,24.0,,,,,,,,,,,,,,,,,"gravel, sand",,-3.4495018942,53.9915608157,30/06/2010
+334,G06,10.0,23.81,,,,,,,,,,,,,,,,,"gravel, sand",,-3.4495018942,53.9915608157,30/06/2010
+335,G06,11.0,22.95,,,,,,,,2.66,,,,,,,,0.002,"gravel, sand",,-3.4495018942,53.9915608157,30/06/2010
+336,G06,12.0,22.39,,,,,,,,,,,,,,,,,"gravel, sand",,-3.4495018942,53.9915608157,30/06/2010
+337,G06,13.0,23.79,1931.7,1564.73,,,,,,,,,0.1899999999999999,,,,,,sand,Thinly laminated dark grey and very dark grey silty SAND,-3.4495018942,53.9915608157,30/06/2010
+338,G06,14.0,22.45,1870.54,1529.05,,,,CD,Reconstituted,,,,0.18,,,,40.5,0.002,sand,from 14.00 m to 15.00 m - very closely to closely spaced thin laminae of black medium and coarse sand sized fragments (possibly carbonaceous).,-3.4495018942,53.9915608157,30/06/2010
+339,G06,15.0,26.3,1936.8,1539.25,,,,,,,,,0.2099999999999999,,,,,,sand,from 15.00 m to 15.30 m - extremely closely to very closely spaced thin laminae of very dark grey silty fine sand.,-3.4495018942,53.9915608157,30/06/2010
+340,G06,16.0,23.55,2008.15,1628.44,,,,CD,Reconstituted,2.63,,,0.1899999999999999,,,,37.0,0.002,"gravel, sand",Grey silty SAND with very closely spaced thin laminae of dark grey and black silty fine sand.  Sand is fine and medium. (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.4495018942,53.9915608157,30/06/2010
+341,G06,17.0,24.0,,,,,,,,,,,,,,,,,sand,from 17.00 m to 17.50 m - No Recovery,-3.4495018942,53.9915608157,30/06/2010
+342,G06,17.5,24.46,1924.06,1544.34,,,,,,,,,0.1999999999999999,,,,,0.002,sand,,-3.4495018942,53.9915608157,30/06/2010
+343,G06,18.0,20.22,,,,,,,,,,,,,,,,,"clay, gravel, sand",from 18.50 m to 18.65 m - dark grey slightly silty fine to coarse sand with occasional shell fragments (<4mm).,-3.4495018942,53.9915608157,30/06/2010
+344,G06,18.5,15.98,2232.42,1967.38,188.0,129.0,386.0,CU,Undisturbed,2.7,23.0,10.0,0.12,14088.7,,,,0.002,"clay, gravel, sand",,-3.4495018942,53.9915608157,30/06/2010
+345,G06,19.0,16.22,,,,,,,,,,,,,,,,,gravel,at 19.95 m - rare lenses (<5mm x 50mm) of dark grey silt with slight organic odour.,-3.4495018942,53.9915608157,30/06/2010
+346,G06,20.0,16.45,,,,115.0,,,,,30.0,15.0,,,,,,0.002,sand,from 20.40 m to 20.47 m - very closely spaced thin laminae of light grey fine and medium sand.,-3.4495018942,53.9915608157,30/06/2010
+347,G06,21.0,28.46,,,,17.0,,,,,,,,,,,,,gravel,from 21.00 m to 24.05 m - subrounded and rounded fine to coarse flint gravel.,-3.4495018942,53.9915608157,30/06/2010
+348,G06,22.0,27.07,,,,24.0,,,,,,,,,,,,,gravel,,-3.4495018942,53.9915608157,30/06/2010
+349,G06,23.0,20.17,,,,49.0,,,,,35.0,20.0,,,,,,0.002,"clay, sand",from 23.30 m to 23.35 m - light brown silty fine and medium sand with rare laminae of soft brown clay,-3.4495018942,53.9915608157,30/06/2010
+350,G06,24.0,14.03,2229.02,1960.58,417.0,147.0,197.0,UU,Remoulded,,29.0,14.5,0.12,18546.62,,,,0.002,"clay, gravel, mud, sand",Firm reddish brown slightly sandy calcareous CLAY with some lithorelicts of very weak mudstone and fine and medium gravel sized fragments of gypsum. (WEATHERED MERCIA MUDSTONE) [UNIT VIa],-3.4495018942,53.9915608157,30/06/2010
+351,G06,25.0,13.03,,,,,,,,,,,,,,,,,"mud, sand",Very weak locally weak partially weathered reddish brown slightly sandy calcareous MUDSTONE with very closely to closely spaced gypsum veins (<15mm thick) inclined <5 - 45 degrees.  Fracture s are closely spaced inclined between <5 and <60 degrees,-3.4495018942,53.9915608157,30/06/2010
+352,G06,25.5,12.02,,,,,,,,,,,,,,18.7,,,"mud, sand",,-3.4495018942,53.9915608157,30/06/2010
+353,G06,26.0,11.02,,,,,,,,,,,,,,,,,"clay, mud, sand",at 26.90 m - 35mm thin bed of weak grey green mudstone.,-3.4495018942,53.9915608157,30/06/2010
+354,G06,27.0,10.01,,,,,,,,,,,,,,34.7,,,"clay, mud, sand",from 27.30 m to 27.90 m - fracture linclined at >85 degrees,-3.4495018942,53.9915608157,30/06/2010
+355,G06,28.0,9.01,,,,,,,,,,,,,,,,,mud,Weak slightly weathered dark reddish brown calcareous MUDSTONE with closely to medium spaced randomly orientated gypsum veins.  Fractures are closely to medium spaced mooth,-3.4495018942,53.9915608157,30/06/2010
+356,G06,28.5,8.0,,,,,,,,,,,,,6.9,100.0,,,mud,,-3.4495018942,53.9915608157,30/06/2010
+357,G06,30.0,7.6,,,,,,,,,,,,,10.5,96.7,,,mud,,-3.4495018942,53.9915608157,30/06/2010
+358,G06,31.0,7.9,,,,,,,,,,,,,,,,,mud,Very weak and weak slightly to partially weathered dusky red calcareous MUDSTONE with very closely to medium spaced subhorizontal to inclined (50 degrees) gypsum veins (<30mm thick) inclined between <5 degrees and 50 degrees,-3.4495018942,53.9915608157,30/06/2010
+359,G06,31.5,8.2,,,,,,,,,,,,,,96.7,,,mud,,-3.4495018942,53.9915608157,30/06/2010
+360,G06,33.0,8.5,,,,,,,,,,,,,4.9,86.7,,,mud,,-3.4495018942,53.9915608157,30/06/2010
+361,G06,34.5,10.75,,,,,,,,,,,,,,76.7,,,mud,,-3.4495018942,53.9915608157,30/06/2010
+362,G06,36.0,13.0,,,,,,,,,,,,,1.1,70.0,,,mud,,-3.4495018942,53.9915608157,30/06/2010
+363,G06,37.0,11.3,,,,,,,,,,,,,,,,,mud,Weak slightly weathered reddish brown calcareous MUDSTONE with closely to medium spaced randomly orientated gypsum veins (<10mm thick).  Fractures are closely to medium spaced inclined betwe en <5 degrees and >85 degrees,-3.4495018942,53.9915608157,30/06/2010
+364,G06,37.5,9.6,,,,,,,,,,,,,,93.3,,,mud,,-3.4495018942,53.9915608157,30/06/2010
+365,G06,39.0,7.9,,,,,,,,,,,,,5.1,100.0,,,mud,,-3.4495018942,53.9915608157,30/06/2010
+366,G10,0.0,31.39,,,,,,,,,31.0,10.0,,,,,,,"clay, sand",Very soft dark grey sandy CLAY,-3.4271657853,53.9722671544,02/07/2010
+367,G10,1.0,38.94,,,,,,CD,Reconstituted,2.68,,,,,,,31.0,0.002,"clay, sand",,-3.4271657853,53.9722671544,02/07/2010
+368,G10,2.0,21.14,2013.25,1661.57,,,,,,,,,0.17,,,,,,sand,Light greyish brown slightly silty to silty SAND,-3.4271657853,53.9722671544,02/07/2010
+369,G10,3.0,17.86,1950.39,1654.77,,,,,,,,,0.15,,,,,0.002,sand,from 3.35 m to 4.00 m - dark grey green.,-3.4271657853,53.9722671544,02/07/2010
+370,G10,4.0,21.78,,,,,,CD,Reconstituted,2.67,,,,,,,44.5,0.002,sand,Below 4.00 m - rare shell fragments.,-3.4271657853,53.9722671544,02/07/2010
+371,G10,5.0,20.77,,,,,,,,,,,,,,,,,sand,from 5.00 m to 5.45 m - locally with very closely spaced thin laminae of dark grey to black silt/fine sand.,-3.4271657853,53.9722671544,02/07/2010
+372,G10,6.0,22.71,,,,,,,,,,,,,,,,,sand,,-3.4271657853,53.9722671544,02/07/2010
+373,G10,7.0,23.26,,,,,,,,,,,,,,,,0.002,sand,,-3.4271657853,53.9722671544,02/07/2010
+374,G10,8.0,22.96,,,,,,,,,,,,,,,,,sand,from 8.05 m to 8.15 m - dark grey.,-3.4271657853,53.9722671544,02/07/2010
+375,G10,9.0,22.16,,,,,,,,,,,,,,,,,sand,at 9.10 m - lens (<25mm x <25mm) of dark grey fine and medium sand.,-3.4271657853,53.9722671544,02/07/2010
+376,G10,10.0,25.14,,,,,,CD,Reconstituted,2.67,,,,,,,40.0,0.002,sand,,-3.4271657853,53.9722671544,02/07/2010
+377,G10,11.0,24.35,,,,,,,,,,,,,,,,,sand,from 11.00 m to 12.15 m - dark greyish brown silty sand with rare shell fragments (<3mm).  Sand is mainly fine.,-3.4271657853,53.9722671544,02/07/2010
+378,G10,12.0,28.19,,,,,,,,,,,,,,,,0.002,sand,at 12.15 m - sand is fine,-3.4271657853,53.9722671544,02/07/2010
+379,G10,13.0,18.89,,,,,,,,,,,,,,,,,gravel,Probably very stiff dark brown slightly gravelly to coarse.  Gravel is angular to subrounded fine to coarse of mixed lithologies,-3.4271657853,53.9722671544,02/07/2010
+380,G10,13.3,9.59,2344.55,2161.06,782.0,900.0,272.0,CU,Undisturbed,,23.0,12.0,0.0799999999999999,11734.0,,,,0.002,gravel,,-3.4271657853,53.9722671544,02/07/2010
+381,G10,14.0,10.09,,,,,,,,,,,,,,,,,"gravel, sand",Greenish black crystalline (<2mm) MICROGABBRO recovered as sandy gravel.  Sand is fine to coarse.  Gravel is angular and subangular fine and medium of extremely weak to very weak microgabbro . (WEST OF DUDDON SANDS MICROGABBRO) [UNIT V],-3.4271657853,53.9722671544,02/07/2010
+382,G10,14.3,10.59,,,,,,,,,,,,,,,,,"gravel, sand",,-3.4271657853,53.9722671544,02/07/2010
+383,G10,14.6,0.3,,,,,,,,,,,,,107.45,81.3,,,"gravel, sand",,-3.4271657853,53.9722671544,02/07/2010
+384,G10,15.4,0.25,,,,,,,,,,,,,,100.0,,,"gravel, sand",,-3.4271657853,53.9722671544,02/07/2010
+385,G10,16.9,0.2,,,,,,,,,,,,,130.1,100.0,,,"gravel, sand",,-3.4271657853,53.9722671544,02/07/2010
+386,G10,18.0,0.2,,,,,,,,,,,,,,,,,"gravel, sand",from 18.40 m to 19.90 m - Fractures closely spaced inclined <5 to 30 degrees,-3.4271657853,53.9722671544,02/07/2010
+387,G10,18.4,0.2,,,,,,,,,,,,,134.4,98.7,,,"gravel, sand",,-3.4271657853,53.9722671544,02/07/2010
+388,H12,0.0,38.6,,,,,,,,,,,,,,,,,"clay, sand",Very soft dark greyish brown sandy CLAY with rare shell fragments (<20mm). Sand is fine and medium.  With rare pockets of black fine sand and slight organic odour. (SURFACE SANDS - SEDIMENT LAYER) [UNIT I],-3.3991828693,53.9611135844,06/07/2010
+389,H12,1.0,33.21,,,,,,,,,,,,,,,,,sand,from 1.00 m to 2.00 m - occasional shells (<50mm).  Locally grades into silty sand.,-3.3991828693,53.9611135844,06/07/2010
+390,H12,2.0,22.0,,,,,,CD,Reconstituted,2.67,27.0,5.0,,,,,32.0,0.002,sand,,-3.3991828693,53.9611135844,06/07/2010
+391,H12,3.0,27.71,,,,,,,,,,,,,,,,,sand,Dark greyish brown silty,-3.3991828693,53.9611135844,06/07/2010
+392,H12,4.0,21.58,2018.35,1661.57,,,,,,,,,0.18,,,,,,sand,from 4.00 m to 5.00 m - silty.,-3.3991828693,53.9611135844,06/07/2010
+393,H12,5.0,19.0,,,,,,,,,,,,,,,,,sand,Dark greyish brown slightly silty to silty SAND.  Sand is fine and medium.  With rare shells and shell fragments (<40mm) and rare pockets (<60mm) of dark grey fine sand.  (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.3991828693,53.9611135844,06/07/2010
+394,H12,6.0,21.3,,,,,,,,,,,,,,,,,sand,,-3.3991828693,53.9611135844,06/07/2010
+395,H12,7.0,45.85,,,,,,,,,,,,,,,,,sand,from 7.00 m to 7.10 m - frequent shells and shell fragments (<40mm).,-3.3991828693,53.9611135844,06/07/2010
+396,H12,8.0,22.61,,,,,,CD,Reconstituted,,,,,,,,42.0,0.002,sand,,-3.3991828693,53.9611135844,06/07/2010
+397,H12,9.0,21.89,,,,,,,,,,,,,,,,,sand,Greyish brown silty SAND,-3.3991828693,53.9611135844,06/07/2010
+398,H12,10.0,22.52,,,,,,,,,,,,,,,,,sand,,-3.3991828693,53.9611135844,06/07/2010
+399,H12,11.0,22.19,,,,,,,,,,,,,,,,0.002,sand,from 11.00 m to 12.40 m - occasional pockets/lenses (<40mm) of dark greyish brown and black silty fine sand.,-3.3991828693,53.9611135844,06/07/2010
+400,H12,12.0,22.72,,,,,,CD,Reconstituted,,,,,,,,42.0,0.002,sand,,-3.3991828693,53.9611135844,06/07/2010
+401,H12,13.0,24.43,,,,,,,,,,,,,,,,,sand,,-3.3991828693,53.9611135844,06/07/2010
+402,H12,14.0,24.22,,,,,,,,,,,,,,,,,sand,,-3.3991828693,53.9611135844,06/07/2010
+403,H12,15.0,35.59,,,,,,,,,,,,,,,,,sand,from 15.00 m to 18.15 m - black speckling.,-3.3991828693,53.9611135844,06/07/2010
+404,H12,16.0,34.2,,,,,,,,,,,,,,,,,sand,,-3.3991828693,53.9611135844,06/07/2010
+405,H12,16.5,32.8,,,,,,,,,,,,,,,,,sand,,-3.3991828693,53.9611135844,06/07/2010
+406,H12,17.0,28.62,,,,,,,,,,,,,,,,,clay,from 17.50 m to 18.15 m - becoming slightly clayey.,-3.3991828693,53.9611135844,06/07/2010
+407,H12,17.5,24.43,,,,,,,,,,,,,,,,,clay,,-3.3991828693,53.9611135844,06/07/2010
+408,H12,18.0,18.75,,,,,,,,,,,,,,,,,"clay, gravel, sand",Stiff brown sandy silty CLAY with rare subrounded fine gravel and rare carbonaceous debris (<3mm). Sand is fine. (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.3991828693,53.9611135844,06/07/2010
+409,H12,18.5,13.06,,,,627.0,,,,,,,,,,,,0.002,"clay, gravel, sand",,-3.3991828693,53.9611135844,06/07/2010
+410,H12,19.0,15.37,,,,,,,,,,,,,,,,,"clay, sand",Firm medium strength greyish brown thinly to thickly interlaminated slightly sandy CLAY and clayey SAND BAY - UPPER TILL -LAMINATED) [UNIT IIIa],-3.3991828693,53.9611135844,06/07/2010
+411,H12,19.5,17.67,2191.64,1885.83,,112.0,762.0,CU,Undisturbed,2.68,24.0,9.0,0.14,,,,,0.002,"clay, sand",,-3.3991828693,53.9611135844,06/07/2010
+412,H12,20.0,18.76,,,,,,,,,,,,,,,,,"clay, sand",at 20.85 m - rare shell fragments (<3mm).,-3.3991828693,53.9611135844,06/07/2010
+413,H12,20.5,19.85,2084.61,1722.73,88.0,112.0,43.0,UU,Undisturbed,,26.0,10.0,0.17,14395.61,,,,0.002,"clay, sand",,-3.3991828693,53.9611135844,06/07/2010
+414,H12,21.0,21.96,,,,,,,,,,,,,,,,,clay,at 21.90 m - 1 No. lens (4mm x 50mm) of dark grey/black clay. Possibly organic.,-3.3991828693,53.9611135844,06/07/2010
+415,H12,21.5,24.06,1952.09,1544.34,,52.0,64.0,CU,Undisturbed,2.71,31.5,14.5,0.2099999999999999,,,,,0.002,clay,,-3.3991828693,53.9611135844,06/07/2010
+416,H12,22.0,26.47,,,,,,,,,,,,,,,,,"clay, sand",Firm medium strength brown thinly to thickly laminated slightly sandy CLAY with occasional thin to thick laminae of light grey brown silt. Sand is fine. (CARDIGAN BAY - UPPER TILL - LAMINATE D) [UNIT IIIa],-3.3991828693,53.9611135844,06/07/2010
+417,H12,22.5,28.88,1972.48,1544.34,72.0,47.0,30.0,UU,Undisturbed,,,,0.2199999999999999,14916.96,,,,,"clay, sand",,-3.3991828693,53.9611135844,06/07/2010
+418,H12,23.5,29.6,,,,30.0,,,,2.73,,,,,,,,0.002,"clay, sand",,-3.3991828693,53.9611135844,06/07/2010
+419,H12,24.0,29.12,,,,,,,,,,,,,,,,,"clay, sand",at 24.05 m - 1 No. thin lamina (5mm) of soft dark grey/black clay. Possibly organic.,-3.3991828693,53.9611135844,06/07/2010
+420,H12,24.5,28.64,1946.99,1467.89,,34.0,38.0,UU,Remoulded,,48.0,29.0,0.25,,,,,0.002,"clay, sand",,-3.3991828693,53.9611135844,06/07/2010
+421,H12,25.0,27.85,,,,,,,,,,,,,,,,,sand,at 25.30 m - 1 No. lens (10mm x 25mm) of light grey brown silty fine sand.,-3.3991828693,53.9611135844,06/07/2010
+422,H12,25.5,27.06,1890.93,1411.82,,42.0,55.0,CU,Undisturbed,,48.5,27.5,0.25,,,,,0.002,sand,,-3.3991828693,53.9611135844,06/07/2010
+423,H12,26.0,22.02,,,,,,,,,,,,,,,,,"clay, gravel, sand",from 26.05 m to 26.50 m - soft to firm thinly to thickly laminated red brown sandy clay. Sand is fine.,-3.3991828693,53.9611135844,06/07/2010
+424,H12,26.5,16.99,2028.54,1702.34,,45.0,38.0,UU,Undisturbed,,,,0.16,,,,,,"clay, gravel, sand",,-3.3991828693,53.9611135844,06/07/2010
+425,H12,27.5,15.46,1997.96,1722.73,,62.0,51.0,UU,Undisturbed,,28.0,15.0,0.14,,,,,0.002,"clay, gravel, sand",,-3.3991828693,53.9611135844,06/07/2010
+426,H12,28.5,15.5,1967.38,1681.96,,57.0,57.0,UU,Undisturbed,,29.0,15.0,0.15,,,,,0.002,"clay, gravel, sand",,-3.3991828693,53.9611135844,06/07/2010
+427,H12,29.0,14.91,,,,,,,,,,,,,,,,,"clay, gravel, sand",Stiff becoming very stiff very high strength with depth reddish brown slightly sandy to sandy slightly gravelly CLAY. Sand is mainly fine and medium. Gravel is subangular and subrounded e to coarse. (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.3991828693,53.9611135844,06/07/2010
+428,H12,29.5,14.32,2234.96,1972.48,165.0,125.0,148.0,UU,Undisturbed,,27.0,14.5,0.12,22259.81,,,,0.002,"clay, gravel, sand",,-3.3991828693,53.9611135844,06/07/2010
+429,H12,30.0,14.42,,,,,,,,,,,,,,,,,"clay, gravel, sand",from 30.50 m to 31.50 m - low cobble content (<10%). Cobbles are subrounded (<75mm).,-3.3991828693,53.9611135844,06/07/2010
+430,H12,30.5,14.52,,,,85.0,,,,2.71,,,,,,,,,"clay, gravel, sand",,-3.3991828693,53.9611135844,06/07/2010
+431,H12,31.5,15.36,2206.93,1855.25,,106.0,136.0,UU,Remoulded,,27.0,14.0,0.16,,,,,0.002,"clay, gravel, sand",,-3.3991828693,53.9611135844,06/07/2010
+432,H12,32.5,13.12,2186.54,1931.7,,112.0,118.0,UU,Undisturbed,2.71,28.0,15.0,0.12,,,,,0.002,"clay, gravel, sand",,-3.3991828693,53.9611135844,06/07/2010
+433,H12,33.5,11.97,2222.22,1977.57,142.0,274.0,290.0,UU,Undisturbed,,,,0.1099999999999999,25058.08,,,,,"clay, gravel, sand",,-3.3991828693,53.9611135844,06/07/2010
+434,H12,34.0,12.21,,,,,,,,,,,,,,,,,sand,Very stiff extremely high strength nd gabbro. (CARDIGAN BAY - LOWER TILL) [UNIT IV],-3.3991828693,53.9611135844,06/07/2010
+435,H12,34.5,12.45,2171.25,1936.8,,358.0,276.0,UU,Undisturbed,,27.0,14.0,0.1099999999999999,,,,,0.002,sand,,-3.3991828693,53.9611135844,06/07/2010
+436,H12,35.5,11.54,,,,,,,,,,,,,,,,,sand,,-3.3991828693,53.9611135844,06/07/2010
+437,H12,36.0,11.21,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",Very stiff dark brown slightly gravelly sandy locally slightly sandy CLAY with low cobble content (<10%). Sand is fine to coarse. Gravel is angular to subrounded fine to coarse of gabbro and mudstone. Cobbles are subangular and subrounded of gabbro (<80mm). (CARDIGAN BAY - LOWER TILL) [UNIT IV],-3.3991828693,53.9611135844,06/07/2010
+438,H12,36.5,10.88,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",,-3.3991828693,53.9611135844,06/07/2010
+439,H12,37.5,12.11,2324.16,2079.51,,,478.0,CU,Undisturbed,2.7,30.0,16.0,0.1099999999999999,,,,,0.002,"clay, gravel, mud, sand",,-3.3991828693,53.9611135844,06/07/2010
+440,H12,39.0,18.75,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",,-3.3991828693,53.9611135844,06/07/2010
+441,J06,0.0,31.79,1901.12,,,,,,,,,,,,,,,,"clay, sand",Very soft dark grey sandy CLAY with rare shell fragments (<20mm).  Sand is fine. (SURFACE SANDS - SEDIMENT LAYER) [UNIT I],-3.4125767805,53.9997648148,08/07/2010
+442,J06,1.0,30.26,1921.51,,,,,CD,Reconstituted,2.69,,,,,,,26.5,0.002,"clay, sand",Below 1.00 m - grades into clayey sand.,-3.4125767805,53.9997648148,08/07/2010
+443,J06,2.0,19.97,2086.65,,,,,,,,,,,,,,,,sand,Dark greyish brown silty locally very silty SAND EMBER) [UNIT IIa],-3.4125767805,53.9997648148,08/07/2010
+444,J06,3.0,21.87,2051.99,,,,,,,,,,,,,,,,sand,from 3.00 m to 3.45 m - slightly silty with occasional shell fragments (<15mm).,-3.4125767805,53.9997648148,08/07/2010
+445,J06,4.0,21.42,2060.14,,,,,,,,,,,,,,,,sand,from 4.00 m to 4.10 m - frequent shell and shell fragments (<18mm).,-3.4125767805,53.9997648148,08/07/2010
+446,J06,5.0,18.69,2112.13,,,,,,,,,,,,,,,,sand,from 5.00 m to 5.35 m - becoming greenish grey with occasional pockets (<35mm) of dark grey sandy silt.,-3.4125767805,53.9997648148,08/07/2010
+447,J06,6.0,22.34,2043.83,,,,,,,,,,,,,,,,sand,,-3.4125767805,53.9997648148,08/07/2010
+448,J06,7.0,24.34,2010.19,,,,,CD,Reconstituted,,,,,,,,45.5,0.002,sand,below 7.00 m - rare black speckling.,-3.4125767805,53.9997648148,08/07/2010
+449,J06,8.0,22.51,2040.77,,,,,,,,,,,,,,,,sand,at 8.30 m - 1 No. thick lamina (<7mm) of black silty fine sand.,-3.4125767805,53.9997648148,08/07/2010
+450,J06,9.0,25.15,1996.94,,,,,,,,,,,,,,,,sand,from 9.00 m to 9.45 m - rare shell fragments (<5mm).,-3.4125767805,53.9997648148,08/07/2010
+451,J06,10.0,24.96,2000.0,,,,,,,,,,,,,,,,sand,,-3.4125767805,53.9997648148,08/07/2010
+452,J06,11.0,25.26,1994.9,,,,,,,,,,,,,,,0.002,sand,at 11.07 m - 1 No. thick lamina (<10mm) of black silty fine sand.,-3.4125767805,53.9997648148,08/07/2010
+453,J06,12.0,32.19,1896.02,,,,,,,,,,,,,,,,sand,,-3.4125767805,53.9997648148,08/07/2010
+454,J06,13.0,27.67,1958.21,,,,,,,,,,,,,,,,sand,,-3.4125767805,53.9997648148,08/07/2010
+455,J06,14.0,21.9,2051.99,,,,,,,,,,,,,,,,sand,from 14.00 m to 14.35 m - rare shell fragments (<2mm).,-3.4125767805,53.9997648148,08/07/2010
+456,J06,15.0,28.32,1948.01,,,,,,,,,,,,,,,,sand,Dark greenish grey silty SAND,-3.4125767805,53.9997648148,08/07/2010
+457,J06,16.0,24.95,2000.0,,,,,CD,Reconstituted,,,,,,,,37.5,0.002,sand,below 16.00 m - rare pockets/lenses (<20mm x 2mm) of fine black sand.,-3.4125767805,53.9997648148,08/07/2010
+458,J06,17.0,26.04,1982.67,,,,,,,,,,,,,,,,sand,at 17.25 m - 2 No. thin laminae (<2mm) of black silty sand (possibly carbonaceous).,-3.4125767805,53.9997648148,08/07/2010
+459,J06,18.0,28.22,1950.05,,,,,,,,,,,,,,,,sand,from 18.00 m to 18.35 m - occasional closely spaced thin laminae (<5mm) of black silty fine sand (possibly carbonaceous).,-3.4125767805,53.9997648148,08/07/2010
+460,J06,19.0,23.59,2022.43,,,,,,,,,,,,,,,,sand,at 19.15 m - 1 No. thick lamina (<8mm) of black silty fine sand (possibly carbonaceous).,-3.4125767805,53.9997648148,08/07/2010
+461,J06,20.0,23.34,2026.5,,,,,,,,,,,,,,,0.002,sand,at 20.00 m - 1 No. pocket (30mm) of light grey silt/fine sand.,-3.4125767805,53.9997648148,08/07/2010
+462,J06,21.0,25.37,1992.86,,,,,,,,,,,,,,,,sand,,-3.4125767805,53.9997648148,08/07/2010
+463,J06,22.0,27.16,1965.34,,,,,,,,,,,,,,,,sand,at 22.30 m - 1 No. thin lamina (1mm - 2mm) of dark grey black fine sand.,-3.4125767805,53.9997648148,08/07/2010
+464,J06,23.0,27.45,1961.26,,,,,CD,Reconstituted,,,,,,,,34.0,0.002,"gravel, sand",from 23.10 m to 23.20 m - Extremely closely spaced thin laminae of dark greyish black fine sand,-3.4125767805,53.9997648148,08/07/2010
+465,J06,24.0,21.32,2062.18,,,,,,,,,,,,,,,,"clay, gravel, sand",at 24.35 m - occasional brown and black subrounded to rounded medium and coarse gravel.,-3.4125767805,53.9997648148,08/07/2010
+466,J06,25.0,19.56,2095.31,,,86.0,,,,,,,,,,,,,"clay, sand",from 25.15 m to 25.20 m - grey brown fine sand with rare shell fragments (<5mm) and occasional pockets (<8mm) of black silt.,-3.4125767805,53.9997648148,08/07/2010
+467,J06,26.0,22.29,2059.46,1646.28,,65.0,84.0,CU,Undisturbed,2.71,33.0,16.0,0.1999999999999999,,,,,0.002,"gravel, sand",at 26.20 m - thin laminae (<5mm) of black silt.,-3.4125767805,53.9997648148,08/07/2010
+468,J06,27.0,25.39,1965.34,1498.47,66.0,52.0,,,,,38.0,20.0,0.24,17801.14,,,,,"clay, sand",Soft to firm becoming firm with depth medium strength thinly to thickly laminated reddish brown slightly sandy CLAY .  Sand is fine to coarse. (CARDIGAN BAY - UPPER TILL - LAMINATED) [UNIT IIIa],-3.4125767805,53.9997648148,08/07/2010
+469,J06,28.0,28.96,1870.88,1365.95,,38.0,40.0,UU,Undisturbed,2.76,46.0,27.0,0.27,,,,,0.002,clay,at 28.10 m - 1 No. pocket (<8mm) of red brown clay.,-3.4125767805,53.9997648148,08/07/2010
+470,J06,29.0,27.82,1899.34,1406.73,,37.0,40.0,UU,Remoulded,,44.0,25.0,0.26,,,,,0.002,gravel,at 29.20 m - 1 No. rounded coarse gravel.,-3.4125767805,53.9997648148,08/07/2010
+471,J06,30.0,21.88,2053.86,1602.96,76.0,56.0,58.0,CU,Undisturbed,2.73,34.0,20.0,0.2199999999999999,20668.81,,,,0.002,"gravel, sand",at 30.00 m - With rare subrounded and rounded medium and coarse sandstone gravel.,-3.4125767805,53.9997648148,08/07/2010
+472,J06,31.0,15.1,2142.71,1824.67,,66.0,47.0,UU,Undisturbed,,26.0,13.0,0.15,,,,,0.002,"clay, gravel, sand",Firm medium strength reddish brown slightly sandy slightly gravelly CLAY.  Sand is fine to coarse.  Gravel is subangular to rounded fine to coarse of mixed lithologies. (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4125767805,53.9997648148,08/07/2010
+473,J06,32.0,15.97,2169.22,,,,,,,,,,,,,,,,"gravel, mud, sand",Reddish brown slightly gravelly silty SAND.  Sand is fine to coarse.  Gravel is subangular fine and medium of sandstone and mudstone. (CARDIGAN BAY - UPPER TILL - SAND) [UNIT III],-3.4125767805,53.9997648148,08/07/2010
+474,J06,33.0,14.94,2191.64,,,,,,,,,,,,,,,,"clay, gravel",at 33.55 m - 1 No. pocket (<30mm) of grey silty clay.,-3.4125767805,53.9997648148,08/07/2010
+475,J06,33.45,16.51,2156.98,,,142.0,,,,,,,,,,,,,"clay, gravel",,-3.4125767805,53.9997648148,08/07/2010
+476,J06,34.0,16.13,2100.92,1702.34,,124.0,47.0,UU,Undisturbed,,36.0,20.0,0.1899999999999999,,,,,0.002,"clay, gravel",,-3.4125767805,53.9997648148,08/07/2010
+477,J06,35.0,28.28,1949.03,,,70.0,,,,,,,,,,,,,"clay, gravel",,-3.4125767805,53.9997648148,08/07/2010
+478,J06,36.0,10.63,2315.32,2191.64,,622.0,598.0,CU,Undisturbed,2.71,26.0,13.5,0.05,,,,,0.002,gravel,below 36.00 m - very stiff and gravelly.,-3.4125767805,53.9997648148,08/07/2010
+479,J06,37.0,13.46,,,,,,,,,,,,,,,,,gravel,at 37.50 m - 1 No. subrounded cobble of gabbro (<130mm x 80mm x 70mm).,-3.4125767805,53.9997648148,08/07/2010
+480,J06,37.5,16.29,2180.94,2018.35,481.0,600.0,,,,,47.0,28.0,0.0699999999999999,28085.86,,93.3,,0.002,gravel,,-3.4125767805,53.9997648148,08/07/2010
+481,J06,38.0,17.51,,,,,,,,,,,,,,,,,"clay, mud",Extremely weak moderately weathered reddish brown and greyish brown calcareous MUDSTONE hard clay with occasional lithorelicts <30mm) of weak mudstone. (MERCIA MUDSTONE - WEATHERED MERCIA MUDSTONE) [UNIT VIa],-3.4125767805,53.9997648148,08/07/2010
+482,J06,39.0,18.73,,,,,,,,,,,,,,,,,"clay, mud",at 39.10 m - Locally very weak.  Fractures are closely spaced subhorizontal planar to undulating,-3.4125767805,53.9997648148,08/07/2010
+483,J06,39.1,19.96,2080.53,1518.86,248.0,,,,,2.79,49.0,28.0,0.27,27541.15,,91.3,,0.002,"clay, mud",,-3.4125767805,53.9997648148,08/07/2010
+484,J11,0.0,39.06,,,,,,,,2.69,,,,,,,,0.002,sand,Dark grey slightly silty SAND,-3.3819103063,53.9725262809,06/06/2010
+485,J11,1.0,38.89,,,,,,,,,,,,,,,,,sand,,-3.3819103063,53.9725262809,06/06/2010
+486,J11,2.0,26.21,1926.61,1523.96,,,,,,,,,0.2099999999999999,,,,,,sand,from 2.47 m to 2.52 m - frequent shells and shell fragments.,-3.3819103063,53.9725262809,06/06/2010
+487,J11,3.0,24.79,1926.61,1539.25,,,,,,,,,0.1999999999999999,,,,,,sand,,-3.3819103063,53.9725262809,06/06/2010
+488,J11,4.0,19.33,,,,,,,,,,,,,,,,,sand,at 4.32 m - 1 No. thin lamina of dark grey medium and coarse sand.,-3.3819103063,53.9725262809,06/06/2010
+489,J11,5.0,24.94,,,,,,,,2.67,,,,,,,,0.002,sand,,-3.3819103063,53.9725262809,06/06/2010
+490,J11,6.0,22.79,,,,,,,,,,,,,,,,,sand,,-3.3819103063,53.9725262809,06/06/2010
+491,J11,6.5,24.77,,,,,,,,,,,,,,,,,sand,,-3.3819103063,53.9725262809,06/06/2010
+492,J11,7.0,26.75,1834.86,1447.5,,,,,,,,,0.2099999999999999,,,,,,sand,from 7.31 m to 8.00 m - Assessed zone of core loss.,-3.3819103063,53.9725262809,06/06/2010
+493,J11,8.0,26.16,1957.19,1610.6,,,,CD,Reconstituted,,,,0.18,,,,44.5,,sand,at 8.52 m - 1 No. wood fragment (<6mm x 3mm).,-3.3819103063,53.9725262809,06/06/2010
+494,J11,9.0,25.1,,,,,,,,,,,,,,,,,sand,from 9.00 m to 10.00 m - Assessed zone of core loss.,-3.3819103063,53.9725262809,06/06/2010
+495,J11,10.0,24.04,,,,,,,,,,,,,,,,,sand,from 10.28 m to 11.00 m - Assessed zone of core loss.,-3.3819103063,53.9725262809,06/06/2010
+496,J11,11.0,22.97,1997.96,1620.8,,,,CD,Reconstituted,2.66,,,0.1899999999999999,,,,41.0,0.002,sand,from 11.70 m to 12.00 m - Assessed zone of core loss.,-3.3819103063,53.9725262809,06/06/2010
+497,J11,12.0,28.45,,,,,,,,,,,,,,10.0,,,sand,Strong y inclined to 85 degrees,-3.3819103063,53.9725262809,06/06/2010
+498,J11,13.0,1.3,,,,,,,,,,,,,95.2,100.0,,,sand,,-3.3819103063,53.9725262809,06/06/2010
+499,J11,14.0,1.38,,,,,,,,,,,,,,45.0,,,"gravel, sand",Strong UNIT V],-3.3819103063,53.9725262809,06/06/2010
+500,J11,15.0,1.45,,,,,,,,,,,,,,96.7,,,"gravel, sand",Strong locally very strong enerally inclined <20 to 85 degrees,-3.3819103063,53.9725262809,06/06/2010
+501,J11,16.5,1.52,,,,,,,,,,,,,,100.0,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+502,J11,18.0,1.6,,,,,,,,,,,,,50.3,100.0,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+503,J11,19.5,1.48,,,,,,,,,,,,,,100.0,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+504,J11,21.0,1.35,,,,,,,,,,,,,,100.0,,,"gravel, sand",from 21.10 m to 21.49 m - 4 No. fractures inclined at <5 degrees,-3.3819103063,53.9725262809,06/06/2010
+505,J11,22.5,1.23,,,,,,,,,,,,,,100.0,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+506,J11,24.0,1.1,,,,,,,,,,,,,31.1,100.0,,,"gravel, sand",from 24.00 m to 24.55 m - areamy white feldspar vein (<5mm x 10mm),-3.3819103063,53.9725262809,06/06/2010
+507,J11,25.5,0.95,,,,,,,,,,,,,,100.0,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+508,J11,26.0,0.8,,,,,,,,,,,,,,,,,"gravel, sand",Strong ced,-3.3819103063,53.9725262809,06/06/2010
+509,J11,27.0,0.65,,,,,,,,,,,,,,90.0,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+510,J11,28.0,0.5,,,,,,,,,,,,,,,,,"gravel, sand",from 28.00 m to 28.16 m - non intact.  Recovered as angular and subangular cobble sized fragments of gabbro (up to 10mm).,-3.3819103063,53.9725262809,06/06/2010
+511,J11,28.5,0.35,,,,,,,,,,,,,,100.0,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+512,J11,30.0,0.2,,,,,,,,,,,,,68.6,100.0,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+513,J11,31.0,2.67,,,,,,,,,,,,,,,,,"gravel, sand",at 31.76 m - fractures inclined at <5 degrees,-3.3819103063,53.9725262809,06/06/2010
+514,J11,31.5,5.13,,,,,,,,,,,,,,100.0,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+515,J11,32.0,7.6,,,,,,,,,,,,,,,,,"gravel, sand",at 32.47 m - fracture inclined at 20 to 30 degrees,-3.3819103063,53.9725262809,06/06/2010
+516,J11,33.0,10.07,,,,,,,,,,,,,,77.3,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+517,J11,34.0,12.53,,,,,,,,,,,,,,,,,"gravel, sand",at 34.22 m - fracture inclined at 10 degrees,-3.3819103063,53.9725262809,06/06/2010
+518,J11,34.5,15.0,,,,,,,,,,,,,1.9,100.0,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+519,J11,35.0,12.1,,,,,,,,,,,,,,,,,"gravel, sand",at 35.94 m - fracture inclined at 10 degrees,-3.3819103063,53.9725262809,06/06/2010
+520,J11,36.0,9.2,,,,,,,,,,,,,,67.8,,,"gravel, sand",Strong domly orientated,-3.3819103063,53.9725262809,06/06/2010
+521,J11,37.15,6.3,,,,,,,,,,,,,,73.3,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+522,J11,38.0,3.4,,,,,,,,,,,,,,,,,"gravel, sand",at 38.97 m - fracture inclined at 40 degrees,-3.3819103063,53.9725262809,06/06/2010
+523,J11,38.65,0.5,,,,,,,,,,,,,55.2,92.7,,,"gravel, sand",,-3.3819103063,53.9725262809,06/06/2010
+524,J11,39.0,0.5,,,,,,,,,,,,,,,,,"gravel, sand",at 39.14 m - fracture inclined 60 degrees,-3.3819103063,53.9725262809,06/06/2010
+525,M02,0.0,,,,,,,,,,,,,,,,,,sand,Dark grey silty SAND,-3.4323291307,53.9893164092,17/06/2010
+526,M02,1.0,,,,,,,,,,,,,,,,,,sand,,-3.4323291307,53.9893164092,17/06/2010
+527,M02,2.0,,,,,,,CD,Reconstituted,2.67,,,,,,,35.0,0.002,sand,,-3.4323291307,53.9893164092,17/06/2010
+528,M02,3.0,24.96,2000.0,,,,,,,,,,,,,,,,sand,Greyish brown SAND,-3.4323291307,53.9893164092,17/06/2010
+529,M02,4.0,24.72,2004.08,,,,,,,,,,,,,,,,sand,,-3.4323291307,53.9893164092,17/06/2010
+530,M02,5.0,25.69,1987.77,,,,,,,,,,,,,,,,sand,,-3.4323291307,53.9893164092,17/06/2010
+531,M02,6.0,27.45,1961.26,,,,,,,,,,,,,,,,sand,,-3.4323291307,53.9893164092,17/06/2010
+532,M02,7.0,21.47,2059.12,,,,,CD,Reconstituted,2.67,,,,,,,41.0,,sand,,-3.4323291307,53.9893164092,17/06/2010
+533,M02,8.0,26.39,1977.57,,,,,,,,,,,,,,,,sand,at 8.05 m -  1 No. lamina of bluish black staining.,-3.4323291307,53.9893164092,17/06/2010
+534,M02,9.0,27.34,1963.81,,,,,,,,,,,,,,,,"clay, gravel",at 9.0 m - occasional fine gravel sized pockets of very soft clay.,-3.4323291307,53.9893164092,17/06/2010
+535,M02,10.0,29.52,1931.7,,,,,,,,,,,,,,,,"clay, gravel",Brown silty,-3.4323291307,53.9893164092,17/06/2010
+536,M02,11.0,25.58,1989.81,,,,,,,,,,,,,,,,"clay, gravel",,-3.4323291307,53.9893164092,17/06/2010
+537,M02,12.0,28.17,1951.07,,,,,CD,Reconstituted,2.66,,,,,,,41.0,0.002,clay,from 12.13 m to 12.18 m - slightly clayey with frequent shells,-3.4323291307,53.9893164092,17/06/2010
+538,M02,13.0,30.0,1924.57,,,,,,,,,,,,,,,,clay,,-3.4323291307,53.9893164092,17/06/2010
+539,M02,14.0,23.85,2019.88,,,,,,,,,,,,,,,,clay,from 14.31 m to 14.40 m - slightly clayey with occasional bivalve shells.,-3.4323291307,53.9893164092,17/06/2010
+540,M02,15.0,19.82,2089.7,,,,,,,,,,,,,,,,clay,,-3.4323291307,53.9893164092,17/06/2010
+541,M02,16.0,25.68,1896.02,1508.66,,,,,,,,,0.1999999999999999,,,,,,sand,Below 16.00 m - rare lenses (<30mm) of dark greyish brown silty fine and medium sand,-3.4323291307,53.9893164092,17/06/2010
+542,M02,17.0,23.68,1997.96,1620.8,,,,CD,Reconstituted,,,,0.1899999999999999,,,,40.0,0.002,sand,from 17.00 m to 19.00 m -  very closely to closely spaced thick laminae of black medium and coarse sand sized carbonaceous debris.,-3.4323291307,53.9893164092,17/06/2010
+543,M02,18.0,25.19,1946.99,1549.44,,,,,,,,,0.1999999999999999,,,,,,sand,,-3.4323291307,53.9893164092,17/06/2010
+544,M02,19.0,26.46,1921.51,1518.86,,,,,,,,,0.2099999999999999,,,,,,sand,from 19.00 m to 20.45 m - black becoming brown silty fine and medium sand bris.,-3.4323291307,53.9893164092,17/06/2010
+545,M02,20.0,19.09,2141.18,1811.08,145.0,88.0,398.0,CU,Undisturbed,,,,0.15,14522.97,,,,,sand,Soft becoming firm with depth medium strength brown slightly sandy ry strong microgabbro. (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4323291307,53.9893164092,17/06/2010
+546,M02,21.0,18.78,2156.73,1936.8,,248.0,,CU,Undisturbed,2.705,26.0,11.5,0.0999999999999999,,,,,0.002,sand,from 21.30 m to 21.37 m - frequent pockets (<10mm) and lenses (<20mm x 3mm) of light brown fine sand.,-3.4323291307,53.9893164092,17/06/2010
+547,M02,22.0,18.24,2106.69,,,132.0,,,,,34.0,18.0,,,,,,0.002,sand,,-3.4323291307,53.9893164092,17/06/2010
+548,M02,23.0,22.78,2006.12,1615.7,94.0,69.0,72.0,CU,Undisturbed,2.74,41.0,21.5,0.1899999999999999,15541.31,,,,0.002,sand,Below 23.00 m - extremely closely spaced laminae of light brown fine sand.  (Cardigan Bay - Upper Till - Laminated Beds?),-3.4323291307,53.9893164092,17/06/2010
+549,M02,24.0,27.07,2052.33,1671.76,65.0,75.0,94.0,CU,Undisturbed,2.74,40.0,23.0,0.1899999999999999,16530.01,,,,0.002,"clay, gravel, sand",Firm reddish brown slightly gravelly slightly sandy CLAY.  Sand is fine to coarse.  Gravel is very angular to rounded mainly fine of microgabbro. (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4323291307,53.9893164092,17/06/2010
+550,M02,25.0,21.64,2060.14,1641.18,,69.0,,CU,Undisturbed,2.72,36.0,20.0,0.1999999999999999,,,,,0.002,"clay, gravel, sand",from 25.30 m to 27.35 m - slightly gravelly sandy clay.  Sand is fine to coarse,-3.4323291307,53.9893164092,17/06/2010
+551,M02,26.0,16.78,2154.43,,,,,,,,,,,,,,,,"clay, gravel, sand",,-3.4323291307,53.9893164092,17/06/2010
+552,M02,27.0,15.9,2201.83,1957.19,,,402.0,CU,Undisturbed,,,,0.1099999999999999,,,0.0,,,"clay, gravel, mud, sand",Extremely to very weak partially weathered reddish brown calcareous MUDSTONE ly spaced randomly orientated,-3.4323291307,53.9893164092,17/06/2010
+553,M02,28.0,14.92,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",from 28.50 m to 29.60 m - slightly to partially weathered.  Fractures are very closely to closely spaced.,-3.4323291307,53.9893164092,17/06/2010
+554,M02,28.5,13.94,,,,,,,,,,,,,,31.8,,,"clay, gravel, mud, sand",,-3.4323291307,53.9893164092,17/06/2010
+555,M02,29.0,12.96,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",Very weak and weak inclined gypsum veins (<30mm).  Fractures are extremely closely to widely spaced,-3.4323291307,53.9893164092,17/06/2010
+556,M02,29.6,11.98,,,,,,,,,,,,,,86.4,,,"clay, gravel, mud, sand",,-3.4323291307,53.9893164092,17/06/2010
+557,M02,30.7,11.0,,,,,,,,,,,,,5.5,75.0,,,"clay, gravel, mud, sand",,-3.4323291307,53.9893164092,17/06/2010
+558,M02,31.3,11.75,,,,,,,,,,,,,,100.0,,,"clay, gravel, mud, sand",,-3.4323291307,53.9893164092,17/06/2010
+559,M02,32.8,12.5,,,,,,,,,,,,,,94.0,,,"clay, gravel, mud, sand",,-3.4323291307,53.9893164092,17/06/2010
+560,M02,34.0,13.25,,,,,,,,,,,,,,,,,mud,34.3 m to 50.8 m - Weak slightly weathered reddish brown to brownish red calcareous MUDSTONE with extremely closely to medium closely spaced subhorizontal (<30mm).  Fractures are extremely closely to widely spaced,-3.4323291307,53.9893164092,17/06/2010
+561,M02,34.3,14.0,,,,,,,,,,,,,2.5,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+562,M02,35.0,13.43,,,,,,,,,,,,,,,,,mud,from 35.80 m to 35.93 m - grey.,-3.4323291307,53.9893164092,17/06/2010
+563,M02,35.8,12.86,,,,,,,,,,,,,,95.3,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+564,M02,37.3,12.29,,,,,,,,,,,,,,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+565,M02,38.0,11.71,,,,,,,,,,,,,,,,,mud,from 38.60 m to 38.80 m - greenish grey.,-3.4323291307,53.9893164092,17/06/2010
+566,M02,38.8,11.14,,,,,,,,,,,,,3.7,98.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+567,M02,40.0,10.57,,,,,,,,,,,,,,,,,mud,from 40.30 m to 40.60 m - Assessed zone of core loss.,-3.4323291307,53.9893164092,17/06/2010
+568,M02,40.3,10.0,,,,,,,,,,,,,,78.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+569,M02,41.0,9.95,,,,,,,,,,,,,,,,,mud,from 41.80 m to 42.04 m - Non intact,-3.4323291307,53.9893164092,17/06/2010
+570,M02,41.8,9.9,,,,,,,,,,,,,3.2,84.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+571,M02,43.0,10.25,,,,,,,,,,,,,,,,,"clay, gravel",from 43.30 m to 43.43 m - completely weathered to (firm) gravelly clay.  Gravel is angular.,-3.4323291307,53.9893164092,17/06/2010
+572,M02,43.3,10.6,,,,,,,,,,,,,,90.0,,,"clay, gravel",,-3.4323291307,53.9893164092,17/06/2010
+573,M02,44.8,10.95,,,,,,,,,,,,,,96.7,,,"clay, gravel",,-3.4323291307,53.9893164092,17/06/2010
+574,M02,45.0,11.3,,,,,,,,,,,,,,,,,"clay, gravel",from 45.70 m to 46.03 m - very weak to weak.,-3.4323291307,53.9893164092,17/06/2010
+575,M02,46.0,11.65,,,,,,,,,,,,,,,,,mud,at 46.03 m - Locally grey.,-3.4323291307,53.9893164092,17/06/2010
+576,M02,46.3,12.0,,,,,,,,,,,,,0.7,70.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+577,M02,47.8,12.22,,,,,,,,,,,,,,68.7,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+578,M02,48.0,12.44,,,,,,,,,,,,,,,,,mud,from 48.49 m to 48.69 m - very weak.,-3.4323291307,53.9893164092,17/06/2010
+579,M02,49.0,12.67,,,,,,,,,,,,,,,,,clay,from 49.30 m to 50.80 m - occasional greenish grey pockets (<70mm x 80mm).,-3.4323291307,53.9893164092,17/06/2010
+580,M02,49.3,12.89,,,,,,,,,,,,,,90.0,,,clay,,-3.4323291307,53.9893164092,17/06/2010
+581,M02,50.0,13.11,,,,,,,,,,,,,,,,,mud,Extremely weak and very weak locally weak partially weathered brownish red and greenish grey calcareous MUDSTONE with extremely closely spaced randomly oriented gypsum veins.,-3.4323291307,53.9893164092,17/06/2010
+582,M02,50.8,13.33,,,,,,,,,,,,,,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+583,M02,51.0,13.56,,,,,,,,,,,,,,,,,mud,from 51.4 m to 52.3 m - extremely weak to very weak greenish grey,-3.4323291307,53.9893164092,17/06/2010
+584,M02,52.0,13.78,,,,,,,,,,,,,,,,,mud,from 52.30 m to 54.50 m - very weak,-3.4323291307,53.9893164092,17/06/2010
+585,M02,52.3,14.0,,,,,,,,,,,,,1.2,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+586,M02,53.8,14.0,,,,,,,,,,,,,,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+587,M02,54.0,14.0,,,,,,,,,,,,,,,,,mud,Weak slightly weathered reddish brown to brownish red calcareous MUDSTONE with extremely closely to medium closely spaced subhorizontal s are extremely closely to widely spaced,-3.4323291307,53.9893164092,17/06/2010
+588,M02,55.0,14.0,,,,,,,,,,,,,,,,,mud,from 55.95 m to 56.15 m - thinly to thickly interlaminated greenish grey and dark greenish grey.,-3.4323291307,53.9893164092,17/06/2010
+589,M02,55.3,14.0,,,,,,,,,,,,,2.9,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+590,M02,56.8,13.25,,,,,,,,,,,,,,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+591,M02,58.0,12.5,,,,,,,,,,,,,,,,,mud,from 58.55 m to 59.00 m - very weak.,-3.4323291307,53.9893164092,17/06/2010
+592,M02,58.3,11.75,,,,,,,,,,,,,,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+593,M02,59.8,11.0,,,,,,,,,,,,,1.0,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+594,M02,60.0,10.62,,,,,,,,,,,,,,,,,mud,from 60.00 m to 60.30 m - closely spaced very thin beds of greenish grey silty mudstone.,-3.4323291307,53.9893164092,17/06/2010
+595,M02,61.0,10.24,,,,,,,,,,,,,,,,,mud,from 61.95 m to 62.35 m - extremely weak.  Fractures are very closely spaced randomly orientated planar to irregular rough tight and clean.,-3.4323291307,53.9893164092,17/06/2010
+596,M02,61.3,9.87,,,,,,,,,,,,,,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+597,M02,61.95,9.49,,,,,,,,,,,,,,44.4,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+598,M02,62.0,9.11,,,,,,,,,,,,,,,,,mud,from 62.55 m to 64.60 m - weak greenish grey silty mudstone,-3.4323291307,53.9893164092,17/06/2010
+599,M02,62.85,8.73,,,,,,,,,,,,,,77.8,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+600,M02,63.75,8.36,,,,,,,,,,,,,,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+601,M02,64.0,7.98,,,,,,,,,,,,,,,,,mud,from 64.60m to 65.85 m - very weak.,-3.4323291307,53.9893164092,17/06/2010
+602,M02,64.35,7.6,,,,,,,,,,,,,4.3,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+603,M02,65.0,7.25,,,,,,,,,,,,,,,,,mud,from 65.85 m to 67.35 m - thinly to thickly interlaminated brownish red and greenish grey.,-3.4323291307,53.9893164092,17/06/2010
+604,M02,65.85,6.9,,,,,,,,,,,,,1.6,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+605,M02,67.35,6.9,,,,,,,,,,,,,,100.0,,,mud,,-3.4323291307,53.9893164092,17/06/2010
+606,M04,0.0,,,,,,,,,,,,,,,,,,sand,Open Hole,-3.432884896,53.9893004774,14/06/2010
+607,M04,2.0,,,,,,,,,,,,,,,,,,sand,Loose becoming very dense with depth silty SAND (Western Irish Sea Prograded Sands?) [Unit IIa?],-3.432884896,53.9893004774,14/06/2010
+608,M04,20.0,,,,,,,,,,,,,,,,,,"clay, sand",very stiff becoming stiff with depth sandy CLAY (Cardigan Bay Till?) [Unit III],-3.432884896,53.9893004774,14/06/2010
+609,M04,26.0,,,,,,,,,,,,,,,,,,"clay, mud, sand",very stiff/hard sandy CLAY (Cardigan Bay Till/Weathered Mercia Mudstone),-3.432884896,53.9893004774,14/06/2010
+610,M04,28.0,,,,,,,,,,,,,,,,,,"clay, gravel, mud",Very weak and weak partially weathered reddish brown calcareous MUDSTONE sum,-3.432884896,53.9893004774,14/06/2010
+611,M04,28.5,12.0,,,,,,,,,,,,,0.9,70.9,,,"clay, gravel, mud",,-3.432884896,53.9893004774,14/06/2010
+612,M04,29.0,11.18,,,,,,,,,,,,,,,,,gravel,from 29.90 m to 29.95 m - Non Intact.  Recovered as gravel sized fragments of gypsum (<40mm).,-3.432884896,53.9893004774,14/06/2010
+613,M04,29.05,10.35,,,,,,,,,,,,,,95.0,,,gravel,,-3.432884896,53.9893004774,14/06/2010
+614,M04,30.0,9.52,,,,,,,,,,,,,,,,,mud,Very weak and weak slightly weathered red brown MUDSTONE ely spaced,-3.432884896,53.9893004774,14/06/2010
+615,M04,30.25,8.7,,,,,,,,,,,,,5.8,59.3,,,mud,,-3.432884896,53.9893004774,14/06/2010
+616,M04,31.0,10.85,,,,,,,,,,,,,,,,,gravel,from 31.04 m to 31.24 m - Non Intact.  Recovered as gravel and cobble sized fragments (up to 100mm.),-3.432884896,53.9893004774,14/06/2010
+617,M04,31.75,13.0,,,,,,,,,,,,,1.1,100.0,,,gravel,,-3.432884896,53.9893004774,14/06/2010
+618,M04,32.0,13.38,,,,,,,,,,,,,,,,,mud,Very weak partially weathered reddish brown MUDSTONE,-3.432884896,53.9893004774,14/06/2010
+619,M04,33.0,13.75,,,,,,,,,,,,,,,,,mud,from 33.60 m to 33.98 m - zone of extremely closely spaced mainly inclined <5 degrees gypsum veining (<5mm thick).,-3.432884896,53.9893004774,14/06/2010
+620,M04,33.25,14.12,,,,,,,,,,,,,,88.0,,,mud,,-3.432884896,53.9893004774,14/06/2010
+621,M04,34.0,14.5,,,,,,,,,,,,,,,,,"gravel, mud",from 34.75 m to 34.90 m - Non Intact.  Recovered as gravel sized fragments of mudstone and gypsum (up to 80mm).,-3.432884896,53.9893004774,14/06/2010
+622,M04,34.75,14.88,,,,,,,,,,,,,,92.0,,,"gravel, mud",,-3.432884896,53.9893004774,14/06/2010
+623,M04,35.0,15.25,,,,,,,,,,,,,,,,,"gravel, mud",from 35.00 m to 36.25 m - abundant gypsum veins,-3.432884896,53.9893004774,14/06/2010
+624,M04,36.0,15.62,,,,,,,,,,,,,,,,,"gravel, mud",from 36.25 m to 37.75 m - closely spaced gypsum veins,-3.432884896,53.9893004774,14/06/2010
+625,M04,36.25,16.0,,,,,,,,,,,,,1.4,91.3,,,"gravel, mud",,-3.432884896,53.9893004774,14/06/2010
+626,M04,37.75,15.17,,,,,,,,,,,,,,100.0,,,"gravel, mud",,-3.432884896,53.9893004774,14/06/2010
+627,M04,39.25,14.33,,,,,,,,,,,,,,94.7,,,"gravel, mud",,-3.432884896,53.9893004774,14/06/2010
+628,M04,40.0,13.5,,,,,,,,,,,,,,,,,"gravel, mud",from 40.98 m to 41.66 m - grey and blue and occasional grey and blue mottling.,-3.432884896,53.9893004774,14/06/2010
+629,M04,40.75,12.67,,,,,,,,,,,,,,98.0,,,"gravel, mud",,-3.432884896,53.9893004774,14/06/2010
+630,M04,42.0,11.83,,,,,,,,,,,,,,,,,mud,Very weak and weak reddish brown calcareous slightly weathered MUDSTONE to widely spaced,-3.432884896,53.9893004774,14/06/2010
+631,M04,42.25,11.0,,,,,,,,,,,,,4.2,100.0,,,mud,,-3.432884896,53.9893004774,14/06/2010
+632,M04,43.75,10.88,,,,,,,,,,,,,,91.3,,,mud,,-3.432884896,53.9893004774,14/06/2010
+633,M04,45.0,10.75,,,,,,,,,,,,,,,,,"gravel, mud",from 45.00 m to 45.08 m - Non Intact.  Recovered as gravel sized fragments of weathered mudstone and gypsum (<60mm).,-3.432884896,53.9893004774,14/06/2010
+634,M04,45.25,10.62,,,,,,,,,,,,,,100.0,,,"gravel, mud",,-3.432884896,53.9893004774,14/06/2010
+635,M04,46.0,10.5,,,,,,,,,,,,,,,,,mud,from 46.15 m to 46.25 m - extremely weak red mudstone.,-3.432884896,53.9893004774,14/06/2010
+636,M04,46.75,10.38,,,,,,,,,,,,,,100.0,,,mud,,-3.432884896,53.9893004774,14/06/2010
+637,M04,47.0,10.25,,,,,,,,,,,,,,,,,mud,from 47.18 m to 47.35 m - Non intact zone,-3.432884896,53.9893004774,14/06/2010
+638,M04,48.25,10.12,,,,,,,,,,,,,,83.3,,,mud,,-3.432884896,53.9893004774,14/06/2010
+639,M04,49.0,10.0,,,,,,,,,,,,,,,,,mud,from 49.99 m to 50.32 m - fracture inclined at 75 to >85 degrees,-3.432884896,53.9893004774,14/06/2010
+640,M04,49.75,9.88,,,,,,,,,,,,,,100.0,,,mud,,-3.432884896,53.9893004774,14/06/2010
+641,M04,50.0,9.75,,,,,,,,,,,,,,,,,mud,from 50.94 m to 51.19 m - Non intact zone,-3.432884896,53.9893004774,14/06/2010
+642,M04,51.0,9.62,,,,,,,,,,,,,,,,,mud,Very weak partially weathered reddish brown calcareous MUDSTONE ting,-3.432884896,53.9893004774,14/06/2010
+643,M04,51.35,9.5,,,,,,,,,,,,,2.4,76.9,,,mud,,-3.432884896,53.9893004774,14/06/2010
+644,M04,52.0,12.25,,,,,,,,,,,,,,,,,"gravel, mud",from 52.15 m to 52.57 m - abundant gypsum veins throughout,-3.432884896,53.9893004774,14/06/2010
+645,M04,52.65,15.0,,,,,,,,,,,,,1.9,100.0,,,"gravel, mud",,-3.432884896,53.9893004774,14/06/2010
+646,M04,53.0,15.0,,,,,,,,,,,,,,,,,clay,from 53.65 m to 53.93 m - abundant gypsum veins inclined <15 degrees.,-3.432884896,53.9893004774,14/06/2010
+647,M04,54.0,15.0,,,,,,,,,,,,,,,,,clay,from 54.69 m to 54.95 m - abundant gypsum veins inclined <30 degrees (<8mm).,-3.432884896,53.9893004774,14/06/2010
+648,M04,54.15,15.0,,,,,,,,,,,,,,100.0,,,clay,,-3.432884896,53.9893004774,14/06/2010
+649,M04,55.0,15.0,,,,,,,,,,,,,,,,,mud,from 55.30 m to 55.42 m - extremely weak fissile reddish brown mudstone.,-3.432884896,53.9893004774,14/06/2010
+650,M04,55.65,15.0,,,,,,,,,,,,,,96.4,,,mud,,-3.432884896,53.9893004774,14/06/2010
+651,M04,56.0,15.0,,,,,,,,,,,,,,,,,mud,Very weak partially weathered greenish grey MUDSTONE ture inclined <5 degrees,-3.432884896,53.9893004774,14/06/2010
+652,M04,57.0,15.0,,,,,,,,,,,,,,,,,mud,from 57.05 m to 57.52 m - abundant inclined <20 degrees gypsum veins.,-3.432884896,53.9893004774,14/06/2010
+653,M04,57.05,15.0,,,,,,,,,,,,,,100.0,,,mud,,-3.432884896,53.9893004774,14/06/2010
+654,M04,58.55,15.0,,,,,,,,,,,,,1.1,94.7,,,mud,,-3.432884896,53.9893004774,14/06/2010
+655,M04,59.0,14.59,,,,,,,,,,,,,,,,,mud,Very weak and weak partially weathered massive reddish brown calcareous MUDSTONE closely to widely spaced,-3.432884896,53.9893004774,14/06/2010
+656,M04,60.0,14.19,,,,,,,,,,,,,,,,,"gravel, mud",from 60.88 m to 60.96 m - Non Intact.  Recovered as gravel sized fragments of mudstone and gypsum.,-3.432884896,53.9893004774,14/06/2010
+657,M04,60.05,13.78,,,,,,,,,,,,,,78.0,,,"gravel, mud",,-3.432884896,53.9893004774,14/06/2010
+658,M04,61.0,13.37,,,,,,,,,,,,,,,,,mud,from 61.09 m to 61.38 m - grey mudstone.,-3.432884896,53.9893004774,14/06/2010
+659,M04,61.05,12.97,,,,,,,,,,,,,,94.3,,,mud,,-3.432884896,53.9893004774,14/06/2010
+660,M04,61.75,12.56,,,,,,,,,,,,,,98.0,,,mud,,-3.432884896,53.9893004774,14/06/2010
+661,M04,62.0,12.15,,,,,,,,,,,,,,,,,mud,at 62.00 m - closely spaced gypsum veins,-3.432884896,53.9893004774,14/06/2010
+662,M04,63.0,11.75,,,,,,,,,,,,,,,,,mud,from 63.67 m to 63.78 m - mottled grey.,-3.432884896,53.9893004774,14/06/2010
+663,M04,63.25,11.34,,,,,,,,,,,,,,96.7,,,mud,,-3.432884896,53.9893004774,14/06/2010
+664,M04,64.75,10.93,,,,,,,,,,,,,,51.8,,,mud,,-3.432884896,53.9893004774,14/06/2010
+665,M04,65.0,10.53,,,,,,,,,,,,,,,,,clay,from 65.86 m to 66.00 m - reddish brown clay.,-3.432884896,53.9893004774,14/06/2010
+666,M04,65.85,10.12,,,,,,,,,,,,,,83.3,,,clay,,-3.432884896,53.9893004774,14/06/2010
+667,M04,66.0,9.71,,,,,,,,,,,,,,,,,clay,from 66.85 m to 66.01 m - Assessed zone of core loss.,-3.432884896,53.9893004774,14/06/2010
+668,M04,67.0,9.31,,,,,,,,,,,,,,,,,mud,Weak slightly weathered grey mottled red calcareous MUDSTONE nar,-3.432884896,53.9893004774,14/06/2010
+669,M04,67.35,8.9,,,,,,,,,,,,,2.0,100.0,,,mud,,-3.432884896,53.9893004774,14/06/2010
+670,nB12,0.0,32.78,,,,,,,,,,,,,,,,,sand,Soft dark greyish brown sandy CLAU,-3.4741840888,53.94593903,25/07/2010
+671,nB12,1.0,24.71,,,,,,CD,Reconstituted,2.7,27.0,9.0,,,,,32.5,0.002,sand,,-3.4741840888,53.94593903,25/07/2010
+672,nB12,2.0,18.46,,,,,,,,,,,,,,,,,"clay, sand",Very soft dark greyish brown sandy CLAY,-3.4741840888,53.94593903,25/07/2010
+673,nB12,3.0,21.74,,,,,,,,,,,,,,,,,sand,Dark greyish brown silty SAND,-3.4741840888,53.94593903,25/07/2010
+674,nB12,4.0,23.96,,,,,,CD,Reconstituted,,,,,,,,31.0,0.002,sand,Very dark greyish brown slightly silty SAND,-3.4741840888,53.94593903,25/07/2010
+675,nB12,5.0,18.83,,,,,,,,,,,,,,,,,sand,from 5.00 m to 5.15 m - occasional pockets of silty sand.  Ferquent gastro shells.,-3.4741840888,53.94593903,25/07/2010
+676,nB12,6.0,27.59,,,,,,,,,,,,,,,,,sand,Very dark grey slightly organic silty SAND,-3.4741840888,53.94593903,25/07/2010
+677,nB12,7.0,23.42,,,,,,,,,,,,,,,,,sand,,-3.4741840888,53.94593903,25/07/2010
+678,nB12,8.0,21.43,,,,,,CD,Reconstituted,2.68,,,,,,,36.5,0.002,sand,from 8.00 m to 8.06 m - frequent shell fragments.,-3.4741840888,53.94593903,25/07/2010
+679,nB12,9.0,22.42,,,,,,,,,,,,,,,,,sand,,-3.4741840888,53.94593903,25/07/2010
+680,nB12,10.0,20.3,,,,,,,,,,,,,,,,,sand,,-3.4741840888,53.94593903,25/07/2010
+681,nB12,11.0,25.01,,,,,,,,,,,,,,,,,sand,,-3.4741840888,53.94593903,25/07/2010
+682,nB12,12.0,20.39,,,,,,,,,,,,,,,,,clay,from 12.00 m to 12.15 m - some clay laminae (up to 10mm thick).,-3.4741840888,53.94593903,25/07/2010
+683,nB12,13.0,23.07,,,,,,,,,,,,,,,,,clay,,-3.4741840888,53.94593903,25/07/2010
+684,nB12,14.0,25.4,,,,,,,,,,,,,,,,,clay,,-3.4741840888,53.94593903,25/07/2010
+685,nB12,15.0,24.43,,,,,,,,,,,,,,,,,clay,from 15.00 m to 15.25 m - rare bivalve shells.,-3.4741840888,53.94593903,25/07/2010
+686,nB12,16.0,24.77,,,,,,CD,Reconstituted,,,,,,,,38.0,0.002,clay,,-3.4741840888,53.94593903,25/07/2010
+687,nB12,17.0,23.02,,,,,,,,,,,,,,,,,clay,,-3.4741840888,53.94593903,25/07/2010
+688,nB12,18.0,21.28,,,,,,,,,,,,,,,,,clay,from 18.10 m to 18.20 m - frequent shell fragments (<40mm).,-3.4741840888,53.94593903,25/07/2010
+689,nB12,19.0,22.36,,,,,,,,,,,,,,,,,"clay, gravel, sand",Firm dark grey CLAY,-3.4741840888,53.94593903,25/07/2010
+690,nB12,20.0,22.97,2025.14,1627.59,72.0,65.0,61.0,CU,Undisturbed,,42.0,24.0,0.1999999999999999,13624.29,,,,0.002,sand,at 20.30 m - pocket (<20mm) of reddish brown medium sand.,-3.4741840888,53.94593903,25/07/2010
+691,nB12,21.0,21.82,,,,88.0,,,,,,,,,,,,,"clay, gravel, sand",Firm brown CLAY,-3.4741840888,53.94593903,25/07/2010
+692,nB12,22.0,14.58,2212.03,1921.51,,108.0,88.0,UU,Remoulded,2.67,27.0,14.0,0.13,,,,,0.002,"clay, gravel, sand",,-3.4741840888,53.94593903,25/07/2010
+693,nB12,23.0,14.12,2222.22,1967.38,105.0,,,,,,,,0.1099999999999999,17216.92,,,,,mud,from 23.60 m to 23.72 m - 1 No. cobble of mudstone (<130mm).,-3.4741840888,53.94593903,25/07/2010
+694,nB12,23.6,19.16,2140.67,1797.49,90.0,,65.0,UU,Undisturbed,,30.0,16.0,0.16,16994.14,,,,0.002,mud,,-3.4741840888,53.94593903,25/07/2010
+695,nB12,25.0,14.8,,,,,,,,,,,,,,,,,mud,Medium strong and strong 0 degrees. (MERCIA MUDSTONE - METAMORPHOSED) [UNIT VIc],-3.4741840888,53.94593903,25/07/2010
+696,nB12,25.1,10.44,2212.03,1957.19,,,78.0,CU,Undisturbed,,,,0.12,,40.4,33.3,,,mud,,-3.4741840888,53.94593903,25/07/2010
+697,nB12,26.0,11.18,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",Medium strong and strong ertical to 60 degrees.  Fractures are very closely and closely spaced,-3.4741840888,53.94593903,25/07/2010
+698,nB12,26.6,11.92,,,,,,,,,,,,,,0.0,,,"clay, gravel, mud, sand",,-3.4741840888,53.94593903,25/07/2010
+699,nB12,27.0,10.18,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",from 27.40 m to 27.45 m - extremely closely spaced gypsum veins.,-3.4741840888,53.94593903,25/07/2010
+700,nB12,28.1,8.43,,,,,,,,,,,,,55.6,96.7,,,"clay, gravel, mud, sand",,-3.4741840888,53.94593903,25/07/2010
+701,nB12,29.0,8.49,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",from 29.60 m to 29.95 m - some pale brown mottling (<30mm).,-3.4741840888,53.94593903,25/07/2010
+702,nB12,29.6,8.55,,,,,,,,,,,,,,100.0,,,"clay, gravel, mud, sand",,-3.4741840888,53.94593903,25/07/2010
+703,nB12,30.0,7.32,,,,,,,,,,,,,,,,,mud,from 30.45 m to 30.55 m - clast (<100mm x 40mm) of green stained mudstone.,-3.4741840888,53.94593903,25/07/2010
+704,nB12,31.0,6.08,,,,,,,,,,,,,,,,,mud,Medium strong slightly weathered dark reddish brown META-MUDSTONE/ARGILLITE medium spaced,-3.4741840888,53.94593903,25/07/2010
+705,nB12,31.1,4.85,,,,,,,,,,,,,,66.7,,,mud,,-3.4741840888,53.94593903,25/07/2010
+706,nB12,32.6,5.93,,,,,,,,,,,,,50.4,97.3,,,mud,,-3.4741840888,53.94593903,25/07/2010
+707,nB12,33.0,6.18,,,,,,,,,,,,,,,,,mud,at 33.60 m - pockets (<10mm x 20mm deep) infilled with gypsum.,-3.4741840888,53.94593903,25/07/2010
+708,nB12,34.0,6.42,,,,,,,,,,,,,,,,,mud,from 34.70 m to 34.80 m - Mottled zone with pockets (<35mm) of greenish grey metomorphosed mudstone.,-3.4741840888,53.94593903,25/07/2010
+709,nB12,34.1,6.66,,,,,,,,,,,,,,100.0,,,mud,,-3.4741840888,53.94593903,25/07/2010
+710,nB12,35.0,7.88,,,,,,,,,,,,,,,,,mud,Weak and medium strong slightly to partially weathered dark reddish brown calcareous META-MUDSTONE/ARGILLITE inclined <5 to 60 degrees,-3.4741840888,53.94593903,25/07/2010
+711,nB12,35.6,9.1,,,,,,,,,,,,,7.7,94.0,,,mud,,-3.4741840888,53.94593903,25/07/2010
+712,nB12,36.0,9.8,,,,,,,,,,,,,,,,,mud,from 36.31 m to 36.39 m - Non intact,-3.4741840888,53.94593903,25/07/2010
+713,nB12,37.0,10.51,,,,,,,,,,,,,,,,,"gravel, mud",Weak dark slightly weathered reddish brown calcareous MUDSTONE.  Fractures are widely spaced led with angular gravel sized fragments of mudstone,-3.4741840888,53.94593903,25/07/2010
+714,nB12,37.1,11.21,,,,,,,,,,,,,6.2,99.3,,,"gravel, mud",,-3.4741840888,53.94593903,25/07/2010
+715,nB12,38.6,15.44,,,,,,,,,,,,,0.7,94.7,,,"gravel, mud",,-3.4741840888,53.94593903,25/07/2010
+716,nC07,0.0,28.46,,,,,,CD,Reconstituted,2.69,28.0,8.0,,,,,31.0,0.002,"clay, sand",Very soft greyish brown sandy CLAY,-3.4961130788,53.9751444212,23/07/2010
+717,nC07,1.0,33.88,,,,,,,,,,,,,,,,,"clay, sand",,-3.4961130788,53.9751444212,23/07/2010
+718,nC07,2.0,29.94,1875.64,1447.5,,,,,,,,,0.2299999999999999,,,,,,"clay, sand",Soft greyish brown sandy silty CLAY,-3.4961130788,53.9751444212,23/07/2010
+719,nC07,3.0,27.72,,,,,,,,,28.0,8.0,,,,,,0.002,"clay, sand",,-3.4961130788,53.9751444212,23/07/2010
+720,nC07,4.0,22.81,,,,,,,,,,,,,,,,,"clay, sand",Firm locally soft greyish brown sandy CLAY,-3.4961130788,53.9751444212,23/07/2010
+721,nC07,5.0,25.12,,,,,,,,,,,,,,,,,"clay, sand",from 5.00 m to 8.00 m - rare to some shell fragments (<30mm).,-3.4961130788,53.9751444212,23/07/2010
+722,nC07,6.0,19.94,,,,,,,,,,,,,,,,,"clay, sand",from 6.00 m to 6.45 m - frequent shell fragments.,-3.4961130788,53.9751444212,23/07/2010
+723,nC07,7.0,21.01,,,,,,,,,,,,,,,,,sand,at 7.10 m - very thin bed (<30mm) of black very silty fine sand (with slight organic odour).,-3.4961130788,53.9751444212,23/07/2010
+724,nC07,8.0,23.62,,,,,,,,,,,,,,,,,sand,,-3.4961130788,53.9751444212,23/07/2010
+725,nC07,9.0,22.42,,,,,,CD,Reconstituted,2.66,,,,,,,40.0,0.002,sand,,-3.4961130788,53.9751444212,23/07/2010
+726,nC07,10.0,22.16,,,,,,,,,,,,,,,,,gravel,from 10.00 m to 10.30 m - rare shells (<25mm) and rare subrounded fine gravel of microgabbro.,-3.4961130788,53.9751444212,23/07/2010
+727,nC07,11.0,24.0,,,,,,,,,,,,,,,,,sand,from 11.00 m to 13.00 m - rare laminae of black fine sand.,-3.4961130788,53.9751444212,23/07/2010
+728,nC07,12.0,27.03,,,,,,,,,,,,,,,,,sand,,-3.4961130788,53.9751444212,23/07/2010
+729,nC07,13.0,25.29,,,,,,,,,,,,,,,,,sand,,-3.4961130788,53.9751444212,23/07/2010
+730,nC07,14.0,26.14,,,,,,,,,,,,,,,,0.002,sand,below 14.00 m - brown.,-3.4961130788,53.9751444212,23/07/2010
+731,nC07,15.0,25.15,,,,,,,,,,,,,,,,,sand,,-3.4961130788,53.9751444212,23/07/2010
+732,nC07,16.0,24.28,,,,,,,,,,,,,,,,,sand,,-3.4961130788,53.9751444212,23/07/2010
+733,nC07,17.0,24.56,,,,,,,,,,,,,,,,,sand,,-3.4961130788,53.9751444212,23/07/2010
+734,nC07,18.0,24.84,,,,,,,,,,,,,,,,,sand,,-3.4961130788,53.9751444212,23/07/2010
+735,nC07,19.0,23.04,,,,,,CD,Reconstituted,,,,,,,,42.0,0.002,sand,,-3.4961130788,53.9751444212,23/07/2010
+736,nC07,20.0,18.59,,,,,,,,,,,,,,,,,sand,from 20.10 m to 20.25 m - dark greyish brown very silty fine sand.,-3.4961130788,53.9751444212,23/07/2010
+737,nC07,21.0,18.95,,,,138.0,,,,,,,,,,,,,"clay, sand",Stiff high strength dark greyish brown silty CLAY.   (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4961130788,53.9751444212,23/07/2010
+738,nC07,22.0,22.24,2069.32,1692.15,185.0,77.0,99.0,UU,Undisturbed,2.7,31.0,16.0,0.18,15491.98,,,,0.002,"clay, sand",Firm locally stiff high strength becoming medium strength with depth thickly laminated brown silty CLAY with frequent lamainae of fine sand.   (CARDIGAN BAY - UPPER TILL - LAMINATED) [UNIT I IIa],-3.4961130788,53.9751444212,23/07/2010
+739,nC07,23.0,26.18,,,,43.0,,,,,,,,,,,,,"clay, sand",,-3.4961130788,53.9751444212,23/07/2010
+740,nC07,24.0,30.74,1911.31,1457.7,,34.0,44.0,CU,Undisturbed,,43.0,25.0,0.24,,,,,0.002,"clay, sand",,-3.4961130788,53.9751444212,23/07/2010
+741,nC07,25.0,28.24,1911.31,1478.08,50.0,38.0,34.0,UU,Undisturbed,,43.0,25.0,0.2299999999999999,16013.25,,,,0.002,"clay, gravel, sand",Firm locally soft medium strength brown slightly gravelly sandy CLAY.  Sand is fine to coarse.  Gravel is subangular and subrounded fine to coarse of mixed lithologies.   (CARDIGAN BAY - UPP ER TILL) [UNIT III],-3.4961130788,53.9751444212,23/07/2010
+742,nC07,26.0,29.54,1916.41,1427.12,,53.0,34.0,UU,Undisturbed,2.69,37.0,20.0,0.26,,,,,0.002,"clay, gravel, sand",,-3.4961130788,53.9751444212,23/07/2010
+743,nC07,27.0,23.86,1931.7,1549.44,,36.0,51.0,UU,Remoulded,,51.0,30.0,0.1999999999999999,,,,,0.002,"clay, gravel, sand",,-3.4961130788,53.9751444212,23/07/2010
+744,nC07,28.0,14.22,2293.58,2008.15,,93.0,100.0,CU,Undisturbed,,27.0,14.0,0.12,,,,,0.002,"clay, gravel, mud, sand",Stiff high strength very dark greyish brown slightly sandy gravelly CLAY.  Sand is fine to coarse.  Gravel is subangular to subrounded fine to coarse of mixed lithologies.   (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4961130788,53.9751444212,23/07/2010
+745,nC07,29.0,48.36,,,,,,,,,,,,,,,,,mud,at 29.00 m - locally grades into extrememly weak calcareous mudstone.,-3.4961130788,53.9751444212,23/07/2010
+746,nC07,29.5,14.08,,,,,,,,,,,,,0.4,95.3,,,mud,,-3.4961130788,53.9751444212,23/07/2010
+747,nC07,31.0,12.6,,,,,,,,,,,,,1.4,100.0,,,mud,from 31.10 m to 31.60 m - Extremely weak grey weathered siltstone.,-3.4961130788,53.9751444212,23/07/2010
+748,nC07,32.5,10.16,,,,,,,,,,,,,8.3,100.0,,,mud,,-3.4961130788,53.9751444212,23/07/2010
+749,nC07,34.0,13.52,,,,,,,,,,,,,,96.7,,,mud,,-3.4961130788,53.9751444212,23/07/2010
+750,nC07,35.0,12.22,,,,,,,,,,,,,,,,,mud,Very weak and weak partially weathered reddish brown calcareous MUDSTONE with closely to medium spaced randomly orientated gypsum veins (<2mm thick).  Fractures are closely spaced orientated,-3.4961130788,53.9751444212,23/07/2010
+751,nC07,35.5,10.92,,,,,,,,,,,,,0.8500000000000001,60.0,,,mud,,-3.4961130788,53.9751444212,23/07/2010
+752,nC07,37.0,12.36,,,,,,,,,,,,,1.3,96.7,,,mud,at 37.00 m - closely to medium spaced pockets and lenses (<40mm x 10mm) of gypsum.,-3.4961130788,53.9751444212,23/07/2010
+753,nC07,38.5,10.72,,,,,,,,,,,,,3.1,100.0,,,mud,,-3.4961130788,53.9751444212,23/07/2010
+754,nC07,39.0,10.72,,,,,,,,,,,,,,,,,mud,from 39.5 m to 39.8 m - 2 No. very thin beds (<40mm) of very weak light greenish grey siltstone with rare pockets (<60mm x 20mm) of gypsum.,-3.4961130788,53.9751444212,23/07/2010
+755,nD05,0.0,39.07,,,,,,,,,,,,,,,,,"clay, sand",Very soft becoming firm with depth dark greyish brown sandy CLAY,-3.4969518937,53.9870414927,13/07/2010
+756,nD05,1.0,26.92,,,,,,CD,Reconstituted,,28.0,8.0,,,,,32.0,0.002,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+757,nD05,2.0,27.18,2003.06,1574.92,,,57.0,CU,Undisturbed,,,,0.2099999999999999,,,,,,"clay, sand",from 2.00 m to 2.40 m - soft sandy clay.,-3.4969518937,53.9870414927,13/07/2010
+758,nD05,3.0,26.32,1997.96,1600.41,,,28.0,CU,Undisturbed,2.7,24.0,5.0,0.1999999999999999,,,,,0.002,"clay, sand",from 3.20 m to 4.30 m - frequent gastropod shell fragments (<35mm),-3.4969518937,53.9870414927,13/07/2010
+759,nD05,4.0,18.3,,,,,,,,,,,,,,,,,"clay, sand",from 4.40 m to 21.10 m - dark greyish brown with rare shell fragments.,-3.4969518937,53.9870414927,13/07/2010
+760,nD05,5.0,20.8,,,,,,,,,,,,,,,,,"clay, sand",from 5.00 m to 5.25 m -  rare shell fragments,-3.4969518937,53.9870414927,13/07/2010
+761,nD05,6.0,22.27,,,,,,CD,Reconstituted,,,,,,,,40.5,0.002,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+762,nD05,7.0,19.78,,,,,,,,,,,,,,,,,"clay, sand",at 7.15 m - 1 No. lamina of dark grey clayey fine sand.,-3.4969518937,53.9870414927,13/07/2010
+763,nD05,8.0,22.71,,,,,,,,,,,,,,,,,sand,from 8.00 m to 12.00 m - closely spaced lenses of black organic rich sand.,-3.4969518937,53.9870414927,13/07/2010
+764,nD05,9.0,23.69,,,,,,,,,,,,,,,,,"clay, sand",at 9.30 m - 1 No. thick lamina of brown clayey fine sand.,-3.4969518937,53.9870414927,13/07/2010
+765,nD05,10.0,23.25,,,,,,,,,,,,,,,,,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+766,nD05,11.0,22.56,,,,,,,,,,,,,,,,,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+767,nD05,12.0,20.14,,,,,,,,,,,,,,,,0.002,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+768,nD05,13.0,21.42,,,,,,,,,,,,,,,,,"clay, sand",at 13.25 m - 1 No. lamina of black silt/fine sand.,-3.4969518937,53.9870414927,13/07/2010
+769,nD05,14.0,22.72,,,,,,,,,,,,,,,,,"clay, sand",from 14.00 m to 14.05 m - firm dark greyish brown slightly sandy clay,-3.4969518937,53.9870414927,13/07/2010
+770,nD05,15.0,23.76,,,,,,,,,,,,,,,,,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+771,nD05,16.0,24.01,,,,,,,,,,,,,,,,,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+772,nD05,17.0,22.33,,,,,,,,,,,,,,,,,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+773,nD05,18.0,24.01,,,,,,CD,Reconstituted,,,,,,,,39.5,0.002,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+774,nD05,19.0,23.85,,,,,,,,,,,,,,,,,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+775,nD05,20.0,24.75,,,,,,,,,,,,,,,,,"clay, sand",,-3.4969518937,53.9870414927,13/07/2010
+776,nD05,21.0,19.56,,,,,,,,,,,,,,,,,"gravel, sand",Firm e of grey fine sand and rare fine gravel. (CARDIGAN BAY -  UPPER TILL - LAMINATED),-3.4969518937,53.9870414927,13/07/2010
+777,nD05,22.0,20.59,2117.74,1781.35,152.0,121.0,113.0,CU,Undisturbed,2.7,33.0,17.0,0.16,15790.52,,,,0.002,"gravel, sand",from 22.00 m to 24.00 m - stiff.,-3.4969518937,53.9870414927,13/07/2010
+778,nD05,23.0,22.56,2018.35,1641.18,,71.0,80.0,UU,Undisturbed,,33.0,17.0,0.1899999999999999,,,,,0.002,"gravel, sand",,-3.4969518937,53.9870414927,13/07/2010
+779,nD05,24.0,16.71,2161.06,1916.41,,80.0,48.0,UU,Remoulded,,29.0,15.0,0.1099999999999999,,,,,0.002,"gravel, sand",,-3.4969518937,53.9870414927,13/07/2010
+780,nD05,25.0,16.12,2217.13,1906.22,92.0,84.0,153.0,CU,Undisturbed,,,,0.14,18633.71,,,,,"clay, sand",from 25.05 m to 25.65 m - sandy clay.  Sand is mainly fine.,-3.4969518937,53.9870414927,13/07/2010
+781,nD05,26.0,17.96,2069.32,1763.51,,54.0,46.0,UU,Remoulded,,,,0.15,,,,,,"gravel, sand",Firm medium stregth becoming stiff to very stiff with depth reddish brown slightly gravelly sandy SILT.  Sand is fine to coarse nd rare sandstone. (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4969518937,53.9870414927,13/07/2010
+782,nD05,27.0,14.08,,,,440.0,,,,,,,,,,,,,"clay, gravel, mud, sand",Weak locally extremely weak ely weak to weak mudstone.  Fractures  are medium spaced,-3.4969518937,53.9870414927,13/07/2010
+783,nD05,28.0,15.47,,,,,,,,,35.0,10.0,,,,95.0,,0.002,"clay, gravel, mud, sand",,-3.4969518937,53.9870414927,13/07/2010
+784,nD05,29.0,9.35,,,,,,,,2.73,,,,,,100.0,,,clay,from 29.25 m to 29.80 m - extremely weak locally decomposed to stiff clay,-3.4969518937,53.9870414927,13/07/2010
+785,nD05,30.0,8.97,,,,,,,,,,,,,,40.0,,,mud,from 30.10 m to 30.70 m - extremely weak moderately weathered dark reddish brown mudstone e.,-3.4969518937,53.9870414927,13/07/2010
+786,nD05,31.0,8.27,,,,,,,,,,,,,,,,,mud,from 31.50 m to 32.05 m - fracture inclined 65 - 80 degrees,-3.4969518937,53.9870414927,13/07/2010
+787,nD05,31.5,7.58,,,,,,,,,,,,,,53.8,,,mud,,-3.4969518937,53.9870414927,13/07/2010
+788,nD05,32.0,10.63,,,,,,,,,,,,,,,,,"clay, mud",from 32.10 m to 32.40 m - extremely closely spaced fractures,-3.4969518937,53.9870414927,13/07/2010
+789,nD05,32.8,13.67,,,,,,,,,,,,,0.7,51.4,,,"clay, mud",,-3.4969518937,53.9870414927,13/07/2010
+790,nD05,33.0,10.79,,,,,,,,,,,,,,,,,"clay, mud",from 33.45 m to 34.70 m - 2 No. subvertical fractures,-3.4969518937,53.9870414927,13/07/2010
+791,nD05,34.2,7.9,,,,,,,,,,,,,0.7,96.7,,,"clay, mud",,-3.4969518937,53.9870414927,13/07/2010
+792,nD05,35.0,6.98,,,,,,,,,,,,,,,,,mud,Weak partially weathered dark greyish brown calcareous MUDSTONE with occasional subhorizontal gypsum veins (<1mm).  Fractures are closely spaced ight. (MERCIA MUDSTONE - WEATHERED MERCIA MUDSTONE) [UNIT VIa],-3.4969518937,53.9870414927,13/07/2010
+793,nD05,35.7,6.06,,,,,,,,,,,,,,70.7,,,mud,,-3.4969518937,53.9870414927,13/07/2010
+794,nD05,37.0,6.85,,,,,,,,,,,,,,,,,mud,Extremely weak to weak becoming weak with depth 5 degrees,-3.4969518937,53.9870414927,13/07/2010
+795,nD05,37.2,7.64,,,,,,,,,,,,,,36.7,,,mud,,-3.4969518937,53.9870414927,13/07/2010
+796,nD05,38.0,8.08,,,,,,,,,,,,,,,,,"clay, mud",from 38.20 m to 38.30 m - decomposed to stiff brown clay with occasional lithorelicts of very weak and extremely weak mudstone.,-3.4969518937,53.9870414927,13/07/2010
+797,nD05,38.7,8.52,,,,,,,,,,,,,,28.0,,,"clay, mud",,-3.4969518937,53.9870414927,13/07/2010
+798,nD05,39.0,8.52,,,,,,,,,,,,,,,,,"clay, mud",from 39.50 m to 39.70 m - subvertical fracture,-3.4969518937,53.9870414927,13/07/2010
+799,nD05,40.0,8.52,,,,,,,,,,,,,,,,,"clay, mud",from 40.00 m to 40.20 m - occasional dark grey brown mottling.,-3.4969518937,53.9870414927,13/07/2010
+800,nD06,0.0,34.22,,,,,,,,,,,,,,,,0.002,"clay, sand",Very soft dark grey slightly sandy CLAY with occasional shells (<40mm) and slight organic odour.  Sand is fine. (SURFACE SANDS - SEDIMENT LAYER) [UNIT I],-3.4912060683,53.9822992038,21/07/2010
+801,nD06,1.0,36.65,,,,,,,,,,,,,,,,,"clay, sand",,-3.4912060683,53.9822992038,21/07/2010
+802,nD06,2.0,26.89,1931.7,1523.96,,,,,,,,,0.2099999999999999,,,,,,"clay, sand",Soft greyish brown sandy CLAY,-3.4912060683,53.9822992038,21/07/2010
+803,nD06,3.0,23.08,,,,,,CD,Reconstituted,2.69,23.0,5.0,,,,,28.5,0.002,"clay, sand",,-3.4912060683,53.9822992038,21/07/2010
+804,nD06,4.0,22.3,,,,,,,,,,,,,,,,,sand,Brown slightly silty SAND,-3.4912060683,53.9822992038,21/07/2010
+805,nD06,5.0,21.96,,,,,,,,,,,,,,,,,sand,at 5.25 m - 1 No. thick lamina (20mm) of dark grey silty fine sand.,-3.4912060683,53.9822992038,21/07/2010
+806,nD06,6.0,21.04,,,,,,,,,,,,,,,,,sand,from 6.10 m to 6.20 m - thin bed (<90mm) of very dark greenish black slightly silty fine sand.,-3.4912060683,53.9822992038,21/07/2010
+807,nD06,7.0,21.3,,,,,,,,,,,,,,,,,sand,Very dark grey slightly silty SAND.  Sand is fine and medium. (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.4912060683,53.9822992038,21/07/2010
+808,nD06,8.0,23.6,,,,,,CD,Reconstituted,,,,,,,,41.5,,"clay, sand",Very dark grey slightly clayey SAND,-3.4912060683,53.9822992038,21/07/2010
+809,nD06,9.0,21.85,,,,,,,,,,,,,,,,,"clay, sand",,-3.4912060683,53.9822992038,21/07/2010
+810,nD06,10.0,22.65,,,,,,,,,,,,,,,,,clay,Betweent 10.00 m  and 10.30 m - Occasional slightly clayey laminae (up to 20mm thick).,-3.4912060683,53.9822992038,21/07/2010
+811,nD06,11.0,19.44,,,,,,,,,,,,,,,,,clay,,-3.4912060683,53.9822992038,21/07/2010
+812,nD06,12.0,27.08,,,,,,,,,,,,,,,,,"clay, sand",Brown slightly SAND,-3.4912060683,53.9822992038,21/07/2010
+813,nD06,13.0,24.54,,,,,,,,,,,,,,,,,sand,Brown slightly silty SAND.  Sand is fine and medium. (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.4912060683,53.9822992038,21/07/2010
+814,nD06,14.0,24.04,,,,,,,,,,,,,,,,,sand,,-3.4912060683,53.9822992038,21/07/2010
+815,nD06,15.0,22.03,,,,,,,,,,,,,,,,,sand,,-3.4912060683,53.9822992038,21/07/2010
+816,nD06,16.0,22.65,,,,,,CD,Reconstituted,2.63,,,,,,,38.0,0.002,sand,Below 16.00 m - rare laminae of black carbonaceous sand with some shell fragments.,-3.4912060683,53.9822992038,21/07/2010
+817,nD06,17.0,22.44,,,,,,,,,,,,,,,,,sand,at 17.00 m -rare bivalve shell fragments.,-3.4912060683,53.9822992038,21/07/2010
+818,nD06,18.0,21.29,,,,,,,,,,,,,,,,,sand,,-3.4912060683,53.9822992038,21/07/2010
+819,nD06,19.0,21.17,,,,,,,,,,,,,,,,,sand,Brown slightly silty SAND,-3.4912060683,53.9822992038,21/07/2010
+820,nD06,20.0,20.35,,,,102.0,,,,,,,,,,,,,clay,Stiff dark brown silty CLAY. (CARDIGAN BAY UPPER TILL) [UNIT III],-3.4912060683,53.9822992038,21/07/2010
+821,nD06,21.0,21.23,2041.28,1676.86,94.0,68.0,65.0,CU,Undisturbed,2.7,31.0,15.0,0.18,14450.01,,,,0.002,clay,,-3.4912060683,53.9822992038,21/07/2010
+822,nD06,22.0,25.88,1936.8,1427.12,,45.0,40.0,UU,Remoulded,,,,0.26,,,,,,clay,,-3.4912060683,53.9822992038,21/07/2010
+823,nD06,23.0,24.93,1875.64,1478.08,,36.0,33.0,UU,Undisturbed,,38.0,22.0,0.2099999999999999,,,,,0.002,clay,,-3.4912060683,53.9822992038,21/07/2010
+824,nD06,24.0,31.24,1804.28,1335.37,,26.0,21.0,UU,Remoulded,,45.0,26.0,0.26,,,,,0.002,clay,Below 24.00 m - soft,-3.4912060683,53.9822992038,21/07/2010
+825,nD06,24.5,33.2,1814.48,1376.15,,25.0,18.0,UU,Undisturbed,,,,0.24,,,,,,clay,,-3.4912060683,53.9822992038,21/07/2010
+826,nD06,25.0,32.97,,,,,,,,,,,,,,,,,gravel,from 25.50 m to 26.25 m - slightly gravelly.  Gravel is subangular and subrouned fine to coarse of mixed lithologies.,-3.4912060683,53.9822992038,21/07/2010
+827,nD06,25.5,32.73,1824.67,1355.76,,27.0,24.0,UU,Undisturbed,2.75,48.0,27.0,0.26,,,,,0.002,gravel,,-3.4912060683,53.9822992038,21/07/2010
+828,nD06,26.5,22.64,1941.9,1569.83,,38.0,46.0,UU,Undisturbed,2.72,40.0,22.0,0.1899999999999999,,,,,0.002,gravel,,-3.4912060683,53.9822992038,21/07/2010
+829,nD06,27.0,24.12,,,,,,,,,,,,,,,,,gravel,Soft low strength becoming stiff high strength with depth e to coarse of mixed lithologies. (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4912060683,53.9822992038,21/07/2010
+830,nD06,27.5,25.6,1885.83,1488.28,,49.0,22.0,UU,Remoulded,,35.0,19.0,0.2099999999999999,,,,,0.002,gravel,,-3.4912060683,53.9822992038,21/07/2010
+831,nD06,28.5,13.12,2205.23,1950.39,132.0,112.0,134.0,UU,Undisturbed,,27.0,15.0,0.12,21175.84,,,,0.002,gravel,,-3.4912060683,53.9822992038,21/07/2010
+832,nD06,29.5,14.66,2242.61,1967.38,,123.0,124.0,CU,Undisturbed,,,,0.12,,,,,,gravel,,-3.4912060683,53.9822992038,21/07/2010
+833,nD06,30.0,15.44,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",Stiff reddish brown CLAY with frequent sand and gravel sized lithorelicts of extremely weak mudstone. (Highly weathered mudstone) (MERCIA MUDSTONE -  WEATHERED MERCIA MUDSTONE) [UNIT VIa],-3.4912060683,53.9822992038,21/07/2010
+834,nD06,31.0,16.23,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",,-3.4912060683,53.9822992038,21/07/2010
+835,nD06,32.0,15.34,,,,,,,,,,,,,,,,,mud,Very weak partially weathered reddish brown calcareous MUDSTONE.  (MERCIA MUDSTONE -  WEATHERED MERCIA MUDSTONE) [UNIT VIa],-3.4912060683,53.9822992038,21/07/2010
+836,nD06,32.5,14.45,,,,,,,,,,,,,,80.7,,,mud,,-3.4912060683,53.9822992038,21/07/2010
+837,nD06,33.0,14.71,,,,,,,,,,,,,,,,,"gravel, mud",from 33.89 m to 33.95 m - Non intact.  Recovered as angular gravel sized fragments of mudstone.,-3.4912060683,53.9822992038,21/07/2010
+838,nD06,34.0,14.97,,,,,,,,,,,,,0.8,85.3,,,"gravel, mud",Very weak becoming weak with depth clined at <5 to 45 degrees,-3.4912060683,53.9822992038,21/07/2010
+839,nD06,35.0,14.53,,,,,,,,,,,,,,,,,"gravel, mud",at 35.72 m -  subhorizontal gypsum vein (<6mm thick).,-3.4912060683,53.9822992038,21/07/2010
+840,nD06,35.5,14.1,,,,,,,,,,,,,1.5,100.0,,,"gravel, mud",,-3.4912060683,53.9822992038,21/07/2010
+841,nD06,36.0,14.55,,,,,,,,,,,,,,,,,"gravel, mud",Below 36.56 m - fractures generally medium to widely spaced.,-3.4912060683,53.9822992038,21/07/2010
+842,nD06,37.0,15.0,,,,,,,,,,,,,3.5,90.0,,,"gravel, mud",,-3.4912060683,53.9822992038,21/07/2010
+843,nD06,38.0,13.91,,,,,,,,,,,,,,,,,gravel,from 38.34 m to 38.50 m - Non intact.  Recovered as angular and subangular gravel sized fragments (<90mm).,-3.4912060683,53.9822992038,21/07/2010
+844,nD06,38.5,12.82,,,,,,,,,,,,,6.8,85.3,,,gravel,,-3.4912060683,53.9822992038,21/07/2010
+845,nD13,0.0,28.9,,,,,,,,2.68,29.0,10.0,,,,,,0.002,sand,Very soft very dark greenish grey thinly interlaminated with very dark grey m).  Sand is mainly fine.   (SURFACE SANDS - SEDIMENT LAYER) [UNIT I],-3.4464268203,53.9454041766,26/07/2010
+846,nD13,1.0,40.79,,,,,,,,,,,,,,,,,sand,from 1.00 m to 3.00 m - rare shells (<45mm),-3.4464268203,53.9454041766,26/07/2010
+847,nD13,2.0,33.24,,,,,,,,,,,,,,,,,sand,,-3.4464268203,53.9454041766,26/07/2010
+848,nD13,3.0,24.27,1977.57,1590.21,,,,CD,Reconstituted,,,,0.1999999999999999,,,,32.0,0.002,"clay, sand",from 3.45 m to 3.50 m - frequent shells,-3.4464268203,53.9454041766,26/07/2010
+849,nD13,4.0,34.39,,,,,,,,,,,,,,,,,"clay, sand",Dark greyish brown sandy CLAY,-3.4464268203,53.9454041766,26/07/2010
+850,nD13,5.0,21.84,,,,,,,,,,,,,,,,,"clay, sand",from 5.00 m to 5.30 m - fare shell fragments (<10mm) and rare black speckling.,-3.4464268203,53.9454041766,26/07/2010
+851,nD13,6.0,24.37,,,,,,,,,,,,,,,,,sand,at 6.10 m - 1 No. thin lamina (3mm) of very dark grey silty fine sand.,-3.4464268203,53.9454041766,26/07/2010
+852,nD13,7.0,23.81,,,,,,,,,,,,,,,,,sand,,-3.4464268203,53.9454041766,26/07/2010
+853,nD13,8.0,25.99,,,,,,,,,,,,,,,,,sand,,-3.4464268203,53.9454041766,26/07/2010
+854,nD13,9.0,23.1,,,,,,,,,,,,,,,,,sand,,-3.4464268203,53.9454041766,26/07/2010
+855,nD13,10.0,23.76,,,,,,CD,Reconstituted,,,,,,,,41.0,0.002,sand,,-3.4464268203,53.9454041766,26/07/2010
+856,nD13,11.0,24.01,,,,,,,,,,,,,,,,,sand,from 11.00 m to 11.10 m - silty,-3.4464268203,53.9454041766,26/07/2010
+857,nD13,12.0,26.13,,,,,,,,,,,,,,,,,sand,Dark greyish brown fine and medium SAND.   (WESTERN IRISH SEA PROGRADED SAND FACIES - UPPER MEMBER) [UNIT IIa],-3.4464268203,53.9454041766,26/07/2010
+858,nD13,13.0,25.77,,,,,,,,,,,,,,,,0.002,sand,,-3.4464268203,53.9454041766,26/07/2010
+859,nD13,14.0,24.67,,,,,,,,,,,,,,,,,sand,,-3.4464268203,53.9454041766,26/07/2010
+860,nD13,15.0,28.66,,,,,,,,,,,,,,,,,gravel,from 15.00 m to 15.10 m - slightly silty very gravelly,-3.4464268203,53.9454041766,26/07/2010
+861,nD13,15.1,24.78,,,,,,,,,,,,,,,,,gravel,,-3.4464268203,53.9454041766,26/07/2010
+862,nD13,16.0,20.91,,,,,,,,,,,,,,,,,gravel,from 16.00 m to 16.20 m - brown,-3.4464268203,53.9454041766,26/07/2010
+863,nD13,17.0,19.15,,,,94.0,,,,,,,,,,,,,"clay, sand",Very thickly interbedded soft and firm low and medium strength brown sandy CLAY and clayey,-3.4464268203,53.9454041766,26/07/2010
+864,nD13,18.0,21.72,,,,77.0,,CD,Reconstituted,2.68,,,,,,,32.5,0.002,"clay, gravel, sand",Soft low strength locally firm medium strength dark greyish brown slightly sandy CLAY.  Sand is fine. With very closely spaced and reddish brown fine sand.   (CARDIGAN BAY -  UPPER TILL - LAMINATED) [UNIT IIIa],-3.4464268203,53.9454041766,26/07/2010
+865,nD13,19.0,22.56,,,,39.0,,,,,29.0,15.0,,,,,,0.002,"clay, sand",from 19.00 m to 19.80 m - closely space thick laminae of soft light brown slightly sandy silt.  Sand is fine.,-3.4464268203,53.9454041766,26/07/2010
+866,nD13,20.0,25.59,2028.54,1580.02,63.0,22.0,61.0,CU,Undisturbed,,31.0,16.0,0.2199999999999999,13631.54,,,,0.002,sand,from 20.00 m to 21.15 m - very closely spaced thick laminae (<9mm) of light brown fine sand.,-3.4464268203,53.9454041766,26/07/2010
+867,nD13,21.0,27.59,,,,39.0,,,,,,,,,,,,,sand,from 21.20 m to 22.00 m - indistinctly fissured.,-3.4464268203,53.9454041766,26/07/2010
+868,nD13,22.0,19.0,,,,42.0,13.0,UU,Remoulded,,48.0,28.0,,,,,,0.002,"mud, sand",Firm medium strength locally stiff high strength dark brown slightly sandy of microgabbro and mudstone.   (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4464268203,53.9454041766,26/07/2010
+869,nD13,23.0,16.54,2283.38,1967.38,,48.0,56.0,CU,Undisturbed,,30.0,17.0,0.14,,,,,0.002,"mud, sand",,-3.4464268203,53.9454041766,26/07/2010
+870,nD13,24.0,15.11,2130.48,1855.25,,86.0,68.0,UU,Undisturbed,,,,0.13,,,,,,"mud, sand",,-3.4464268203,53.9454041766,26/07/2010
+871,nD13,25.0,16.82,2079.51,1804.28,,72.0,52.0,UU,Remoulded,2.69,31.0,16.0,0.13,,,,,0.002,sand,from 25.00 m to 26.12 m - rare pockets of light brown fine and medium sand.,-3.4464268203,53.9454041766,26/07/2010
+872,nD13,26.0,20.89,,,,57.0,,,,,31.0,18.0,,,,,,0.002,gravel,from 26.25 m to 27.00 m - firm locally stiff and slightly gravelly.,-3.4464268203,53.9454041766,26/07/2010
+873,nD13,27.0,13.58,2161.06,1906.22,,79.0,68.0,UU,Remoulded,,26.0,14.0,0.12,,,,,0.002,"clay, gravel, sand",Stiff medium strength becoming high strength with depth dark brown slightly gravelly sandy CLAY.  Sand is fine to coarse ies.   (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4464268203,53.9454041766,26/07/2010
+874,nD13,28.0,14.84,,,,90.0,,,,,,,,,,,,,"clay, gravel, sand",,-3.4464268203,53.9454041766,26/07/2010
+875,nD13,29.0,14.58,2256.2,1977.57,158.0,74.0,110.0,CU,Undisturbed,,27.0,14.0,0.12,22080.64,,,,0.002,"clay, gravel, sand",,-3.4464268203,53.9454041766,26/07/2010
+876,nD13,30.0,15.15,,,,96.0,,,,,,,,,,,,,"clay, gravel, sand",,-3.4464268203,53.9454041766,26/07/2010
+877,nD13,31.0,13.07,2195.04,1946.99,127.0,79.0,99.0,UU,Undisturbed,,26.0,14.0,0.1099999999999999,22899.67,,,,0.002,"clay, gravel, sand",,-3.4464268203,53.9454041766,26/07/2010
+878,nD13,32.0,15.09,2273.19,2008.15,,113.0,114.0,CU,Undisturbed,,,,0.12,,,0.0,,,"clay, gravel, mud, sand",Very stiff dark grey calcareous CLAY with frequent angular gravel sized sized lithorelicts of extremely weak mudstone.  (Highly weathered Mudstone).  (WEATHERED MERCIA MUDSTONE) [UNIT VIa],-3.4464268203,53.9454041766,26/07/2010
+879,nD13,33.0,17.35,,,,,,,,,,,,,0.5,100.0,,,"clay, gravel, mud, sand",Weak locally medium strong or very weak partially weathered grey calcareous SILTSTONE locally grading into argillaceous limestone with frequent calcite veins.  Discontinuities are medium spa ced inclined at 10 - 20 degrees,-3.4464268203,53.9454041766,26/07/2010
+880,nD13,34.0,18.34,,,,,,,,,,,,,0.5,10.0,,,"clay, gravel, mud, sand",from 34.84 m to 35.10 m - Non intact,-3.4464268203,53.9454041766,26/07/2010
+881,nD13,35.0,22.32,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",from 35.10 m to 35.50 m - recovered as grey silt - probably completely weathered siltstone.,-3.4464268203,53.9454041766,26/07/2010
+882,nD13,35.5,26.29,,,,,,,,,,,,,17.6,40.0,,,"clay, gravel, mud, sand",,-3.4464268203,53.9454041766,26/07/2010
+883,nD13,36.0,20.22,,,,,,,,,,,,,,,,,mud,Weak fresh greyish yellow massive LIMESTONE with frequent randomly orientated calcite veins.   (WEATHERED MERCIA MUDSTONE - LIMESTONE) [UNIT VIc],-3.4464268203,53.9454041766,26/07/2010
+884,nD13,37.0,14.15,,,,,,,,,,,,,,88.0,,,mud,from 37.49 m to 37.70 m - fractures are inclined at >85 degrees,-3.4464268203,53.9454041766,26/07/2010
+885,nD13,38.0,8.07,,,,,,,,,,,,,,,,,mud,at 38.50 m - medium to light greenish grey.,-3.4464268203,53.9454041766,26/07/2010
+886,nD13,38.5,2.0,,,,,,,,,,,,,33.3,98.0,,,mud,,-3.4464268203,53.9454041766,26/07/2010
+887,nD13,40.0,2.0,,,,,,,,,,,,,,100.0,,,mud,,-3.4464268203,53.9454041766,26/07/2010
+888,nE08,0.0,27.89,,,,,20.0,CU,Remoulded,2.69,27.0,7.0,,,,,28.5,0.002,"clay, sand",Very soft dark greyish brown sandy CLAY,-3.466009936,53.9753204736,19/07/2010
+889,nE08,1.0,30.94,,,,,,,,,,,,,,,,,"clay, sand",,-3.466009936,53.9753204736,19/07/2010
+890,nE08,2.0,18.7,,,,,,,,,,,,,,,,,sand,Dark greyish brown very silty SAND,-3.466009936,53.9753204736,19/07/2010
+891,nE08,3.0,21.58,,,,,,,,,,,,,,,,,sand,Greyish brown silty locally slightly silty SAND,-3.466009936,53.9753204736,19/07/2010
+892,nE08,4.0,24.07,,,,,,,,,,,,,,,,,sand,from 4.06 m to 4.10 m - frequent shell fragments (<30mm).,-3.466009936,53.9753204736,19/07/2010
+893,nE08,5.0,22.41,,,,,,,,,,,,,,,,,sand,,-3.466009936,53.9753204736,19/07/2010
+894,nE08,6.0,24.18,,,,,172.0,CU,Remoulded,,,,,,,,41.5,0.002,sand,below 6.25 m - occasional lenses (<4mm x 20mm) of dark greyish black fine sand.,-3.466009936,53.9753204736,19/07/2010
+895,nE08,7.0,23.42,,,,,,,,,,,,,,,,,sand,,-3.466009936,53.9753204736,19/07/2010
+896,nE08,8.0,26.65,,,,,,,,,,,,,,,,,"clay, sand",at 8.30 m - 1 No. thin lamina (3mm) of soft grey clay.,-3.466009936,53.9753204736,19/07/2010
+897,nE08,9.0,23.97,,,,,,,,,,,,,,,,,"clay, sand",below 9.00 m - no shell fragments or lenses.,-3.466009936,53.9753204736,19/07/2010
+898,nE08,10.0,32.15,,,,,,,,,,,,,,,,,"clay, sand",,-3.466009936,53.9753204736,19/07/2010
+899,nE08,11.0,13.5,,,,,281.0,CU,Remoulded,,,,,,,,41.0,0.002,"clay, sand",,-3.466009936,53.9753204736,19/07/2010
+900,nE08,12.0,25.61,,,,,,,,,,,,,,,,,"clay, sand",below 12.00 m - occasional black speckling.,-3.466009936,53.9753204736,19/07/2010
+901,nE08,13.0,25.53,,,,,,,,,,,,,,,,,"clay, sand",,-3.466009936,53.9753204736,19/07/2010
+902,nE08,14.0,26.19,,,,,,,,,,,,,,,,,"clay, sand",,-3.466009936,53.9753204736,19/07/2010
+903,nE08,15.0,28.48,,,,,,,,,,,,,,,,,"clay, sand",,-3.466009936,53.9753204736,19/07/2010
+904,nE08,16.0,23.6,,,,,,,,,,,,,,,,,"clay, sand",,-3.466009936,53.9753204736,19/07/2010
+905,nE08,17.0,15.56,,,,,377.0,CD,Reconstituted,,,,,,,,37.0,0.002,"clay, gravel, sand",Greyish brown silty locally gravelly SAND SEA PROGRADED SAND FACIES - BASAL DEPOSITS/CHAOTIC FACIES) [UNIT IId],-3.466009936,53.9753204736,19/07/2010
+906,nE08,18.0,28.43,,,,,,,,,,,,,,,,,"clay, gravel, sand",Soft and firm,-3.466009936,53.9753204736,19/07/2010
+907,nE08,19.0,28.37,1916.41,1472.99,,31.0,45.0,CU,Undisturbed,,46.0,26.0,0.2299999999999999,,,,,0.002,sand,Below 19.00 m - very closely to closely spaced thin laminae of light brown silt/fine sand.,-3.466009936,53.9753204736,19/07/2010
+908,nE08,20.0,28.12,1930.0,1481.48,55.0,27.0,34.0,CU,Undisturbed,,36.0,20.0,0.2299999999999999,12960.9,,,,0.002,sand,from 20.00 m to 21.00 m - occasional laminae of red brown silt/fine sand.,-3.466009936,53.9753204736,19/07/2010
+909,nE08,21.0,27.18,2120.29,1590.21,,74.0,98.0,UU,Remoulded,,,,0.25,,,,,,sand,Firm l is subangular to rounded,-3.466009936,53.9753204736,19/07/2010
+910,nE08,22.0,14.16,2201.83,1931.7,,141.0,118.0,UU,Remoulded,,28.0,14.0,0.12,,,,,0.002,sand,,-3.466009936,53.9753204736,19/07/2010
+911,nE08,23.0,20.1,2018.35,1676.86,107.0,67.0,51.0,UU,Undisturbed,,34.0,19.0,0.17,15657.34,,,,0.002,sand,from 23.90 m to 24.00 m - Assessed zone of core loss.,-3.466009936,53.9753204736,19/07/2010
+912,nE08,24.0,14.42,,,,125.0,,,,,,,,,,50.0,,,sand,Strong discoloured surface.   (WEST OF DUDDON SANDS MICROGABBRO) [UNIT V],-3.466009936,53.9753204736,19/07/2010
+913,nE08,25.0,1.2,,,,,,,,,,,,,60.6,33.3,,,sand,from 25.00 m to 25.10 m - Non intact,-3.466009936,53.9753204736,19/07/2010
+914,nE08,26.5,1.0,,,,,,,,,,,,,,90.9,,,sand,,-3.466009936,53.9753204736,19/07/2010
+915,nE08,27.0,0.8,,,,,,,,,,,,,,,,,sand,from 27.10 m to 28.15 m -subvertical vein.,-3.466009936,53.9753204736,19/07/2010
+916,nE08,27.6,0.6,,,,,,,,,,,,,155.8,93.3,,,sand,,-3.466009936,53.9753204736,19/07/2010
+917,nE08,29.0,1.3,,,,,,,,,,,,,,,,,sand,at 29.6 m - fracture inclined at 35 degrees,-3.466009936,53.9753204736,19/07/2010
+918,nE08,29.1,2.0,,,,,,,,,,,,,22.0,33.3,,,sand,,-3.466009936,53.9753204736,19/07/2010
+919,nE09A,0.0,22.66,1478.08,1345.57,,,11.0,CU,Undisturbed,2.69,29.0,9.0,0.0899999999999999,,,,,0.002,"clay, sand",Very soft dark brownish grey sandy CLAY,-3.4607616327,53.9704229908,01/08/2010
+920,nE09A,1.0,37.65,,,,,,,,,,,,,,,,,"clay, sand",,-3.4607616327,53.9704229908,01/08/2010
+921,nE09A,2.0,32.7,1916.41,1447.5,,,,,,,,,0.24,,,,,,"clay, sand",Very soft to soft dark brownish grey sandy CLAY,-3.4607616327,53.9704229908,01/08/2010
+922,nE09A,3.0,25.42,1997.96,1580.02,,,,,,,,,0.2099999999999999,,,,,,"clay, sand",Soft dark brownish grey slightly sandy CLAY,-3.4607616327,53.9704229908,01/08/2010
+923,nE09A,4.0,26.5,,,,,,,,,,,,,,,,,sand,from 4.20 m to 4.25 m -frequent shells and shell fragments (<30mm).,-3.4607616327,53.9704229908,01/08/2010
+924,nE09A,5.0,22.32,,,,,,,,,,,,,,,,,sand,below 5.00 m - rare shell fragments (<20mm).,-3.4607616327,53.9704229908,01/08/2010
+925,nE09A,6.0,22.82,,,,,,,,,,,,,,,,,sand,at 6.05 m - 1 No. thin lamina of black sand.  Sand is fine and medium.,-3.4607616327,53.9704229908,01/08/2010
+926,nE09A,7.0,23.02,,,,,,CD,Reconstituted,,,,,,,,40.0,0.002,sand,,-3.4607616327,53.9704229908,01/08/2010
+927,nE09A,8.0,24.39,,,,,,,,,,,,,,,,,sand,Light brownish grey silty SAND.  Sand is fine and medium.   (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.4607616327,53.9704229908,01/08/2010
+928,nE09A,9.0,23.9,,,,,,,,,,,,,,,,,sand,at 9.15 m - occasional pockets (<20mm) of dark greyish black organic silty sand.  Sand is fine.,-3.4607616327,53.9704229908,01/08/2010
+929,nE09A,10.0,25.74,,,,,,,,,,,,,,,,,sand,,-3.4607616327,53.9704229908,01/08/2010
+930,nE09A,11.0,22.73,,,,,,,,,,,,,,,,,sand,Greyish brown silty SAND.  Sand is mainly fine.  Locally with extremely closely to very closely spaced thin laminae of dark grey fine sand.   (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBE R) [UNIT IIa],-3.4607616327,53.9704229908,01/08/2010
+931,nE09A,12.0,23.05,,,,,,,,,,,,,,,,,sand,Greyish brown silty SAND.  Sand is fine.   (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa),-3.4607616327,53.9704229908,01/08/2010
+932,nE09A,13.0,23.82,,,,,,,,,,,,,,,,,sand,,-3.4607616327,53.9704229908,01/08/2010
+933,nE09A,14.0,22.62,,,,,,,,,,,,,,,,,sand,,-3.4607616327,53.9704229908,01/08/2010
+934,nE09A,15.0,25.46,,,,,,CD,Reconstituted,,,,,,,,42.0,0.002,sand,,-3.4607616327,53.9704229908,01/08/2010
+935,nE09A,16.0,23.92,,,,,,,,,,,,,,,,,sand,,-3.4607616327,53.9704229908,01/08/2010
+936,nE09A,17.0,30.52,1936.8,1467.89,,35.0,,,,,,,0.24,,,,,,sand,Soft to firm,-3.4607616327,53.9704229908,01/08/2010
+937,nE09A,18.0,30.99,1957.19,1467.89,,35.0,69.0,CU,Undisturbed,2.75,51.0,29.0,0.25,,,,,0.002,sand,at 18.85 m - 1 No. lamina of light brown sand.  Sand is fine and medium.,-3.4607616327,53.9704229908,01/08/2010
+938,nE09A,19.0,17.8,,,,46.0,,,,,,,,,,,,,sand,Soft to firm UPPER TILL) [UNIT III],-3.4607616327,53.9704229908,01/08/2010
+939,nE09A,20.0,17.61,2303.77,1967.38,,44.0,105.0,CU,Undisturbed,,,,0.15,,,,,,sand,,-3.4607616327,53.9704229908,01/08/2010
+940,nE09A,21.0,15.41,2212.03,1921.51,112.0,53.0,74.0,CU,Undisturbed,,28.0,14.0,0.13,15676.1,,,,0.002,sand,Firm d,-3.4607616327,53.9704229908,01/08/2010
+941,nE09A,22.0,13.35,,,,75.0,,,,,,,,,,,,,sand,,-3.4607616327,53.9704229908,01/08/2010
+942,nE09A,23.0,12.69,,,,383.0,,,,,,,,,,,,,sand,,-3.4607616327,53.9704229908,01/08/2010
+943,nE09A,24.5,13.54,,,,267.0,,,,,28.0,14.0,,,,,,0.002,sand,,-3.4607616327,53.9704229908,01/08/2010
+944,nE09A,26.0,13.97,,,,121.0,,,,,,,,,,,,,sand,from 26.0 m to 26.9 m - Assessed zone of core loss.,-3.4607616327,53.9704229908,01/08/2010
+945,nE09A,27.5,12.8,,,,283.0,,,,,,,,,,,,,sand,,-3.4607616327,53.9704229908,01/08/2010
+946,nE09A,28.0,13.87,2293.58,2028.54,,233.0,280.0,CU,Undisturbed,2.72,31.0,16.0,0.12,,,,,0.002,sand,,-3.4607616327,53.9704229908,01/08/2010
+947,nE09A,29.0,13.3,,,,,,,,,,,,,,,,,"clay, gravel, sand",Very stiff locally hard slightly gravelly sandy CLAY.  Sand is mainly fine and medium.  Gravel is subangular and subrounded fine to coarse of mixed lithologies.  (CARDIGAN BAY - LOWER TILL) [UNIT IV],-3.4607616327,53.9704229908,01/08/2010
+948,nE09A,29.5,12.72,2303.77,2094.8,415.0,842.0,790.0,CU,Undisturbed,,28.0,13.0,0.0899999999999999,23364.77,,,,0.002,"clay, gravel, sand",,-3.4607616327,53.9704229908,01/08/2010
+949,nE09A,30.0,16.23,,,,,,,,,,,,,,,,,"mud, sand",Stiff grey sandy calcareous SILT.  Sand is fine.  Completely weathered siltstone.   (MERCIA MUDSTONE - WEATHERED MERCIA MUDSTONE) [UNIT VIa],-3.4607616327,53.9704229908,01/08/2010
+950,nE09A,31.0,19.74,,,,,,,,,,,,,,52.0,,,"clay, gravel, mud, sand",Strong slightly weathered massive very dark grey crystalline MICROGABBRO lined at <5 degrees,-3.4607616327,53.9704229908,01/08/2010
+951,nE09A,32.0,0.4,,,,,,,,,,,,,61.3,89.3,,,"clay, gravel, mud, sand",,-3.4607616327,53.9704229908,01/08/2010
+952,nE09A,33.0,0.65,,,,,,,,,,,,,,,,,sand,Strong massive fresh dark grey crystalline MICROGABBRO.  Fractures are very closely spaced inclined at <5 degrees to 10 degrees clean.   (WEST OF DUDDON SANDS GABBRO) [UNIT V],-3.4607616327,53.9704229908,01/08/2010
+953,nE09A,33.5,0.9,,,,,,,,,,,,,69.2,70.0,,,sand,,-3.4607616327,53.9704229908,01/08/2010
+954,nE09A,34.0,1.15,,,,,,,,,,,,,,,,,sand,from 34.28 m to 34.36 m - weak partially weathered fractured microgabbro.,-3.4607616327,53.9704229908,01/08/2010
+955,nE09A,35.0,1.4,,,,,,,,,,,,,62.9,100.0,,,sand,below 35.0 m - fractures medium spaced.,-3.4607616327,53.9704229908,01/08/2010
+956,nF04,0.0,32.9,,,,,,CD,Reconstituted,2.69,32.0,12.0,,,,,28.5,0.002,"clay, sand",Very soft greyish brown sandy CLAY E SANDS - SEDIMENT LAYER) [UNIT I],-3.4782287896,53.9972935129,10/07/2010
+957,nF04,1.0,36.29,,,,,,,,,,,,,,,,,"clay, sand",between 1.00 m and 3.00 m - dark greyish brown with rare shell fragments (<3mm).,-3.4782287896,53.9972935129,10/07/2010
+958,nF04,2.0,27.24,,,,,,,,,,,,,,,,,"clay, sand",from 2.00 m to 3.00 m - occasional shell fragments (<120mm).,-3.4782287896,53.9972935129,10/07/2010
+959,nF04,3.0,27.29,2028.54,1600.41,,,,,,,,,0.2099999999999999,,,,,,sand,from 3.00 m to 4.00 m - sandy with frequent shell and shell fragments (<35mm).,-3.4782287896,53.9972935129,10/07/2010
+960,nF04,4.0,27.99,,,,,,CD,Reconstituted,,,,,,,,32.0,0.002,sand,Dark greyish brown silty becoming slightly silty with depth SAND,-3.4782287896,53.9972935129,10/07/2010
+961,nF04,5.0,18.83,,,,,,,,,,,,,,,,,sand,below 5.00 m - silty with occasional shell fragments (<5mm) locally with black speckling.,-3.4782287896,53.9972935129,10/07/2010
+962,nF04,6.0,21.38,,,,,,,,,,,,,,,,,sand,from 6.10 m to 7.45 m - With rare pockets (<30mm) and lenses (<3mm x 30mm) of dark grey/black silty sand (possibly carbonaceous).,-3.4782287896,53.9972935129,10/07/2010
+963,nF04,7.0,23.31,,,,,,,,,,,,,,,,,sand,,-3.4782287896,53.9972935129,10/07/2010
+964,nF04,8.0,24.41,,,,,,,,,,,,,,,,,sand,Below 8.0 m - brown.,-3.4782287896,53.9972935129,10/07/2010
+965,nF04,9.0,22.33,,,,,,,,,,,,,,,,,sand,,-3.4782287896,53.9972935129,10/07/2010
+966,nF04,10.0,23.1,,,,,,,,,,,,,,,,0.002,sand,from 10.00 m to 12.45 m - rare pockets (<5mm) and lenses (<2mm x 40mm) of fine black sand.,-3.4782287896,53.9972935129,10/07/2010
+967,nF04,11.0,23.31,,,,,,,,,,,,,,,,,sand,,-3.4782287896,53.9972935129,10/07/2010
+968,nF04,12.0,23.73,,,,,,,,,,,,,,,,,sand,,-3.4782287896,53.9972935129,10/07/2010
+969,nF04,13.0,22.75,,,,,,,,,,,,,,,,,sand,,-3.4782287896,53.9972935129,10/07/2010
+970,nF04,14.0,22.69,,,,,,,,,,,,,,,,,sand,from 14.00 m to 18.00 m - shells/shell debris absent.,-3.4782287896,53.9972935129,10/07/2010
+971,nF04,15.0,24.69,,,,,,,,,,,,,,,,,sand,,-3.4782287896,53.9972935129,10/07/2010
+972,nF04,16.0,25.58,,,,,,,,,,,,,,,,,sand,at 16.10 m - rare pockets (<15mm) of light grey brown silt.,-3.4782287896,53.9972935129,10/07/2010
+973,nF04,17.0,23.77,,,,,,,,,,,,,,,,,sand,,-3.4782287896,53.9972935129,10/07/2010
+974,nF04,18.0,21.96,,,,,,,,,,,,,,,,,sand,from 18.00 m to 18.25 m - occasional shell fragments (<20mm).,-3.4782287896,53.9972935129,10/07/2010
+975,nF04,19.0,38.92,,,,,,,,,,,,,,,,,sand,,-3.4782287896,53.9972935129,10/07/2010
+976,nF04,20.0,17.35,,,,162.0,,CD,Reconstituted,2.66,,,,,,,38.5,0.002,"clay, gravel, sand",Brown slightly silty SAND.  Sand is fine and medium. (WESTERN IRISH SEA BASAL DEPOSITS/CHAOTIC FACIES) [UNIT IIc],-3.4782287896,53.9972935129,10/07/2010
+977,nF04,21.0,23.42,,,,69.0,,,,,,,,,,,,,"clay, gravel, sand",Firm brown indistincly laminated slightly sandy slightly gravelly CLAY.  Sand is fine to coarse.  Gravel is subangular fine of gabbro. (CARDIGAN BAY - UPPER TILL - LAMINATED) [UNIT IIIa],-3.4782287896,53.9972935129,10/07/2010
+978,nF04,22.0,14.61,2120.29,1855.25,,158.0,70.0,UU,Undisturbed,2.69,,,0.13,,,,,0.002,mud,Stiff medium strength becoming very stiff high strength with depth ounded fine to coarse of mixed lithologies including mudstone and gabbro. (CARDIGAN BAY - UPPER TILL - LAMINATED) [UNIT IIIa],-3.4782287896,53.9972935129,10/07/2010
+979,nF04,23.0,12.88,2227.32,1977.57,153.0,212.0,110.0,CU,Undisturbed,,28.0,15.0,0.1099999999999999,17338.26,,,,,mud,below 23.00 m - Stiff to very stiff.,-3.4782287896,53.9972935129,10/07/2010
+980,nF04,24.0,13.84,2140.67,1875.64,,,122.0,UU,Remoulded,,28.5,15.5,0.12,,,,,0.002,mud,,-3.4782287896,53.9972935129,10/07/2010
+981,nF04,25.0,22.79,,,,,,,,,,,,,,,,,"clay, mud",Extremely weak moderately weathered reddish brown calcareous MUDSTONE clay with frequent lithorelicts (<40mm) of extremely weak mudstone.  Fractures are extremely closely spaced randomly orientated planar smooth and tight. (MERCIA MUDSTONE - WEATHERED MERCIA M,-3.4782287896,53.9972935129,10/07/2010
+982,nF04,26.0,13.46,,,,,,,,,,,,,,0.0,,,"clay, mud",below 26.00 m - locally very weak and weak.  Fractures are extremely closely spaced inclined <5 to 40 degrees,-3.4782287896,53.9972935129,10/07/2010
+983,nF04,27.0,14.0,,,,,,,,,,,,,28.4,13.0,,,"clay, mud",Very weak locally extremely weak mooth to rough,-3.4782287896,53.9972935129,10/07/2010
+984,nF04,28.5,14.56,,,,,,,,,,,,,,47.0,,,"clay, mud",,-3.4782287896,53.9972935129,10/07/2010
+985,nF04,29.0,14.66,,,,,,,,,,,,,,,,,"clay, mud",Extremely weak moderately weathered reddish brown calcareous MUDSTONE with extremely closely to very closely spaced greenish grey veins (<10mm).  Locally weathered to a very stiff clay with frequent lithorelicts of extremely weak mudstone.  Fractures are indistinct generally extremely closed spaced,-3.4782287896,53.9972935129,10/07/2010
+986,nF04,30.0,14.74,,,,,,,,,,,,,0.7,93.0,,,"clay, mud",from 30.50 m to 30.70 m - fractures are extremely closely spaced,-3.4782287896,53.9972935129,10/07/2010
+987,nF04,31.0,13.87,,,,,,,,,,,,,,,,,"clay, mud",below 31.50 m - locally weak occasional lenses (<40mm) of grey extremely weak friable mudstone.  With pockets (<5mm) of quartz and light grey clay.,-3.4782287896,53.9972935129,10/07/2010
+988,nF04,31.5,13.0,,,,,,,,,,,,,0.5,40.0,,,"clay, mud",,-3.4782287896,53.9972935129,10/07/2010
+989,nF04,32.0,11.3,,,,,,,,,,,,,,,,,"clay, mud",from 32.30 m to 32.42 m - weak dark grey siltstone.,-3.4782287896,53.9972935129,10/07/2010
+990,nF04,32.9,9.6,,,,,,,,,,,,,,23.0,,,"clay, mud",,-3.4782287896,53.9972935129,10/07/2010
+991,nF04,33.0,10.88,,,,,,,,,,,,,,,,,mud,Weak locally very weak partially weathered reddish brown calcareous MUDSTONE.  Fractures are very closely spaced <5 and 70 degrees ERED MERCIA MUDSTONE) [UNIT VIa],-3.4782287896,53.9972935129,10/07/2010
+992,nF04,34.0,12.16,,,,,,,,,,,,,,,,,mud,from 34.70 m to 34.80 m - locally extremely weak.,-3.4782287896,53.9972935129,10/07/2010
+993,nF04,34.4,13.44,,,,,,,,,,,,,,87.0,,,mud,,-3.4782287896,53.9972935129,10/07/2010
+994,nF04,35.0,10.96,,,,,,,,,,,,,,,,,mud,Weak locally very weak partially weathered reddish brown calcareous MUDSTONE.  Fractures are very closely spaced inclined <5 to >85 degrees ERED MERCIA MUDSTONE) [UNIT VIa],-3.4782287896,53.9972935129,10/07/2010
+995,nF04,35.9,8.49,,,,,,,,,,,,,3.1,53.0,,,mud,,-3.4782287896,53.9972935129,10/07/2010
+996,nF04,36.0,9.05,,,,,,,,,,,,,,,,,clay,at 38.95 m - subhorizontal fracture planar and tight with clay infill (<1mm).,-3.4782287896,53.9972935129,10/07/2010
+997,nF04,37.0,9.62,,,,,,,,,,,,,,,,,"clay, mud",at 37.60 m - occasional pockets (<10mm) of light greenish grey silt.,-3.4782287896,53.9972935129,10/07/2010
+998,nF04,37.4,10.18,,,,,,,,,,,,,0.8,50.0,,,"clay, mud",,-3.4782287896,53.9972935129,10/07/2010
+999,nF04,38.0,10.33,,,,,,,,,,,,,,,,,clay,at 38.05 m - Subhorizontal fracture planar tight slightly rough infilled with reddish brown clay (<3mm).,-3.4782287896,53.9972935129,10/07/2010
+1000,nF04,38.9,10.49,,,,,,,,,,,,,3.6,50.0,,,clay,,-3.4782287896,53.9972935129,10/07/2010
+1001,nF04,39.0,10.49,,,,,,,,,,,,,,,,,clay,at 39.70 m - fracture inclined 70 degrees,-3.4782287896,53.9972935129,10/07/2010
+1002,nF04,40.0,10.49,,,,,,,,,,,,,,,,,clay,at 40.15 m - fracture inclined at <5 degrees,-3.4782287896,53.9972935129,10/07/2010
+1003,nG01,0.0,30.15,,,,,,,,,,,,,,,,,"clay, sand",Dark greyish brown sandy CLAY,-3.4856943076,54.0154402063,05/08/2010
+1004,nG01,1.0,30.56,,,,,,,,,,,,,,,,0.002,"clay, sand",,-3.4856943076,54.0154402063,05/08/2010
+1005,nG01,2.0,29.66,,,,,,,,,,,,,,,,,"clay, sand",from 2.00 m to 3.00 m - Occasional gastropod shells.,-3.4856943076,54.0154402063,05/08/2010
+1006,nG01,3.0,34.41,,,,,,,,,,,,,,,,,sand,Dark greyish brown silty fine and medium SAND,-3.4856943076,54.0154402063,05/08/2010
+1007,nG01,4.0,23.34,,,,,,,,,,,,,,,,,sand,Dark grey silty fine and medium SAND.   (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.4856943076,54.0154402063,05/08/2010
+1008,nG01,5.0,21.24,,,,,,CD,Reconstituted,,,,,,,,29.5,0.002,sand,from 5.00 m to 5.10 m - frequent gastropod shells.,-3.4856943076,54.0154402063,05/08/2010
+1009,nG01,6.0,19.51,,,,,,,,,,,,,,,,,sand,from 6.00 m to 6.35 m - frequent gastropod shells and shell fragments.,-3.4856943076,54.0154402063,05/08/2010
+1010,nG01,7.0,20.63,,,,,,,,,,,,,,,,,sand,from 7.00 m to 7.20 m - abundant gastropod shells and shell fragments,-3.4856943076,54.0154402063,05/08/2010
+1011,nG01,7.5,25.1,,,,,,,,,,,,,,,,,sand,,-3.4856943076,54.0154402063,05/08/2010
+1012,nG01,11.0,23.42,,,,,,CD,Reconstituted,,,,,,,,40.0,0.002,sand,,-3.4856943076,54.0154402063,05/08/2010
+1013,nG01,12.0,28.91,,,,,,,,,,,,,,,,,sand,,-3.4856943076,54.0154402063,05/08/2010
+1014,nG01,12.5,29.37,,,,,,,,,,,,,,,,,sand,,-3.4856943076,54.0154402063,05/08/2010
+1015,nG01,16.0,31.88,,,,,,,,,,,,,,,,,"gravel, sand",at 16.20 m - rare subangular coarse gravel of siltstone.,-3.4856943076,54.0154402063,05/08/2010
+1016,nG01,18.0,26.42,,,,,,CD,Reconstituted,,,,,,,,33.0,0.002,"gravel, sand",,-3.4856943076,54.0154402063,05/08/2010
+1017,nG01,20.0,28.21,,,,,,,,,,,,,,,,,"gravel, sand",Dark grey,-3.4856943076,54.0154402063,05/08/2010
+1018,nG01,21.0,22.87,,,,,,,,,,,,,,,,,"gravel, sand",at 21.00 m - organic odour.,-3.4856943076,54.0154402063,05/08/2010
+1019,nG01,22.0,24.21,,,,,,,,,,,,,,,,,"gravel, sand",,-3.4856943076,54.0154402063,05/08/2010
+1020,nG01,23.0,25.39,,,,,,,,,,,,,,,,,"mud, sand",Soft dark grey sandy SILT.  Sand is fine.   (WESTERN IRISH SEA MUD FACIES) [UNIT IIb],-3.4856943076,54.0154402063,05/08/2010
+1021,nG01,23.5,25.56,,,,,,,,,,,,,,,,0.002,"mud, sand",,-3.4856943076,54.0154402063,05/08/2010
+1022,nG01,27.0,23.93,,,,,,,,,,,,,,,,0.002,"gravel, sand",Dark grey slightly gravelly very silty SAND.  Sand is mainly fine,-3.4856943076,54.0154402063,05/08/2010
+1023,nG01,28.0,23.69,,,,,,,,,,,,,,,,,clay,below 28.30 m - slightly clayey.,-3.4856943076,54.0154402063,05/08/2010
+1024,nG01,31.0,20.33,,,,,,,,,26.0,16.0,,,,,,0.002,sand,Soft very low strength dark grey sandy SILT,-3.4856943076,54.0154402063,05/08/2010
+1025,nG01,32.0,33.97,1987.77,1467.89,,,,,,,,,0.26,,,,,,"clay, sand",from 32.00 m to 32.30 m - occasional pockets (<20mm) of soft dark grey slight sandy clay.,-3.4856943076,54.0154402063,05/08/2010
+1026,nG01,33.0,26.45,1941.9,1508.66,,42.0,51.0,UU,Remoulded,,40.0,22.0,0.2199999999999999,,,,,0.002,"clay, sand",Soft to firm low occasionally medium strength laminated dark brown slightly sandy CLAY.  Sand is mainly fine.  Locally with very closely to closely spaced thin laminae of light grey fine san d.   (CARDIGAN BAY - UPPER TILL - LAMINATED) [UNIT IIIa],-3.4856943076,54.0154402063,05/08/2010
+1027,nG01,34.0,28.52,1916.41,1471.29,76.0,49.0,46.0,CU,Undisturbed,,36.0,19.0,0.2299999999999999,21849.53,,,,0.002,"clay, sand",,-3.4856943076,54.0154402063,05/08/2010
+1028,nG01,35.0,30.94,1875.64,1447.5,,28.0,26.0,UU,Undisturbed,,,,0.2299999999999999,,,,,,"clay, sand",,-3.4856943076,54.0154402063,05/08/2010
+1029,nG01,36.0,28.46,1845.06,1396.53,,41.0,30.0,UU,Undisturbed,,43.0,25.0,0.24,,,,,0.002,"clay, sand",,-3.4856943076,54.0154402063,05/08/2010
+1030,nG01,37.0,35.26,,,,,,,,,,,,,,,,,"clay, sand",,-3.4856943076,54.0154402063,05/08/2010
+1031,nG01,39.0,25.3,,,,,,,,,,,,,,,,,"clay, gravel, sand",Firm to stiff brown slightly gravelly sandy CLAY.  Sand is fine to coarse,-3.4856943076,54.0154402063,05/08/2010
+1032,nG01,39.5,15.35,2278.29,2025.99,147.0,42.0,110.0,UU,Undisturbed,,24.0,12.0,0.1099999999999999,30249.34,,,,0.002,"clay, gravel, sand",,-3.4856943076,54.0154402063,05/08/2010
+1033,nG11,0.0,46.88,,,,,,,,,,,,,,,,,"clay, sand",Very soft dark brownish grey sandy CLAY,-3.4273501569,53.9654625519,30/07/2010
+1034,nG11,1.0,28.11,,,,,,CD,Reconstituted,2.69,28.0,7.0,,,,,33.5,,"clay, sand",,-3.4273501569,53.9654625519,30/07/2010
+1035,nG11,2.0,27.32,2065.92,1529.05,,,,,,,,,0.26,,,,,,sand,at 2.00 m - locally sandy.  Sand is fine and medium.,-3.4273501569,53.9654625519,30/07/2010
+1036,nG11,3.0,20.92,1987.77,1647.98,,,,,,,,,0.17,,,,,,sand,Very dark greyish brown silty becoming slightly silty with depth,-3.4273501569,53.9654625519,30/07/2010
+1037,nG11,4.0,19.78,,,,,,,,,,,,,,,,,clay,from 4.00 m to 4.30 m - slightly clayey,-3.4273501569,53.9654625519,30/07/2010
+1038,nG11,5.0,25.5,,,,,,,,,,,,,,,,,clay,,-3.4273501569,53.9654625519,30/07/2010
+1039,nG11,6.0,19.05,,,,,,CD,Reconstituted,,,,,,,,41.0,,clay,,-3.4273501569,53.9654625519,30/07/2010
+1040,nG11,7.0,25.31,,,,,,,,,,,,,,,,,sand,from 7.00 m to 13.00 m - sand is predominantly fine.,-3.4273501569,53.9654625519,30/07/2010
+1041,nG11,8.0,26.99,,,,,,,,,,,,,,,,,sand,,-3.4273501569,53.9654625519,30/07/2010
+1042,nG11,9.0,24.5,,,,,,,,,,,,,,,,,sand,from 9.00 m to 10.00 m - rare shell fragments (<5mm),-3.4273501569,53.9654625519,30/07/2010
+1043,nG11,10.0,23.9,,,,,,,,,,,,,,,,,sand,,-3.4273501569,53.9654625519,30/07/2010
+1044,nG11,11.0,22.55,,,,,,,,,,,,,,,,,"clay, sand",from 11.08 m to 11.15 m - extremely closely spaced thin laminae of slightly clayey fine and medium sand.,-3.4273501569,53.9654625519,30/07/2010
+1045,nG11,12.0,22.68,,,,,,,,,,,,,,,,,sand,from 12.05 m to 12.08 m - extremely closely spaced thin laminae of black fine and medium sand.,-3.4273501569,53.9654625519,30/07/2010
+1046,nG11,13.0,24.78,,,,,,,,,,,,,,,,,sand,Very dark grey silty SAND,-3.4273501569,53.9654625519,30/07/2010
+1047,nG11,14.0,49.44,,,,,,CD,Reconstituted,,,,,,,,35.5,,sand,from 14.15 m to 15.10 m - abundant bivalve shells and shell fragments (<20mm),-3.4273501569,53.9654625519,30/07/2010
+1048,nG11,15.0,17.66,,,,,,,,,,,,,,,,,sand,,-3.4273501569,53.9654625519,30/07/2010
+1049,nG11,16.0,21.97,,,,,,,,,,,,,,,,,gravel,from 16.00 m to 16.25 m - rare angular fine to coarse gravel of microgabbro.,-3.4273501569,53.9654625519,30/07/2010
+1050,nG11,17.0,19.23,,,,,,,,,,,,,,,,,"gravel, sand",Very dark greyish brown slightly gravelly very silty SAND.  Sand is mainly fine,-3.4273501569,53.9654625519,30/07/2010
+1051,nG11,18.0,17.51,,,,,,,,,,,,,,,,,"gravel, sand",,-3.4273501569,53.9654625519,30/07/2010
+1052,nG11,19.0,18.1,,,,,,,,,,,,,,,,,"gravel, sand",,-3.4273501569,53.9654625519,30/07/2010
+1053,nG11,20.0,22.24,,,,,,,,,,,,,,,,,clay,from 20.00 m to 20.45 m - occasional laminae (<50mm) of clay,-3.4273501569,53.9654625519,30/07/2010
+1054,nG11,21.0,25.74,,,,,,CD,Reconstituted,2.73,,,,,,,30.5,,clay,from 21.00 m to 22.00 m - frequent laminae (<50mm) of clay.,-3.4273501569,53.9654625519,30/07/2010
+1055,nG11,22.0,29.54,,,,12.0,,,,,,,,,,,,,sand,Firm silt/fine sand. (CARDIGAN BAY - UPPER TILL - LAMINATED) [UNIT IIIa],-3.4273501569,53.9654625519,30/07/2010
+1056,nG11,23.0,24.06,2023.45,1605.5,69.0,54.0,128.0,CU,Undisturbed,,32.0,17.0,0.2099999999999999,15631.34,,,,,sand,,-3.4273501569,53.9654625519,30/07/2010
+1057,nG11,24.0,29.16,1814.48,1416.92,,24.0,14.0,UU,Remoulded,,,,0.2199999999999999,,,,,,sand,,-3.4273501569,53.9654625519,30/07/2010
+1058,nG11,25.0,30.22,1906.22,1498.47,,38.0,36.0,CU,Undisturbed,,38.0,19.0,0.2099999999999999,,,,,,sand,from 25.00 m to 27.10 m - firm,-3.4273501569,53.9654625519,30/07/2010
+1059,nG11,26.0,33.23,,,,12.0,,,,,,,,,,,,,sand,,-3.4273501569,53.9654625519,30/07/2010
+1060,nG11,27.0,26.28,,,,12.0,,,,,,,,,,,,,sand,Firm dark greyish brown slightly sandy locally sandy PPER TILL) [UNIT III],-3.4273501569,53.9654625519,30/07/2010
+1061,nG11,28.0,16.5,2191.64,1880.73,87.0,42.0,104.0,CU,Undisturbed,2.7,28.0,13.0,0.14,20604.37,,,,,gravel,from 28.00 m to 33.50 m - gravel is subangular to subrounded fine and medium.,-3.4273501569,53.9654625519,30/07/2010
+1062,nG11,29.0,14.74,2242.61,1946.99,,44.0,76.0,CU,Undisturbed,,,,0.13,,,,,,gravel,,-3.4273501569,53.9654625519,30/07/2010
+1063,nG11,30.0,13.82,,,,,,,,,,,,,,,,,gravel,from 30.00 m to 31.00 m - No recovery.,-3.4273501569,53.9654625519,30/07/2010
+1064,nG11,31.0,12.9,,,,104.0,,,,,27.0,15.0,,,,,,,sand,at 31.45 m - occasional pockets (<40mm) of light grey brown fine and medium sand.,-3.4273501569,53.9654625519,30/07/2010
+1065,nG11,32.0,14.59,,,,,,,,,,,,,,,,,sand,,-3.4273501569,53.9654625519,30/07/2010
+1066,nG11,33.0,13.5,,,,,,,,,,,,,,,,,"clay, gravel, sand",Very stiff high and very high strength very dark greyish brown slightly sandy sandy gravelly CLAY.  Sand is fine to coarse ogies including marl,-3.4273501569,53.9654625519,30/07/2010
+1067,nG11,33.5,12.4,,,,310.0,,,,,,,,,,,,,"clay, gravel, sand",,-3.4273501569,53.9654625519,30/07/2010
+1068,nG11,34.0,19.14,,,,,,,,,,,,,,,,,"clay, gravel, sand",from 34.50 m to 34.80 m - stiff and blue grey.,-3.4273501569,53.9654625519,30/07/2010
+1069,nG11,34.5,25.88,,,,121.0,,,,,,,,,,,,,"clay, gravel, sand",,-3.4273501569,53.9654625519,30/07/2010
+1070,nG11,35.0,24.26,,,,,,,,,,,,,,,,,"clay, sand",from 35.50 m to 40.00 m - occasional pockets (<55mm) of stiff blue grey slightly sandy clay,-3.4273501569,53.9654625519,30/07/2010
+1071,nG11,35.5,22.64,,,,308.0,,,,,,,,,,,,,"clay, sand",,-3.4273501569,53.9654625519,30/07/2010
+1072,nG11,36.0,23.1,,,,,,,,,,,,,,,,,"clay, sand",from 36.50 m to 40.00 m - frequent lenses (15-45mm) and randomly oriented veins of gypsum.,-3.4273501569,53.9654625519,30/07/2010
+1073,nG11,36.5,23.56,,,,317.0,,,,,,,,,,,,,"clay, sand",,-3.4273501569,53.9654625519,30/07/2010
+1074,nG11,37.0,23.01,,,,,,,,,,,,,,,,,"clay, sand",from 37.50 m to 40.00 m - becoming red brown with occasional blue grey mottles.,-3.4273501569,53.9654625519,30/07/2010
+1075,nG11,37.5,22.46,2283.38,1875.64,,266.0,246.0,UU,Undisturbed,,53.0,31.0,0.18,,,,,,"clay, sand",,-3.4273501569,53.9654625519,30/07/2010
+1076,nG11,38.5,22.77,2130.48,1732.93,219.0,190.0,128.0,CU,Undisturbed,,55.5,34.5,0.1899999999999999,27716.38,,,,,"clay, sand",,-3.4273501569,53.9654625519,30/07/2010
+1077,nG11,39.0,22.77,,,,,,,,,,,,,,,,,gravel,at 39.75 m - rare gravel.,-3.4273501569,53.9654625519,30/07/2010
+1078,nH06,0.0,27.43,,,,,,,,,29.0,8.0,,,,,,0.002,"clay, sand",Very soft dark greyish brown sandy CLAY,-3.4452584287,53.9925031847,08/08/2010
+1079,nH06,1.0,26.45,,,,,,,,,,,,,,,,,"clay, sand",,-3.4452584287,53.9925031847,08/08/2010
+1080,nH06,2.0,25.47,,,,,,,,,,,,,,,,,sand,at 2.00 m - becoming sandy to very sandy.,-3.4452584287,53.9925031847,08/08/2010
+1081,nH06,3.0,44.54,,,,,,,,,,,,,,,,0.002,sand,,-3.4452584287,53.9925031847,08/08/2010
+1082,nH06,4.0,23.17,,,,,,,,,,,,,,,,,sand,Dark grey silty SAND,-3.4452584287,53.9925031847,08/08/2010
+1083,nH06,5.0,23.98,,,,,,,,,,,,,,,,,sand,,-3.4452584287,53.9925031847,08/08/2010
+1084,nH06,6.0,20.64,,,,,,,,,,,,,,,,,sand,at 6.00 m - occasional thin laminae (<1mm) and lenses (15mm x 4mm) of dark grey black sand.  Sand is fine.,-3.4452584287,53.9925031847,08/08/2010
+1085,nH06,7.0,23.43,,,,,,,,,,,,,,,,,sand,,-3.4452584287,53.9925031847,08/08/2010
+1086,nH06,10.0,22.66,,,,,,,,,,,,,,,,,sand,Brown slightly silty SAND.  Sand is fine and medium.,-3.4452584287,53.9925031847,08/08/2010
+1087,nH06,11.0,21.89,,,,,,CD,Reconstituted,,,,,,,,39.5,0.002,sand,,-3.4452584287,53.9925031847,08/08/2010
+1088,nH06,12.0,23.81,,,,,,,,,,,,,,,,,sand,,-3.4452584287,53.9925031847,08/08/2010
+1089,nH06,13.0,23.29,,,,,,,,,,,,,,,,,sand,,-3.4452584287,53.9925031847,08/08/2010
+1090,nH06,16.0,20.91,,,,,,,,,,,,,,,,,sand,,-3.4452584287,53.9925031847,08/08/2010
+1091,nH06,17.0,25.99,,,,,,,,,,,,,,,,,"gravel, sand",Dark greyish brown slightly gravelly SAND BASAL DEPOSITS/CHAOTIC FACIES?) [UNIT IId],-3.4452584287,53.9925031847,08/08/2010
+1092,nH06,18.0,23.85,,,,,,,,,,,,,,,,,"gravel, sand",,-3.4452584287,53.9925031847,08/08/2010
+1093,nH06,19.0,26.17,,,,,,CD,Reconstituted,,,,,,,,35.5,0.002,"gravel, sand",,-3.4452584287,53.9925031847,08/08/2010
+1094,nH06,20.0,15.61,,,,,,,,,,,,,,,,,"clay, sand",Firm becoming stiff with depth thinly laminated greyish brown CLAY with extremely closely spaced laminae of silt/fine sand. (CARDIGAN BAY - UPPER TILL - LAMINATED) [UNIT IIIa],-3.4452584287,53.9925031847,08/08/2010
+1095,nH06,21.0,17.72,,,,117.0,,,,2.71,32.0,17.0,,,,,,0.002,"clay, sand",Stiff high strength becoming firm with depth thinly laminated sandy to very sandy CLAY with sand partings and frequent pockets of brown fine sand (<100mm).(CARDIGAN BAY - UPPER TILL - LAMINA TED) [UNIT IIIa],-3.4452584287,53.9925031847,08/08/2010
+1096,nH06,22.0,19.41,,,,54.0,,,,,,,,,,,,,"clay, sand",at 22.00 m - becoming firm.,-3.4452584287,53.9925031847,08/08/2010
+1097,nH06,23.0,21.91,2028.54,1692.15,,51.0,56.0,UU,Remoulded,,31.0,17.0,0.17,,,,,0.002,"clay, sand",Firm high strength laminated brown slightly sandy CLAY with extremely closely to very closely spaced thin laminae of light brown fine sand.  Sand is fine. (CARDIGAN BAY - UPPER TILL - LAMINA TED) [UNIT IIIa],-3.4452584287,53.9925031847,08/08/2010
+1098,nH06,24.0,19.75,,,,74.0,,,,,,,,,,,,,"clay, gravel, sand",Firm becoming stiff high to very high strength with depth brown slightly sandy slightly gravelly CLAY.  Sand is fine to coarse.  Gravel is subangular and subrounded fine of mixed lithologies . (CARDIGAN BAY - UPPER TILL) [UNIT III],-3.4452584287,53.9925031847,08/08/2010
+1099,nH06,25.0,17.19,,,,94.0,,,,,,,,,,,,,"clay, gravel, sand",,-3.4452584287,53.9925031847,08/08/2010
+1100,nH06,26.0,13.32,2150.87,1896.02,,140.0,147.0,UU,Undisturbed,,28.0,15.0,0.12,,,,,0.002,"clay, gravel, sand",,-3.4452584287,53.9925031847,08/08/2010
+1101,nH06,27.0,7.72,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",Extremely weak moderately weathered reddish brown slightly sandy calcareous MUDSTONE with some pockets (50mm x 60mm) of very weak blue gery mudstone/siltstone.  Locally weathered to a very s tiff  or hard reddish brown clay. (MERCIA MUDSTONE - WEATHERED MERCIA MUDSTONE) [UNIT IVa],-3.4452584287,53.9925031847,08/08/2010
+1102,nH06,27.5,11.0,,,,,,,,,,,,,1.0,95.0,,,"clay, gravel, mud, sand",,-3.4452584287,53.9925031847,08/08/2010
+1103,nH06,28.0,9.88,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",at 28.60 m - gypsum veins (up to 10mm thick).,-3.4452584287,53.9925031847,08/08/2010
+1104,nH06,28.5,8.76,,,,,,,,,,,,,,68.3,,,"clay, gravel, mud, sand",,-3.4452584287,53.9925031847,08/08/2010
+1105,nH06,29.0,7.64,,,,,,,,,,,,,,,,,clay,at 29.00 m - subhorizontal fracture planar slightly rough and infilled with soft reddish brown clay (<3mm).,-3.4452584287,53.9925031847,08/08/2010
+1106,nH06,31.0,6.52,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",from 31.70 m to 31.80 m - weak blue grey mudstone/siltstone.,-3.4452584287,53.9925031847,08/08/2010
+1107,nH06,31.5,5.4,,,,,,,,,,,,,57.0,58.3,,,"clay, gravel, mud, sand",,-3.4452584287,53.9925031847,08/08/2010
+1108,nH06,32.0,7.8,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",from 32.20 m to 32.45 m - firm brown clay with sand and gravel sized lithorelicts of very weak mudstone.  Highly weathered.,-3.4452584287,53.9925031847,08/08/2010
+1109,nH06,33.0,10.2,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",below 33.65 m - very weak to weak blue grey with occasional reddish brown mottling slightly weathered mudstone with occasional veins (<4mm) of gypsum.,-3.4452584287,53.9925031847,08/08/2010
+1110,nH06,34.0,12.6,,,,,,,,,,,,,,,,,mud,Very weak becoming weak with depth partially to moderately weathered dark reddish brown calcareous MUDSTONE with occasional gypsum veins (<8mm) inclined <5 to 45 degrees.  Fractures are very closely to medium spaced,-3.4452584287,53.9925031847,08/08/2010
+1111,nH06,34.5,15.0,,,,,,,,,,,,,1.8,53.7,,,mud,,-3.4452584287,53.9925031847,08/08/2010
+1112,nH06,37.0,11.8,,,,,,,,,,,,,,,,,mud,from 37.06 m to 37.50 m - extremely closely spaced fractures,-3.4452584287,53.9925031847,08/08/2010
+1113,nH06,37.5,8.6,,,,,,,,,,,,,5.3,68.3,,,mud,,-3.4452584287,53.9925031847,08/08/2010
+1114,nH06,39.0,8.6,,,,,,,,,,,,,,,,,"clay, gravel, mud, sand",from 39.00 m to 39.47 m - stiff clay with some sand and gravel sized lithorelicts of mudstone.,-3.4452584287,53.9925031847,08/08/2010
+1115,nJ12,0.0,40.39,,,,,,CD,Reconstituted,,,,,,,,31.5,0.002,"clay, sand",Very soft very dark grey becoming dark greyish brown with depth sandy CLAY R) [UNIT I],-3.3895060892,53.9674164753,28/07/2010
+1116,nJ12,1.0,34.35,,,,,,,,,,,,,,,,,"clay, sand",from 1.00 m to 2.00 m - Dark greyish brown,-3.3895060892,53.9674164753,28/07/2010
+1117,nJ12,2.0,29.68,1824.67,1437.31,,,,,,,,,0.2099999999999999,,,,,,sand,from 2.25 m to 2.50 m - Dark greyish brown silty fine to coarse Sand,-3.3895060892,53.9674164753,28/07/2010
+1118,nJ12,3.0,35.62,,,,,,,,,,,,,,,,,sand,,-3.3895060892,53.9674164753,28/07/2010
+1119,nJ12,4.0,19.23,,,,,,,,,,,,,,,,,sand,Greyish brown silty locally very silty SAND shell fragments.  Sand is mainly fine.   (WESTERN IRISH SEA PROGRADED SANDS - UPPER MEMBER) [UNIT IIa],-3.3895060892,53.9674164753,28/07/2010
+1120,nJ12,5.0,23.38,,,,,,,,,,,,,,,,,sand,,-3.3895060892,53.9674164753,28/07/2010
+1121,nJ12,6.0,23.82,,,,,,CD,Reconstituted,,,,,,,,41.5,0.002,sand,,-3.3895060892,53.9674164753,28/07/2010
+1122,nJ12,7.0,30.19,,,,,,,,,,,,,,,,,sand,,-3.3895060892,53.9674164753,28/07/2010
+1123,nJ12,8.0,24.14,,,,,,,,,,,,,,,,,sand,at 8.25 m - 1 No. thick laminae (<8mm) of black silty fine sand.,-3.3895060892,53.9674164753,28/07/2010
+1124,nJ12,9.0,24.13,,,,,,,,,,,,,,,,,sand,at 9.3 m - 1 No. pockets (<30mm) of black fine sand.,-3.3895060892,53.9674164753,28/07/2010
+1125,nJ12,10.0,20.29,,,,,,,,,,,,,,,,,sand,at 10.10 m - 1 No. thin laminae (2mm) of black fine sand.,-3.3895060892,53.9674164753,28/07/2010
+1126,nJ12,11.0,21.88,,,,,,,,,,,,,,,,,sand,from 11.10 m to 11.15 m - Occasional shell fragments (<25mm).,-3.3895060892,53.9674164753,28/07/2010
+1127,nJ12,12.0,21.69,,,,,,,,,,,,,,,,,sand,from 12.00 m to 12.25 m - fine and medium sand,-3.3895060892,53.9674164753,28/07/2010
+1128,nJ12,13.0,27.59,,,,,,,,2.64,,,,,,,,0.002,sand,at 13.15 m - 1 No. laminae (<8mm) of black fine sand,-3.3895060892,53.9674164753,28/07/2010
+1129,nJ12,14.0,25.3,,,,,,,,,,,,,,,,,sand,,-3.3895060892,53.9674164753,28/07/2010
+1130,nJ12,15.0,27.06,,,,,,,,,,,,,,,,,sand,from 15.00 m to 17.00 m - frequent laminae of black fine and medium sand.,-3.3895060892,53.9674164753,28/07/2010
+1131,nJ12,16.0,25.56,,,,,,,,,,,,,,,,,sand,,-3.3895060892,53.9674164753,28/07/2010
+1132,nJ12,17.0,25.15,,,,,,,,,,,,,,,,,sand,,-3.3895060892,53.9674164753,28/07/2010
+1133,nJ12,18.0,23.73,,,,,,,,,,,,,,,,,sand,,-3.3895060892,53.9674164753,28/07/2010
+1134,nJ12,19.0,16.79,,,,,,CD,Reconstituted,,,,,,,,33.5,0.002,sand,,-3.3895060892,53.9674164753,28/07/2010
+1135,nJ12,20.0,20.62,2150.87,1753.31,,54.0,132.0,CU,Undisturbed,,35.0,19.0,0.18,,,,,0.002,"clay, gravel, sand",from 20.00 m to 23.85 m - firm with rare laminae (<10mm) of fine and medium sand,-3.3895060892,53.9674164753,28/07/2010
+1136,nJ12,21.0,11.2,,,,84.0,,,,,,,,,,,,,"clay, gravel, sand",,-3.3895060892,53.9674164753,28/07/2010
+1137,nJ12,22.0,13.6,,,,108.0,,,,,,,,,,,,,"clay, gravel, sand",from 22.50 m to 22.70 m - very stiff.,-3.3895060892,53.9674164753,28/07/2010
+1138,nJ12,22.5,11.21,,,,417.0,,,,,,,,,,,,,"clay, gravel, sand",,-3.3895060892,53.9674164753,28/07/2010
+1139,nJ12,22.8,16.51,2334.35,2079.51,,404.0,295.0,UU,Remoulded,,28.0,13.0,0.1099999999999999,,,,,0.002,"clay, gravel, sand",,-3.3895060892,53.9674164753,28/07/2010
+1140,nJ12,23.8,22.21,2104.99,1709.99,200.0,337.0,123.0,CU,Undisturbed,,58.0,35.0,0.1899999999999999,17042.25,,,,0.002,"clay, gravel, sand",,-3.3895060892,53.9674164753,28/07/2010
+1141,nJ12,24.0,20.74,,,,,,,,,,,,,,,,,sand,from 24.65 m to 24.90 m - thinly interlaminated with silt.,-3.3895060892,53.9674164753,28/07/2010
+1142,nJ12,24.8,19.26,2048.93,1732.93,,,,,,2.75,,,0.15,,,,,0.002,sand,,-3.3895060892,53.9674164753,28/07/2010
+1143,nJ12,25.0,11.48,,,,,,,,,,,,,,,,,"clay, gravel, sand",from 25.70 m to 25.90 m - Becoming gravelly.  Gravel is angular to subrounded fine and medium of mixed lithologies.,-3.3895060892,53.9674164753,28/07/2010
+1144,nJ12,26.0,3.7,,,,,,,,,,,,,6.4,73.3,,,"clay, gravel, sand",Weak slightly to moderately weathered grey crystalline MICROGABBRO.  Fractures are closely spaced y wide,-3.3895060892,53.9674164753,28/07/2010
+1145,nJ12,27.0,3.9,,,,,,,,,,,,,,,,,sand,Weak and medium strong slightly weathered dark grey MICROGABBRO.  Fractures are medium spaced inclined at <5 - 40 degrees y discoloured surfaces.   (WEST OF DUDDON SANDS MICROGABBRO) [UNIT V],-3.3895060892,53.9674164753,28/07/2010
+1146,nJ12,27.5,4.1,,,,,,,,,,,,,1.8,100.0,,,sand,,-3.3895060892,53.9674164753,28/07/2010
+1147,nJ12,29.0,4.1,,,,,,,,,,,,,,90.7,,,sand,,-3.3895060892,53.9674164753,28/07/2010
+1148,nJ12,30.0,4.1,,,,,,,,,,,,,,,,,sand,from 30.95 m to 31.00 m - Non intact,-3.3895060892,53.9674164753,28/07/2010
+1149,nJ12,30.5,4.1,,,,,,,,,,,,,,93.3,,,sand,,-3.3895060892,53.9674164753,28/07/2010
